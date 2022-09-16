@@ -4,3 +4,7 @@
 
 layout: home
 ---
+
+Hello world
+
+{{ site.data.us.ca.police.los_angeles.cops[0] }}
