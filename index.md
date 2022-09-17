@@ -23,7 +23,7 @@ Look up LAPD officers by serial number.
     autocorrect="off"
     required="required"
     size=6
-    placeholder="54321"
+    placeholder="23506"
     pattern="\d{5}"
     list="lapd-serial-numbers"
   />
