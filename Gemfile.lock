@@ -34,8 +34,6 @@ GEM
       terminal-table (~> 2.0)
     jekyll-autoprefixer (1.0.2)
       autoprefixer-rails (~> 9.3)
-    jekyll-feed (0.16.0)
-      jekyll (>= 3.7, < 5.0)
     jekyll-remote-theme (0.4.3)
       addressable (~> 2.0)
       jekyll (>= 3.5, < 5.0)
@@ -82,7 +80,6 @@ PLATFORMS
 DEPENDENCIES
   jekyll
   jekyll-autoprefixer
-  jekyll-feed
   jekyll-remote-theme
   mini_racer
   tzinfo

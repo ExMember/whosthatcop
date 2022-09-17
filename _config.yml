@@ -8,8 +8,7 @@ twitter_username: exmember
 github_username: exmember
 
 plugins:
-  - jekyll-feed
-  - jekyll-remote-theme
   - jekyll-autoprefixer
+  - jekyll-remote-theme
 
 remote_theme: 18F/uswds-jekyll
