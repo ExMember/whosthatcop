@@ -1,0 +1,43 @@
+primary:
+  # - text: Section 1
+  #   href: /example
+  # - text: Other Site
+  #   href: https://example.com
+  #   external: true
+  # - text: Navigation section
+  #   links:
+  #     - text: Demo link A
+  #       href: /two/a/
+  #     - text: Demo link B
+  #       href: /two/b/
+
+secondary:
+  - text: GitHub
+    href: https://github.com/ExMember/whosthatcop
+    external: true
+  # - text: Documentation
+  #   href: /docs/
+
+docs:
+  - text: Sidenav Documentation
+    href: /docs/
+  - text: Sidenav Navigation section
+    links:
+      - text: Demo link A
+        href: /two/a/
+      - text: Demo link B
+        href: /two/b/
+      - text: Demo link C
+        href: /two/c/
+  - text: Sidenav Referenced section
+    links: footer
+  - text: Sidenav External link
+    href: https://18f.gsa.gov
+    external: true
+
+footer:
+  # - text: Section 1
+  #   href: /example
+  # - text: Other Site
+  #   href: https://example.com
+  #   external: true

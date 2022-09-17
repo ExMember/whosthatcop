@@ -1,5 +1,5 @@
-title: Who's That Cop
-# email: your-email@example.com
+title: Who's That Cop?
+email: damien@damienburke.com
 description: >- 
   Look up LAPD officers. Inspired by @whosthatcop on Twitter.
 baseurl: "" # the subpath of your site, e.g. /blog

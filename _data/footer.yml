@@ -1,0 +1,54 @@
+# This is the configuration for the site footer.
+
+# Configuration for type of footer.
+# Footer types can be 'slim', 'default', or 'big'.
+# https://designsystem.digital.gov/components/footers/
+type: medium
+
+# Configuration for which links show at the top of the footer.
+# this is a key into _data/navigation.yml
+links: primary
+
+# Configuration for footer heading. (optional)
+# heading: 
+
+# Configuration for agency logo(s) (shown side by side).
+# If the logo is external add external: true
+# logos:
+#   - src: /images/logo.png
+#     alt: Who's That Cop?
+
+# Configuration for footer contact links
+contact:
+# Configuration for social media links
+# Comment out links you don't want to use (RSS is an example)
+  social_links:
+    - text: Twitter
+      href: https://twitter.com/exmember
+      external: true
+      type: twitter
+    - text: GitHub
+      href: https://github.com/exmember
+      external: true
+      type: github
+    - text: LinkedIn
+      href: https://www.linkedin.com/in/damienburke/
+      external: true
+      type: linkedin
+    # - text: Facebook
+    #   href: https://facebook.com
+    #   external: true
+    #   type: facebook
+    # - text: YouTube
+    #   href: https://youtube.com
+    #   external: true
+    #   type: youtube
+    # - text: RSS Feed
+    #   href: https://usa.gov/
+    #   external: true
+    #   type: rss
+  heading: Contact
+# Configuration for contact links for email, phone, etc...
+  contact_links:
+    - text: damien@damienburke.com
+      href: mailto:damien@damienburke.com
