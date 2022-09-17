@@ -19,7 +19,7 @@ module LosAngelesPolice
 
   class CopPage < Jekyll::PageWithoutAFile
     def initialize(site, cop)
-      @data = cop
+      @data = cop.merge('layout' => 'page')
       @content = page_template
 
       super(site, __dir__, '', filename)
