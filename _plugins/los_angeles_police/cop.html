@@ -1,1 +1,44 @@
-A page about this cop: {{ page }}
+<table class="usa-table usa-table--stacked usa-table--borderless">
+  <tbody>
+    <tr>
+      <th scope="row">
+        Serial number
+      </th>
+      <td>
+        {{ page['SerialNo'] }}
+      </td>
+    </tr>
+    <tr>
+      <th scope="row">
+        Rank
+      </th>
+      <td>
+        {{ page['RankTile'] }}
+      </td>
+    </tr>
+    <tr>
+      <th scope="row">
+        Area
+      </th>
+      <td>
+        {{ page['Area'] }}
+      </td>
+    </tr>
+    <tr>
+      <th scope="row">
+        Sex
+      </th>
+      <td>
+        {{ page['Sex'] }}
+      </td>
+    </tr>
+    <tr>
+      <th scope="row">
+        Ethnicity
+      </th>
+      <td>
+        {{ page['Ethnicity'] }}
+      </td>
+    </tr>
+  </tbody>
+</table>
