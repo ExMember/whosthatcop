@@ -42,7 +42,7 @@ me any public-available rosters and I will add them to the site.
 
 ## Acknowledgements
 
-[Andrian Riskin](https://chez-risk.in) is responsible for making the LAPD roster
+[Adrian Riskin](https://chez-risk.in) is responsible for making the LAPD roster
 available to the public. He is a pioneer in records-based journalism.
 
 [NN](https://twitter.com/NN35007) built the original [WhosThatCop Twitter
