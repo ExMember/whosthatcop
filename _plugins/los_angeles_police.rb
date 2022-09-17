@@ -2,14 +2,18 @@
 
 module LosAngelesPolice
   class Generator < Jekyll::Generator
+    attr_accessor :site
+
     def generate(site)
       @site = site
-
-      cops = site.data['us']['ca']['police']['los_angeles']['cops']
 
       cops.each do |cop|
         site.pages << CopPage.new(site, cop)
       end
+    end
+
+    def cops
+      site.data['us']['ca']['police']['los_angeles']['cops']
     end
   end
 
