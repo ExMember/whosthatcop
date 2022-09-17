@@ -1,3 +1,5 @@
+# frozen_string_literal: true
+
 module LosAngelesPolice
   class Generator < Jekyll::Generator
     def generate(site)
