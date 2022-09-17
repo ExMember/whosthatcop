@@ -5,6 +5,36 @@
 layout: home
 ---
 
-Hello world
+# LAPD
 
-{{ site.data.us.ca.police.los_angeles.cops[0] }}
+Look up LAPD officers by serial number.
+
+<form id='lapdSearch' class="usa-form">
+  <legend class="usa-legend usa-legend--large">
+  </legend>
+  <label class="usa-label" for="serial-number">Serial number</label>
+  <input
+    class="usa-input"
+    id="serial-number"
+    name="serial-number"
+    type="text"
+    autocomplete="off"
+    autocapitalize="off"
+    autocorrect="off"
+    required="required"
+    size=6
+  />
+  <input class="usa-button" type="submit" value="Find Officer" />
+</form>
+
+<script>
+function findLapdCop(event) {
+  event.preventDefault()
+  const serialNumber = event.target.querySelector('#serial-number').value
+  const path = `/us/ca/police/los_angeles/${serialNumber}`
+  window.location.assign(path)
+}
+
+const form = document.getElementById('lapdSearch')
+form.addEventListener('submit', findLapdCop)
+</script>
