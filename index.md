@@ -10,8 +10,6 @@ layout: home
 Look up LAPD officers by serial number.
 
 <form id='lapdSearch' class="usa-form">
-  <legend class="usa-legend usa-legend--large">
-  </legend>
   <label class="usa-label" for="serial-number">Serial number (5 digits)</label>
   <input
     class="usa-input"
@@ -33,6 +31,16 @@ Look up LAPD officers by serial number.
       <option value="{{ cop['SerialNo'] }}"/>
     {% endfor %}
   </datalist>
+
+  <noscript>
+    <div class="usa-alert usa-alert--error usa-alert--slim">
+      <div class="usa-alert__body">
+        <p class="usa-alert__text">
+          Enable JavaScript to use search.
+        </p>
+      </div>
+    </div>
+  </noscript>
 
   <input class="usa-button" type="submit" value="Find Officer" />
 </form>
