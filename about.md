@@ -51,6 +51,24 @@ So on September 16, 2022,
 I started building
 [WhosThatCop.org](https://whosthatcop.org).
 
+## Contribute
+
+Contributions,
+bug reports, and
+feature requests
+are very welcome.
+
+I am
+especially interested
+in expanding
+to include
+other policing agencies.
+Send me
+any publicly-available rosters
+and I will
+add them
+to the site.
+
 ## Acknowledgements
 
 The website
@@ -73,3 +91,9 @@ on [GitHub Pages](http://pages.github.com) and
 built with [Jekyll](https://jekyllrb.com).
 The design uses
 the [U.S. Web Design System (USWDS)](https://designsystem.digital.gov).
+
+The website is
+[open-source](https://github.com/ExMember/whosthatcop)
+and distributed
+under the terms
+of the [Hippocratic License.](https://firstdonoharm.dev/version/3/0/cl-eco-extr-law-sv-usta.html)

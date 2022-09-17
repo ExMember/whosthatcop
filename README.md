@@ -38,7 +38,7 @@ their serial number.
 Contributions, issues, and feature requests are welcome!
 
 I am especially interested in expanding to include other policing agencies. Send
-me any public-available rosters and I will add them to the site.
+me any publicly-available rosters and I will add them to the site.
 
 ## Acknowledgements
 
