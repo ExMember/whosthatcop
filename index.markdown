@@ -12,7 +12,7 @@ Look up LAPD officers by serial number.
 <form id='lapdSearch' class="usa-form">
   <legend class="usa-legend usa-legend--large">
   </legend>
-  <label class="usa-label" for="serial-number">Serial number</label>
+  <label class="usa-label" for="serial-number">Serial number (5 digits)</label>
   <input
     class="usa-input"
     id="serial-number"
@@ -23,6 +23,8 @@ Look up LAPD officers by serial number.
     autocorrect="off"
     required="required"
     size=6
+    placeholder="54321"
+    pattern="\d{5}"
   />
   <input class="usa-button" type="submit" value="Find Officer" />
 </form>
