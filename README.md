@@ -3,6 +3,7 @@
 Look up LAPD officers
 
 [![Deploy](https://github.com/ExMember/whosthatcop/actions/workflows/pages.yml/badge.svg)](https://github.com/ExMember/whosthatcop/actions/workflows/pages.yml)
+[![Hippocratic License HL3-CL-ECO-EXTR-LAW-SV-USTA](https://img.shields.io/static/v1?label=Hippocratic%20License&message=HL3-CL-ECO-EXTR-LAW-SV-USTA&labelColor=5e2751&color=bc8c3d)](https://firstdonoharm.dev/version/3/0/cl-eco-extr-law-sv-usta.html)
 
 ## How to use
 
@@ -60,4 +61,6 @@ Damien Burke
 
 ## License
 
-Copyright © 2022 [Damien Burke](https://github.com/exmember).
+Copyright © 2022 [Damien Burke](https://github.com/exmember)
+
+Licensed under the terms of the [Hippocratic License 3.0.](LICENSE.md)
