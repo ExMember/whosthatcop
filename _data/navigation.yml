@@ -12,11 +12,11 @@ primary:
   #       href: /two/b/
 
 secondary:
-  - text: GitHub
-    href: https://github.com/ExMember/whosthatcop
-    external: true
-  # - text: Documentation
-  #   href: /docs/
+  # - text: GitHub
+  #   href: https://github.com/ExMember/whosthatcop
+  #   external: true
+  - text: About
+    href: /about/
 
 docs:
   - text: Sidenav Documentation
