@@ -25,7 +25,15 @@ Look up LAPD officers by serial number.
     size=6
     placeholder="54321"
     pattern="\d{5}"
+    list="lapd-serial-numbers"
   />
+
+  <datalist id="lapd-serial-numbers">
+    {% for cop in site.data['us']['ca']['police']['los_angeles']['cops'] %}
+      <option value="{{ cop['SerialNo'] }}"/>
+    {% endfor %}
+  </datalist>
+
   <input class="usa-button" type="submit" value="Find Officer" />
 </form>
 
