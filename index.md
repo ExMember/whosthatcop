@@ -29,6 +29,10 @@ layout: home
     </div>
   </noscript>
 
+  <div id="not-found-error" class="usa-alert usa-alert--error display-none">
+    <div class="usa-alert__body">
+      <p class="error usa-alert__text">
+        Unknown serial number
       </p>
     </div>
   </div>
@@ -62,19 +66,29 @@ layout: home
   const form = document.getElementById('lapdSearch')
   const serialNumberField = form.querySelector('input#serial-number')
   const validationAlert = document.getElementById('validation-alert')
+  const notFoundError = document.getElementById('not-found-error')
   const searchButton = form.querySelector('input[type="submit"]')
+
+  const knownSerialNumbers =
+    Array.from(document.getElementById('lapd-serial-numbers').options)
+    .map(option => option.value)
 
   function findLapdCop(event) {
     event.preventDefault()
 
-    if (serialNumberField.validity.valid) {
-      const serialNumber = event.target.querySelector('#serial-number').value
+    const serialNumber = event.target.querySelector('#serial-number').value
+
+    if (knownSerialNumbers.includes(serialNumber)) {
       const path = `/us/ca/police/los_angeles/${serialNumber}`
       window.location.assign(path)
+    } else {
+      notFoundError.classList.remove('display-none')
     }
   }
 
   function validateSerialNumber(event) {
+    notFoundError.classList.add('display-none')
+
     if (serialNumberField.validity.valid) {
       validationAlert.classList.replace('usa-alert--info', 'usa-alert--success')
       searchButton.disabled = false
