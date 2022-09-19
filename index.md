@@ -14,7 +14,21 @@ layout: home
   <div id="validation-alert" class="usa-alert usa-alert--info usa-alert--slim">
     <div class="usa-alert__body">
       <p class="error usa-alert__text" aria-live="polite">
-        Serial numbers are 5 digits
+        Serial numbers are 5 digits.
+      </p>
+    </div>
+  </div>
+
+  <noscript>
+    <div class="usa-alert usa-alert--error usa-alert--slim">
+      <div class="usa-alert__body">
+        <p class="usa-alert__text">
+          Enable JavaScript to use search.
+        </p>
+      </div>
+    </div>
+  </noscript>
+
       </p>
     </div>
   </div>
@@ -40,16 +54,6 @@ layout: home
       <option value="{{ cop['SerialNo'] }}"/>
     {% endfor %}
   </datalist>
-
-  <noscript>
-    <div class="usa-alert usa-alert--error usa-alert--slim">
-      <div class="usa-alert__body">
-        <p class="usa-alert__text">
-          Enable JavaScript to use search.
-        </p>
-      </div>
-    </div>
-  </noscript>
 
   <input class="usa-button" type="submit" disabled value="Find Officer" />
 </form>
