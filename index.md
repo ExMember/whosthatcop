@@ -54,7 +54,7 @@ layout: home
   />
 
   <datalist id="lapd-serial-numbers">
-    {% for cop in site.data['us']['ca']['police']['los_angeles']['cops'] %}
+    {% for cop in site.data['us']['ca']['police']['los_angeles']['roster-2022-08-20'] %}
       <option value="{{ cop['SerialNo'] }}"/>
     {% endfor %}
   </datalist>

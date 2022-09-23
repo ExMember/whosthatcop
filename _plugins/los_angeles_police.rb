@@ -13,7 +13,7 @@ module LosAngelesPolice
     end
 
     def cops
-      site.data['us']['ca']['police']['los_angeles']['cops']
+      site.data['us']['ca']['police']['los_angeles']['roster-2022-08-20']
     end
   end
 
