@@ -1,0 +1,4 @@
+department_id,unique_internal_identifier,last_name,first_name,middle_initial,gender,race
+{% for cop in site.data['us']['ca']['police']['los_angeles']['roster-2022-08-20'] -%}
+{{ cop['open_oversight_department_id'] }},{{ cop['SerialNo'] }},{{ cop['last_name'] }},{{ cop['first_name'] }},{{ cop['middle_initial'] }},{{ cop['open_oversight_gender'] }},{{ cop['open_oversight_race'] }}
+{% endfor -%}
