@@ -6,7 +6,7 @@ module LosAngelesPolice
 
     def generate(site)
       @site = site
-      deriveNames
+      derive_names
 
       cops.each do |cop|
         site.pages << CopPage.new(site, cop)
@@ -19,9 +19,9 @@ module LosAngelesPolice
       site.data['us']['ca']['police']['los_angeles']['roster-2022-08-20']
     end
 
-    def deriveNames
+    def derive_names
       cops.each do |cop|
-        names = splitNames(cop['EmployeeName'])
+        names = split_names(cop['EmployeeName'])
 
         cop['last_name'] = names[:last_name]
         cop['first_name'] = names[:first_name]
@@ -29,7 +29,7 @@ module LosAngelesPolice
       end
     end
 
-    def splitNames(name)
+    def split_names(name)
       middle_initial = ''
       last_name, first_name = name.split(', ')
 
@@ -93,14 +93,14 @@ module LosAngelesPolice
       @cops = cops
       site.data['us']['ca']['police']['los_angeles']['open_oversight_data'] =
         cops.map do |cop|
-          copData(cop)
+          cop_data(cop)
         end
 
       @content = page_template
       super(site, __dir__, '', filename)
     end
 
-    def copData(cop)
+    def cop_data(cop)
       raise "Unknown gender #{cop['Sex']}" if GENDER_MAP[cop['Sex']].nil?
       raise "Unknown race #{cop['Ethnicity']}" if RACE_MAP[cop['Ethnicity']].nil?
 
