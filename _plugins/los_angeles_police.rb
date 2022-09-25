@@ -1,55 +1,31 @@
 # frozen_string_literal: true
 
 module LosAngelesPolice
-  OPEN_OVERSIGHT_DEPARTMENT_ID = '3'
-  OPEN_OVERSIGHT_GENDER_MAP = {
-    'MALE' => 'M',
-    'FEMALE' => 'F',
-    'NONBINNARY' => 'Other' # [sic] misspelled in roster
-  }.freeze
-  OPEN_OVERSIGHT_RACE_MAP = {
-    'ASIAN/PAC' => 'Not Sure', # could be Asian, could be Pacific Islander
-    'AMERIIND' => 'NATIVE AMERICAN',
-    'BLACK' => 'BLACK',
-    'CAUCASIAN' => 'WHITE',
-    'FILIPINO' => 'Other',
-    'HISPANIC' => 'HISPANIC',
-    'OTHER' => 'Other'
-  }.freeze
-
   class Generator < Jekyll::Generator
     attr_accessor :site
 
     def generate(site)
       @site = site
-
-      deriveData
+      deriveNames
 
       cops.each do |cop|
         site.pages << CopPage.new(site, cop)
       end
 
-      site.pages << OpenInsightCsv.new(site)
+      site.pages << OpenInsightCsv.new(site, cops)
     end
 
     def cops
       site.data['us']['ca']['police']['los_angeles']['roster-2022-08-20']
     end
 
-    def deriveData
+    def deriveNames
       cops.each do |cop|
-        cop['open_oversight_department_id'] = OPEN_OVERSIGHT_DEPARTMENT_ID
-
         names = splitNames(cop['EmployeeName'])
+
         cop['last_name'] = names[:last_name]
         cop['first_name'] = names[:first_name]
         cop['middle_initial'] = names[:middle_initial]
-
-        cop['open_oversight_gender'] = OPEN_OVERSIGHT_GENDER_MAP[cop['Sex']]
-        raise "Unknown gender #{cop['Sex']}" if cop['open_oversight_gender'].nil?
-
-        cop['open_oversight_race'] = OPEN_OVERSIGHT_RACE_MAP[cop['Ethnicity']]
-        raise "Unknown race #{cop['Ethnicity']}" if cop['open_oversight_race'].nil?
       end
     end
 
@@ -95,14 +71,52 @@ module LosAngelesPolice
   end
 
   class OpenInsightCsv < Jekyll::PageWithoutAFile
-    def initialize(site)
-      @content = page_template
+    DEPARTMENT_ID = '3'
+    GENDER_MAP = {
+      'MALE' => 'M',
+      'FEMALE' => 'F',
+      'NONBINNARY' => 'Other' # [sic] misspelled in roster
+    }.freeze
+    RACE_MAP = {
+      'ASIAN/PAC' => 'Not Sure', # could be Asian, could be Pacific Islander
+      'AMERIIND' => 'NATIVE AMERICAN',
+      'BLACK' => 'BLACK',
+      'CAUCASIAN' => 'WHITE',
+      'FILIPINO' => 'Other',
+      'HISPANIC' => 'HISPANIC',
+      'OTHER' => 'Other'
+    }.freeze
 
+    attr_accessor :cops
+
+    def initialize(site, cops)
+      @cops = cops
+      site.data['us']['ca']['police']['los_angeles']['open_oversight_data'] =
+        cops.map do |cop|
+          copData(cop)
+        end
+
+      @content = page_template
       super(site, __dir__, '', filename)
     end
 
+    def copData(cop)
+      raise "Unknown gender #{cop['Sex']}" if GENDER_MAP[cop['Sex']].nil?
+      raise "Unknown race #{cop['Ethnicity']}" if RACE_MAP[cop['Ethnicity']].nil?
+
+      {
+        'department_id' => DEPARTMENT_ID,
+        'unique_internal_identifier' => cop['SerialNo'],
+        'last_name' => cop['last_name'],
+        'first_name' => cop['first_name'],
+        'middle_initial' => cop['middle_initial'],
+        'gender' => GENDER_MAP[cop['Sex']],
+        'race' => RACE_MAP[cop['Ethnicity']],
+      }
+    end
+
     def filename
-      "us/ca/police/los_angeles/open_oversight.csv"
+      'us/ca/police/los_angeles/open_oversight.csv'
     end
 
     def page_template
