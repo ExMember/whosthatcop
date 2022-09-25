@@ -56,6 +56,10 @@ available off of Twitter.
 
 [USWDS](https://designsystem.digital.gov)
 
+## Related projects
+
+[Open Oversight](https://openoversight.lucyparsonslabs.com)
+
 ## Author
 
 Damien Burke
