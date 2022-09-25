@@ -38,11 +38,7 @@ module LosAngelesPolice
         middle_initial = Regexp.last_match[2]
       end
 
-      {
-        last_name: last_name,
-        first_name: first_name,
-        middle_initial: middle_initial,
-      }
+      { last_name:, first_name:, middle_initial: }
     end
   end
 
