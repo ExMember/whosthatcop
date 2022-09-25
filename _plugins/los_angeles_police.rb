@@ -67,7 +67,7 @@ module LosAngelesPolice
   end
 
   class OpenInsightCsv < Jekyll::PageWithoutAFile
-    DEPARTMENT_ID = '3'
+    DEPARTMENT_ID = '19'
     GENDER_MAP = {
       'MALE' => 'M',
       'FEMALE' => 'F',
