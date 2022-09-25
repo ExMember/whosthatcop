@@ -9,16 +9,8 @@ layout: home
 
 <form id='lapdSearch' novalidate class="usa-form">
   <legend class="usa-legend">
-    Look up LAPD officers by serial number.
+    Get information about LAPD officers.
   </legend>
-  <div id="validation-alert" class="usa-alert usa-alert--info usa-alert--slim">
-    <div class="usa-alert__body">
-      <p class="error usa-alert__text" aria-live="polite">
-        Serial numbers are 5 digits.
-      </p>
-    </div>
-  </div>
-
   <noscript>
     <div class="usa-alert usa-alert--error usa-alert--slim">
       <div class="usa-alert__body">
@@ -36,7 +28,7 @@ layout: home
       </p>
     </div>
   </div>
-  <label class="usa-label" for="serial-number">Serial number</label>
+  <label class="usa-label" for="serial-number">Choose officer</label>
   <input
     class="usa-input"
     id="serial-number"
@@ -48,24 +40,23 @@ layout: home
     autofocus="true"
     required="required"
     size=6
-    placeholder="23506"
+    placeholder="Moore, Michel R"
     pattern="\d{5}"
     list="lapd-serial-numbers"
   />
 
   <datalist id="lapd-serial-numbers">
     {% for cop in site.data['us']['ca']['police']['los_angeles']['roster-2022-08-20'] %}
-      <option value="{{ cop['SerialNo'] }}"/>
+      <option value="{{ cop['SerialNo'] }}" label="{{ cop['EmployeeName'] }}"/>
     {% endfor %}
   </datalist>
 
-  <input class="usa-button" type="submit" disabled value="Find Officer" />
+  <input class="usa-button" type="submit" disabled value="See info" />
 </form>
 
 <script>
   const form = document.getElementById('lapdSearch')
   const serialNumberField = form.querySelector('input#serial-number')
-  const validationAlert = document.getElementById('validation-alert')
   const notFoundError = document.getElementById('not-found-error')
   const searchButton = form.querySelector('input[type="submit"]')
 
@@ -90,10 +81,8 @@ layout: home
     notFoundError.classList.add('display-none')
 
     if (serialNumberField.validity.valid) {
-      validationAlert.classList.replace('usa-alert--info', 'usa-alert--success')
       searchButton.disabled = false
     } else {
-      validationAlert.classList.replace('usa-alert--success', 'usa-alert--info')
       searchButton.disabled = true
     }
   }
