@@ -4,9 +4,38 @@ module LosAngelesPolice
   class Generator < Jekyll::Generator
     attr_accessor :site
 
+    RANK_MAP = {
+      'COP' => 'CHIEF OF POLICE',
+      'AC' => 'ASSITANT CHIEF',
+      # 'DEP CHF' => 'POLICE DEPUTY CHIEF II',
+      # 'DEP CHF' => 'POLICE DEPUTY CHIEF I',
+      'DEP CHF' => 'POLICE DEPUTY CHIEF', # Roster doesn't distinguish between I and II
+      'MSGT' => 'MUNICIPAL POLICE SERGEANT',
+      'CMDR' => 'POLICE COMMANDER',
+      # 'MCAPT 2' => 'MUNICIPAL POLICE CAPTAIN II',
+      'MCAPT 1' => 'MUNICIPAL POLICE CAPTAIN I',
+      'CAPT 3' => 'POLICE CAPTAIN III',
+      'CAPT 2' => 'POLICE CAPTAIN II',
+      'CAPT 1' => 'POLICE CAPTAIN I',
+      'LT 2' => 'POLICE LIEUTENANT II',
+      'LT 1' => 'POLICE LIEUTENANT I',
+      'DET 3' => 'POLICE DETECTIVE III',
+      'DET 2' => 'POLICE DETECTIVE II',
+      'DET 1' => 'POLICE DETECTIVE I',
+      'SGT 2' => 'POLICE SERGEANT II',
+      'SGT 1' => 'POLICE SERGEANT I',
+      # 'MPO' => 'MUNICIPAL POLICE OFFICER III',
+      'PO 3' => 'POLICE OFFICER III',
+      'PO 2' => 'POLICE OFFICER II',
+      'PO 1' => 'POLICE OFFICER I',
+      'PO SPEC' => 'POLICE SPECIALIST',
+      'MPO' => 'MPO', # Unknown
+    }.freeze
+
     def generate(site)
       @site = site
       derive_names
+      derive_rank
 
       cops.each do |cop|
         site.pages << CopPage.new(site, cop)
@@ -26,6 +55,14 @@ module LosAngelesPolice
         cop['last_name'] = names[:last_name]
         cop['first_name'] = names[:first_name]
         cop['middle_initial'] = names[:middle_initial]
+      end
+    end
+
+    def derive_rank
+      cops.each do |cop|
+        raise "Unknown rank #{cop['RankTile']}" if RANK_MAP[cop['RankTile']].nil?
+
+        cop['rank'] = RANK_MAP[cop['RankTile']]
       end
     end
 
