@@ -32,10 +32,107 @@ module LosAngelesPolice
       'MPO' => 'MPO', # Unknown
     }.freeze
 
+    # Area definitions from https://cityfone.lacity.org/verity/department_directory/p030pol.pdf
+    AREA_MAP = {
+      '77TH' => '77TH STREET AREA',
+      'AD' => 'AUDIT DIVISION',
+      'ADSD' => 'APPLICATION DEVELOPMENT AND SUPPORT DIVISION',
+      'ASB' => 'ADMINISTRATIVE SERVICES BUREAU',
+      'ASD' => 'AIR SUPPORT DIVISION',
+      'BSS' => 'BEHAVIORAL SCIENCE SERVICES',
+      'CB' => 'CB', # Unknown
+      'CCD' => 'COMMERCIAL CRIMES DIVISION',
+      'CENT' => 'CENTRAL AREA',
+      'CID' => 'COMMISSION INVESTIGATION DIVISION',
+      'CIRD' => 'CRITICAL INCIDENT REVIEW DIVISION',
+      'COMM' => 'COMM', # Unknown
+      'COS' => 'CHIEF OF STAFF',
+      'CP' => 'CP', # Unknown
+      'CSD' => 'CUSTODY SERVICES DIVISION',
+      'CSPB' => 'CSPB', # Unknown
+      'CST' => 'COMPSTAT DIVISION',
+      'CTD' => 'CENTRAL TRAFFIC DIVISION',
+      'CTSOB' => 'COUNTER-TERRORISM & SPECIAL OPERATIONS BUREAU',
+      'DB' => 'DETECTIVE BUREAU',
+      'DEID' => 'DIVERSITY, EQUITY, AND INCLUSION DIVISION',
+      'DEIG' => 'DIVERSITY, EQUITY, AND INCLUSION GROUP',
+      'DEV' => 'DEVONSHIRE AREA',
+      'DSG' => 'DSG', # Unknown
+      'DSVD' => 'DETECTIVE SUPPORT AND VICE DIVISION',
+      'ECCCSD' => 'EMERGENCY COMMAND CONTROL COMMUNICATIONS SYSTEM DIVISION',
+      'EPMD' => 'EPMD', # Unknown
+      'ERG' => 'EMPLOYEE RELATIONS GROUP',
+      'ESD' => 'EMERGENCY SERVICES DIVISION',
+      'FID' => 'FORCE INVESTIGATION DIVISION',
+      'FMD' => 'FACILITIES MANAGEMENT DIVISION',
+      'FSD' => 'FORENSIC SCIENCE DIVISION',
+      'FTHL' => 'FOOTHILL AREA',
+      'GND' => 'GANG AND NARCOTICS DIVISION',
+      'HARB' => 'HARBOR AREA',
+      'HOBK' => 'HOLLENBECK AREA',
+      'HWD' => 'HOLLYWOOD AREA',
+      'IMD' => 'INNOVATION MANAGEMENT DIVISION',
+      'IAD' => 'IAD', # Unknown. Likely Internal Affairs Division/Group
+      'IG' => 'IG', # Unknown. Likely Office of the Inspector General
+      'ITB' => 'INFORMATION TECHNOLOGY BUREAU',
+      'ITD' => 'INFORMATION TECHNOLOGY DIVISION',
+      'JUV' => 'JUVENILE DIVISION',
+      'MCD' => 'MAJOR CRIMES DIVISION',
+      'METRO' => 'METROPOLITAN DIVISION',
+      'MISN' => 'MISSION AREA',
+      'MRD' => 'MEDIA RELATIONS DIVISION',
+      'NE' => 'NORTHEAST AREA',
+      'NEWT' => 'NEWTON AREA',
+      'NHWD' => 'NORTH HOLLYWOOD AREA',
+      'OCPP' => 'OFFICE OF CONSTITUTIONAL POLICING AND POLICY',
+      'OLYM' => 'OLYMPIC AREA',
+      'OO' => 'OFFICE OF OPERATIONS',
+      'OSO' => 'OFFICE OF SPECIAL OPERATIONS',
+      'OSS' => 'OFFICE OF SUPPORT SERVICES',
+      'PAC' => 'PACIFIC AREA',
+      'PAC-LAX' => 'PACIFIC AREA LAX Substation',
+      'PC' => 'PC', # Unknown. Likely Public Communications Group
+      'PCG' => 'PUBLIC COMMUNICATIONS GROUP',
+      'PER' => 'PERSONNEL DIVISION',
+      'PER-M' => 'PERSONNEL DIVISION Medical Liaison Section', # Uncertain
+      'PER-RW' => 'PERSONNEL DIVISION Return to Work Section', # Uncertain
+      'PSB' => 'PROFESSIONAL STANDARDS BUREAU',
+      'PTE' => 'POLICE TRAINING AND EDUCATION',
+      'RAMP' => 'RAMPART AREA',
+      'RED' => 'RECRUITMENT AND EMPLOYMENT DIVISION',
+      'RHD' => 'ROBBERY-HOMICIDE DIVISION',
+      'RMLAD' => 'RISK MANAGEMENT AND LEGAL AFFAIRS DIVISION',
+      'SB' => 'SB', # Unknown. Possibly South Bureau
+      'SBHD' => 'SBHD', # Unknown. Likely South Bureau Homicide Division
+      'SE' => 'SOUTHEAST AREA',
+      'SECSD' => 'SECURITY SERVICES DIVISION',
+      'SOD' => 'SPECIAL OPERATIONS DIVISION',
+      'SSG' => 'SSG', # Unknown
+      'STD' => 'SOUTH TRAFFIC DIVISION',
+      'SW' => 'SOUTHWEST AREA',
+      'TD' => 'TRAINING DIVISION',
+      'TD-REC' => 'TD-REC', # Unknown
+      'TOP' => 'TOPANGA AREA',
+      'TRB' => 'TRB', # Unknown
+      'TRFG' => 'TRAFFIC GROUP',
+      'TRSG' => 'TRANSIT SERVICES GROUP',
+      'TSB' => 'TRANSIT SERVICES BUREAU',
+      'TSD' => 'TRANSIT SERVICES DIVISION',
+      'VB' => 'VB', # Unknown. Likely Valley Bureau
+      'VNY' => 'VAN NUYS AREA',
+      'VTD' => 'VALLEY TRAFFIC DIVISION',
+      'WB' => 'WB', # Unknown. Likely West Bureau
+      'WIL' => 'WILSHIRE AREA',
+      'WLA' => 'WEST LOS ANGELES AREA',
+      'WTD' => 'WEST TRAFFIC DIVISION',
+      'WVAL' => 'WEST VALLEY AREA',
+    }.freeze
+
     def generate(site)
       @site = site
       derive_names
       derive_rank
+      derive_area
 
       cops.each do |cop|
         site.pages << CopPage.new(site, cop)
@@ -55,6 +152,14 @@ module LosAngelesPolice
         cop['last_name'] = names[:last_name]
         cop['first_name'] = names[:first_name]
         cop['middle_initial'] = names[:middle_initial]
+      end
+    end
+
+    def derive_area
+      cops.each do |cop|
+        raise "Unknown area #{cop['Area']}" if AREA_MAP[cop['Area']].nil?
+
+        cop['area'] = AREA_MAP[cop['Area']]
       end
     end
 
