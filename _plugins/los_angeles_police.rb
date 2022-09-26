@@ -33,6 +33,7 @@ module LosAngelesPolice
     }.freeze
 
     # Area definitions from https://cityfone.lacity.org/verity/department_directory/p030pol.pdf
+    # and https://www.lapdonline.org/lapd-organization-chart/
     AREA_MAP = {
       '77TH' => '77TH STREET AREA',
       'AD' => 'AUDIT DIVISION',
@@ -40,16 +41,16 @@ module LosAngelesPolice
       'ASB' => 'ADMINISTRATIVE SERVICES BUREAU',
       'ASD' => 'AIR SUPPORT DIVISION',
       'BSS' => 'BEHAVIORAL SCIENCE SERVICES',
-      'CB' => 'CB', # Unknown
+      'CB' => 'CENTRAL BUREAU',
       'CCD' => 'COMMERCIAL CRIMES DIVISION',
       'CENT' => 'CENTRAL AREA',
       'CID' => 'COMMISSION INVESTIGATION DIVISION',
       'CIRD' => 'CRITICAL INCIDENT REVIEW DIVISION',
-      'COMM' => 'COMM', # Unknown
+      'COMM' => 'SUPPORT SERVICES GROUP Communications Division',
       'COS' => 'CHIEF OF STAFF',
-      'CP' => 'CP', # Unknown
+      'CP' => 'OFFICE OF THE CHIEF OF POLICE',
       'CSD' => 'CUSTODY SERVICES DIVISION',
-      'CSPB' => 'CSPB', # Unknown
+      'CSPB' => 'COMMUNITY SAFETY PARTNERSHIP BUREAU',
       'CST' => 'COMPSTAT DIVISION',
       'CTD' => 'CENTRAL TRAFFIC DIVISION',
       'CTSOB' => 'COUNTER-TERRORISM & SPECIAL OPERATIONS BUREAU',
@@ -57,7 +58,7 @@ module LosAngelesPolice
       'DEID' => 'DIVERSITY, EQUITY, AND INCLUSION DIVISION',
       'DEIG' => 'DIVERSITY, EQUITY, AND INCLUSION GROUP',
       'DEV' => 'DEVONSHIRE AREA',
-      'DSG' => 'DSG', # Unknown
+      'DSG' => 'DETECTIVE SERVICES GROUP',
       'DSVD' => 'DETECTIVE SUPPORT AND VICE DIVISION',
       'ECCCSD' => 'EMERGENCY COMMAND CONTROL COMMUNICATIONS SYSTEM DIVISION',
       'EPMD' => 'EPMD', # Unknown
@@ -72,7 +73,7 @@ module LosAngelesPolice
       'HOBK' => 'HOLLENBECK AREA',
       'HWD' => 'HOLLYWOOD AREA',
       'IMD' => 'INNOVATION MANAGEMENT DIVISION',
-      'IAD' => 'IAD', # Unknown. Likely Internal Affairs Division/Group
+      'IAD' => 'INTERNAL AFFAIRS DIVISION',
       'IG' => 'IG', # Unknown. Likely Office of the Inspector General
       'ITB' => 'INFORMATION TECHNOLOGY BUREAU',
       'ITD' => 'INFORMATION TECHNOLOGY DIVISION',
@@ -102,26 +103,26 @@ module LosAngelesPolice
       'RED' => 'RECRUITMENT AND EMPLOYMENT DIVISION',
       'RHD' => 'ROBBERY-HOMICIDE DIVISION',
       'RMLAD' => 'RISK MANAGEMENT AND LEGAL AFFAIRS DIVISION',
-      'SB' => 'SB', # Unknown. Possibly South Bureau
-      'SBHD' => 'SBHD', # Unknown. Likely South Bureau Homicide Division
+      'SB' => 'SOUTH BUREAU',
+      'SBHD' => 'SOUTH BUREAU HOMICIDE DIVISION',
       'SE' => 'SOUTHEAST AREA',
       'SECSD' => 'SECURITY SERVICES DIVISION',
       'SOD' => 'SPECIAL OPERATIONS DIVISION',
-      'SSG' => 'SSG', # Unknown
+      'SSG' => 'SUPPORT SERVICES GROUP',
       'STD' => 'SOUTH TRAFFIC DIVISION',
       'SW' => 'SOUTHWEST AREA',
       'TD' => 'TRAINING DIVISION',
-      'TD-REC' => 'TD-REC', # Unknown
+      'TD-REC' => 'TD-REC', # Unknown. Most likely recruits. Almost all are P01
       'TOP' => 'TOPANGA AREA',
-      'TRB' => 'TRB', # Unknown
+      'TRB' => 'TRAINING BUREAU',
       'TRFG' => 'TRAFFIC GROUP',
       'TRSG' => 'TRANSIT SERVICES GROUP',
       'TSB' => 'TRANSIT SERVICES BUREAU',
       'TSD' => 'TRANSIT SERVICES DIVISION',
-      'VB' => 'VB', # Unknown. Likely Valley Bureau
+      'VB' => 'VALLEY BUREAU',
       'VNY' => 'VAN NUYS AREA',
       'VTD' => 'VALLEY TRAFFIC DIVISION',
-      'WB' => 'WB', # Unknown. Likely West Bureau
+      'WB' => 'WEST BUREAU',
       'WIL' => 'WILSHIRE AREA',
       'WLA' => 'WEST LOS ANGELES AREA',
       'WTD' => 'WEST TRAFFIC DIVISION',
