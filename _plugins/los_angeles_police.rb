@@ -24,12 +24,11 @@ module LosAngelesPolice
       'DET 1' => 'POLICE DETECTIVE I',
       'SGT 2' => 'POLICE SERGEANT II',
       'SGT 1' => 'POLICE SERGEANT I',
-      # 'MPO' => 'MUNICIPAL POLICE OFFICER III',
+      'MPO' => 'MUNICIPAL POLICE OFFICER',
       'PO 3' => 'POLICE OFFICER III',
       'PO 2' => 'POLICE OFFICER II',
       'PO 1' => 'POLICE OFFICER I',
       'PO SPEC' => 'POLICE SPECIALIST',
-      'MPO' => 'MPO', # Unknown
     }.freeze
 
     # Area definitions from https://cityfone.lacity.org/verity/department_directory/p030pol.pdf
