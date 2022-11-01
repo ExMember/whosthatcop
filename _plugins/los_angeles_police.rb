@@ -188,6 +188,8 @@ module LosAngelesPolice
         'middle_initial' => cop['middle_initial'],
         'gender' => GENDER_MAP[cop['Sex']],
         'race' => RACE_MAP[cop['Ethnicity']],
+        'rank' => LosAngelesPolice::Generator::Rank.get(cop['RankTile']).open_oversight_id,
+        'area' => LosAngelesPolice::Generator::Area.get(cop['Area']).open_oversight_id,
       }
     end
 
