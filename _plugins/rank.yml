@@ -1,0 +1,72 @@
+- code: COP
+  name: CHIEF OF POLICE
+  open_oversight_id: nil
+- code: AC
+  name: ASSITANT CHIEF
+  open_oversight_id: nil
+# - code: 'DEP CHF'
+#   name: 'POLICE DEPUTY CHIEF II'
+#   open_oversight_id: nil
+# - code: 'DEP CHF'
+#   name: 'POLICE DEPUTY CHIEF I'
+#   open_oversight_id: nil
+- code: 'DEP CHF' # Roster doesn't distinguish between I and II
+  name: 'POLICE DEPUTY CHIEF'
+  open_oversight_id: nil
+- code: 'MSGT'
+  name: 'MUNICIPAL POLICE SERGEANT'
+  open_oversight_id: nil
+- code: 'CMDR'
+  name: 'POLICE COMMANDER'
+  open_oversight_id: nil
+- code: 'MCAPT 2'
+  name: 'MUNICIPAL POLICE CAPTAIN II'
+  open_oversight_id: nil
+- code: 'MCAPT 1'
+  name: 'MUNICIPAL POLICE CAPTAIN I'
+  open_oversight_id: nil
+- code: 'CAPT 3'
+  name: 'POLICE CAPTAIN III'
+  open_oversight_id: nil
+- code: 'CAPT 2'
+  name: 'POLICE CAPTAIN II'
+  open_oversight_id: nil
+- code: 'CAPT 1'
+  name: 'POLICE CAPTAIN I'
+  open_oversight_id: nil
+- code: 'LT 2'
+  name: 'POLICE LIEUTENANT II'
+  open_oversight_id: nil
+- code: 'LT 1'
+  name: 'POLICE LIEUTENANT I'
+  open_oversight_id: nil
+- code: 'DET 3'
+  name: 'POLICE DETECTIVE III'
+  open_oversight_id: nil
+- code: 'DET 2'
+  name: 'POLICE DETECTIVE II'
+  open_oversight_id: nil
+- code: 'DET 1'
+  name: 'POLICE DETECTIVE I'
+  open_oversight_id: nil
+- code: 'SGT 2'
+  name: 'POLICE SERGEANT II'
+  open_oversight_id: nil
+- code: 'SGT 1'
+  name: 'POLICE SERGEANT I'
+  open_oversight_id: nil
+- code: 'MPO'
+  name: 'MUNICIPAL POLICE OFFICER'
+  open_oversight_id: nil
+- code: 'PO 3'
+  name: 'POLICE OFFICER III'
+  open_oversight_id: nil
+- code: 'PO 2'
+  name: 'POLICE OFFICER II'
+  open_oversight_id: nil
+- code: 'PO 1'
+  name: 'POLICE OFFICER I'
+  open_oversight_id: nil
+- code: 'PO SPEC'
+  name: 'POLICE SPECIALIST'
+  open_oversight_id: nil

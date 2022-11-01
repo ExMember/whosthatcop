@@ -1,0 +1,282 @@
+# Area definitions from https://cityfone.lacity.org/verity/department_directory/p030pol.pdf
+# and https://www.lapdonline.org/lapd-organization-chart/
+- code: '77TH'
+  name: '77TH STREET AREA'
+  open_oversight_id: nil
+- code: 'AD'
+  name: 'AUDIT DIVISION'
+  open_oversight_id: nil
+- code: 'ADSD'
+  name: 'APPLICATION DEVELOPMENT AND SUPPORT DIVISION'
+  open_oversight_id: nil
+- code: 'ASB'
+  name: 'ADMINISTRATIVE SERVICES BUREAU'
+  open_oversight_id: nil
+- code: 'ASD'
+  name: 'AIR SUPPORT DIVISION'
+  open_oversight_id: nil
+- code: 'BSS'
+  name: 'BEHAVIORAL SCIENCE SERVICES'
+  open_oversight_id: nil
+- code: 'CB'
+  name: 'CENTRAL BUREAU'
+  open_oversight_id: nil
+- code: 'CCD'
+  name: 'COMMERCIAL CRIMES DIVISION'
+  open_oversight_id: nil
+- code: 'CENT'
+  name: 'CENTRAL AREA'
+  open_oversight_id: nil
+- code: 'CID'
+  name: 'COMMISSION INVESTIGATION DIVISION'
+  open_oversight_id: nil
+- code: 'CIRD'
+  name: 'CRITICAL INCIDENT REVIEW DIVISION'
+  open_oversight_id: nil
+- code: 'COMM'
+  name: 'SUPPORT SERVICES GROUP Communications Division'
+  open_oversight_id: nil
+- code: 'COS'
+  name: 'CHIEF OF STAFF'
+  open_oversight_id: nil
+- code: 'CP'
+  name: 'OFFICE OF THE CHIEF OF POLICE'
+  open_oversight_id: nil
+- code: 'CSD'
+  name: 'CUSTODY SERVICES DIVISION'
+  open_oversight_id: nil
+- code: 'CSPB'
+  name: 'COMMUNITY SAFETY PARTNERSHIP BUREAU'
+  open_oversight_id: nil
+- code: 'CST'
+  name: 'COMPSTAT DIVISION'
+  open_oversight_id: nil
+- code: 'CTD'
+  name: 'CENTRAL TRAFFIC DIVISION'
+  open_oversight_id: nil
+- code: 'CTSOB'
+  name: 'COUNTER-TERRORISM & SPECIAL OPERATIONS BUREAU'
+  open_oversight_id: nil
+- code: 'DB'
+  name: 'DETECTIVE BUREAU'
+  open_oversight_id: nil
+- code: 'DEID'
+  name: 'DIVERSITY EQUITY
+  AND INCLUSION DIVISION'
+  open_oversight_id: nil
+- code: 'DEIG'
+  name: 'DIVERSITY
+  EQUITY
+  AND INCLUSION GROUP'
+  open_oversight_id: nil
+- code: 'DEV'
+  name: 'DEVONSHIRE AREA'
+  open_oversight_id: nil
+- code: 'DSG'
+  name: 'DETECTIVE SERVICES GROUP'
+  open_oversight_id: nil
+- code: 'DSVD'
+  name: 'DETECTIVE SUPPORT AND VICE DIVISION'
+  open_oversight_id: nil
+- code: 'ECCCSD'
+  name: 'EMERGENCY COMMAND CONTROL COMMUNICATIONS SYSTEM DIVISION'
+  open_oversight_id: nil
+- code: 'EPMD'
+  name: 'EPMD'
+  open_oversight_id: nil # Unknown
+- code: 'ERG'
+  name: 'EMPLOYEE RELATIONS GROUP'
+  open_oversight_id: nil
+- code: 'ESD'
+  name: 'EMERGENCY SERVICES DIVISION'
+  open_oversight_id: nil
+- code: 'FID'
+  name: 'FORCE INVESTIGATION DIVISION'
+  open_oversight_id: nil
+- code: 'FMD'
+  name: 'FACILITIES MANAGEMENT DIVISION'
+  open_oversight_id: nil
+- code: 'FSD'
+  name: 'FORENSIC SCIENCE DIVISION'
+  open_oversight_id: nil
+- code: 'FTHL'
+  name: 'FOOTHILL AREA'
+  open_oversight_id: nil
+- code: 'GND'
+  name: 'GANG AND NARCOTICS DIVISION'
+  open_oversight_id: nil
+- code: 'HARB'
+  name: 'HARBOR AREA'
+  open_oversight_id: nil
+- code: 'HOBK'
+  name: 'HOLLENBECK AREA'
+  open_oversight_id: nil
+- code: 'HWD'
+  name: 'HOLLYWOOD AREA'
+  open_oversight_id: nil
+- code: 'IMD'
+  name: 'INNOVATION MANAGEMENT DIVISION'
+  open_oversight_id: nil
+- code: 'IAD'
+  name: 'INTERNAL AFFAIRS DIVISION'
+  open_oversight_id: nil
+- code: 'IG'
+  name: 'IG'
+  open_oversight_id: nil # Unknown. Likely Office of the Inspector General
+- code: 'ITB'
+  name: 'INFORMATION TECHNOLOGY BUREAU'
+  open_oversight_id: nil
+- code: 'ITD'
+  name: 'INFORMATION TECHNOLOGY DIVISION'
+  open_oversight_id: nil
+- code: 'JUV'
+  name: 'JUVENILE DIVISION'
+  open_oversight_id: nil
+- code: 'MCD'
+  name: 'MAJOR CRIMES DIVISION'
+  open_oversight_id: nil
+- code: 'METRO'
+  name: 'METROPOLITAN DIVISION'
+  open_oversight_id: nil
+- code: 'MISN'
+  name: 'MISSION AREA'
+  open_oversight_id: nil
+- code: 'MRD'
+  name: 'MEDIA RELATIONS DIVISION'
+  open_oversight_id: nil
+- code: 'NE'
+  name: 'NORTHEAST AREA'
+  open_oversight_id: nil
+- code: 'NEWT'
+  name: 'NEWTON AREA'
+  open_oversight_id: nil
+- code: 'NHWD'
+  name: 'NORTH HOLLYWOOD AREA'
+  open_oversight_id: nil
+- code: 'OCPP'
+  name: 'OFFICE OF CONSTITUTIONAL POLICING AND POLICY'
+  open_oversight_id: nil
+- code: 'OLYM'
+  name: 'OLYMPIC AREA'
+  open_oversight_id: nil
+- code: 'OO'
+  name: 'OFFICE OF OPERATIONS'
+  open_oversight_id: nil
+- code: 'OSO'
+  name: 'OFFICE OF SPECIAL OPERATIONS'
+  open_oversight_id: nil
+- code: 'OSS'
+  name: 'OFFICE OF SUPPORT SERVICES'
+  open_oversight_id: nil
+- code: 'PAC'
+  name: 'PACIFIC AREA'
+  open_oversight_id: nil
+- code: 'PAC-LAX'
+  name: 'PACIFIC AREA LAX Substation'
+  open_oversight_id: nil
+- code: 'PC'
+  name: 'PC'
+  open_oversight_id: nil # Unknown. Likely Public Communications Group
+- code: 'PCG'
+  name: 'PUBLIC COMMUNICATIONS GROUP'
+  open_oversight_id: nil
+- code: 'PER'
+  name: 'PERSONNEL DIVISION'
+  open_oversight_id: nil
+- code: 'PER-M'
+  name: 'PERSONNEL DIVISION Medical Liaison Section'
+  open_oversight_id: nil # Uncertain
+- code: 'PER-RW'
+  name: 'PERSONNEL DIVISION Return to Work Section'
+  open_oversight_id: nil # Uncertain
+- code: 'PSB'
+  name: 'PROFESSIONAL STANDARDS BUREAU'
+  open_oversight_id: nil
+- code: 'PTE'
+  name: 'POLICE TRAINING AND EDUCATION'
+  open_oversight_id: nil
+- code: 'RAMP'
+  name: 'RAMPART AREA'
+  open_oversight_id: nil
+- code: 'RED'
+  name: 'RECRUITMENT AND EMPLOYMENT DIVISION'
+  open_oversight_id: nil
+- code: 'RHD'
+  name: 'ROBBERY-HOMICIDE DIVISION'
+  open_oversight_id: nil
+- code: 'RMLAD'
+  name: 'RISK MANAGEMENT AND LEGAL AFFAIRS DIVISION'
+  open_oversight_id: nil
+- code: 'SB'
+  name: 'SOUTH BUREAU'
+  open_oversight_id: nil
+- code: 'SBHD'
+  name: 'SOUTH BUREAU HOMICIDE DIVISION'
+  open_oversight_id: nil
+- code: 'SE'
+  name: 'SOUTHEAST AREA'
+  open_oversight_id: nil
+- code: 'SECSD'
+  name: 'SECURITY SERVICES DIVISION'
+  open_oversight_id: nil
+- code: 'SOD'
+  name: 'SPECIAL OPERATIONS DIVISION'
+  open_oversight_id: nil
+- code: 'SSG'
+  name: 'SUPPORT SERVICES GROUP'
+  open_oversight_id: nil
+- code: 'STD'
+  name: 'SOUTH TRAFFIC DIVISION'
+  open_oversight_id: nil
+- code: 'SW'
+  name: 'SOUTHWEST AREA'
+  open_oversight_id: nil
+- code: 'TD'
+  name: 'TRAINING DIVISION'
+  open_oversight_id: nil
+- code: 'TD-REC'
+  name: 'TD-REC'
+  open_oversight_id: nil # Unknown. Most likely recruits. Almost all are P01
+- code: 'TOP'
+  name: 'TOPANGA AREA'
+  open_oversight_id: nil
+- code: 'TRB'
+  name: 'TRAINING BUREAU'
+  open_oversight_id: nil
+- code: 'TRFG'
+  name: 'TRAFFIC GROUP'
+  open_oversight_id: nil
+- code: 'TRSG'
+  name: 'TRANSIT SERVICES GROUP'
+  open_oversight_id: nil
+- code: 'TSB'
+  name: 'TRANSIT SERVICES BUREAU'
+  open_oversight_id: nil
+- code: 'TSD'
+  name: 'TRANSIT SERVICES DIVISION'
+  open_oversight_id: nil
+- code: 'VB'
+  name: 'VALLEY BUREAU'
+  open_oversight_id: nil
+- code: 'VNY'
+  name: 'VAN NUYS AREA'
+  open_oversight_id: nil
+- code: 'VTD'
+  name: 'VALLEY TRAFFIC DIVISION'
+  open_oversight_id: nil
+- code: 'WB'
+  name: 'WEST BUREAU'
+  open_oversight_id: nil
+- code: 'WIL'
+  name: 'WILSHIRE AREA'
+  open_oversight_id: nil
+- code: 'WLA'
+  name: 'WEST LOS ANGELES AREA'
+  open_oversight_id: nil
+- code: 'WTD'
+  name: 'WEST TRAFFIC DIVISION'
+  open_oversight_id: nil
+- code: 'WVAL'
+  name: 'WEST VALLEY AREA'
+  open_oversight_id: nil
+
