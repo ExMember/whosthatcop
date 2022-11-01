@@ -4,32 +4,51 @@ module LosAngelesPolice
   class Generator < Jekyll::Generator
     attr_accessor :site
 
-    RANK_MAP = {
-      'COP' => 'CHIEF OF POLICE',
-      'AC' => 'ASSITANT CHIEF',
-      # 'DEP CHF' => 'POLICE DEPUTY CHIEF II',
-      # 'DEP CHF' => 'POLICE DEPUTY CHIEF I',
-      'DEP CHF' => 'POLICE DEPUTY CHIEF', # Roster doesn't distinguish between I and II
-      'MSGT' => 'MUNICIPAL POLICE SERGEANT',
-      'CMDR' => 'POLICE COMMANDER',
-      # 'MCAPT 2' => 'MUNICIPAL POLICE CAPTAIN II',
-      'MCAPT 1' => 'MUNICIPAL POLICE CAPTAIN I',
-      'CAPT 3' => 'POLICE CAPTAIN III',
-      'CAPT 2' => 'POLICE CAPTAIN II',
-      'CAPT 1' => 'POLICE CAPTAIN I',
-      'LT 2' => 'POLICE LIEUTENANT II',
-      'LT 1' => 'POLICE LIEUTENANT I',
-      'DET 3' => 'POLICE DETECTIVE III',
-      'DET 2' => 'POLICE DETECTIVE II',
-      'DET 1' => 'POLICE DETECTIVE I',
-      'SGT 2' => 'POLICE SERGEANT II',
-      'SGT 1' => 'POLICE SERGEANT I',
-      'MPO' => 'MUNICIPAL POLICE OFFICER',
-      'PO 3' => 'POLICE OFFICER III',
-      'PO 2' => 'POLICE OFFICER II',
-      'PO 1' => 'POLICE OFFICER I',
-      'PO SPEC' => 'POLICE SPECIALIST',
-    }.freeze
+    class Rank
+      @@MAP = {}
+
+      attr_reader :name, :open_oversight_id
+
+      def initialize(name:, open_oversight_id: nil)
+        @name = name
+        @open_oversight_id = open_oversight_id
+      end
+
+      def self.register(code:, name:, open_oversight_id:)
+        @@MAP[code] = Rank.new(name: name, open_oversight_id: open_oversight_id)
+      end
+
+      def self.get(code)
+        raise "Unknown rank #{code}" if @@MAP[code].nil?
+
+        @@MAP[code]
+      end
+    end
+
+    Rank.register(code: 'COP', name: 'CHIEF OF POLICE', open_oversight_id: nil)
+    Rank.register(code: 'AC', name: 'ASSITANT CHIEF', open_oversight_id: nil)
+    # Rank.register(code: 'DEP CHF', name: 'POLICE DEPUTY CHIEF II', open_oversight_id: nil)
+    # Rank.register(code: 'DEP CHF', name: 'POLICE DEPUTY CHIEF I', open_oversight_id: nil)
+    Rank.register(code: 'DEP CHF', name: 'POLICE DEPUTY CHIEF', open_oversight_id: nil) # Roster doesn't distinguish between I and II
+    Rank.register(code: 'MSGT', name: 'MUNICIPAL POLICE SERGEANT', open_oversight_id: nil)
+    Rank.register(code: 'CMDR', name: 'POLICE COMMANDER', open_oversight_id: nil)
+    # Rank.register(code: 'MCAPT 2', name: 'MUNICIPAL POLICE CAPTAIN II', open_oversight_id: nil)
+    Rank.register(code: 'MCAPT 1', name: 'MUNICIPAL POLICE CAPTAIN I', open_oversight_id: nil)
+    Rank.register(code: 'CAPT 3', name: 'POLICE CAPTAIN III', open_oversight_id: nil)
+    Rank.register(code: 'CAPT 2', name: 'POLICE CAPTAIN II', open_oversight_id: nil)
+    Rank.register(code: 'CAPT 1', name: 'POLICE CAPTAIN I', open_oversight_id: nil)
+    Rank.register(code: 'LT 2', name: 'POLICE LIEUTENANT II', open_oversight_id: nil)
+    Rank.register(code: 'LT 1', name: 'POLICE LIEUTENANT I', open_oversight_id: nil)
+    Rank.register(code: 'DET 3', name: 'POLICE DETECTIVE III', open_oversight_id: nil)
+    Rank.register(code: 'DET 2', name: 'POLICE DETECTIVE II', open_oversight_id: nil)
+    Rank.register(code: 'DET 1', name: 'POLICE DETECTIVE I', open_oversight_id: nil)
+    Rank.register(code: 'SGT 2', name: 'POLICE SERGEANT II', open_oversight_id: nil)
+    Rank.register(code: 'SGT 1', name: 'POLICE SERGEANT I', open_oversight_id: nil)
+    Rank.register(code: 'MPO', name: 'MUNICIPAL POLICE OFFICER', open_oversight_id: nil)
+    Rank.register(code: 'PO 3', name: 'POLICE OFFICER III', open_oversight_id: nil)
+    Rank.register(code: 'PO 2', name: 'POLICE OFFICER II', open_oversight_id: nil)
+    Rank.register(code: 'PO 1', name: 'POLICE OFFICER I', open_oversight_id: nil)
+    Rank.register(code: 'PO SPEC', name: 'POLICE SPECIALIST', open_oversight_id: nil)
 
     # Area definitions from https://cityfone.lacity.org/verity/department_directory/p030pol.pdf
     # and https://www.lapdonline.org/lapd-organization-chart/
@@ -165,9 +184,7 @@ module LosAngelesPolice
 
     def derive_rank
       cops.each do |cop|
-        raise "Unknown rank #{cop['RankTile']}" if RANK_MAP[cop['RankTile']].nil?
-
-        cop['rank'] = RANK_MAP[cop['RankTile']]
+        cop['rank'] = Rank.get(cop['RankTile']).name
       end
     end
 
