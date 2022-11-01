@@ -1,9 +1,9 @@
 - code: COP
   name: CHIEF OF POLICE
-  open_oversight_id: nil
+  open_oversight_id: 184
 - code: AC
   name: ASSITANT CHIEF
-  open_oversight_id: nil
+  open_oversight_id: 183
 # - code: 'DEP CHF'
 #   name: 'POLICE DEPUTY CHIEF II'
 #   open_oversight_id: nil
@@ -12,61 +12,61 @@
 #   open_oversight_id: nil
 - code: 'DEP CHF' # Roster doesn't distinguish between I and II
   name: 'POLICE DEPUTY CHIEF'
-  open_oversight_id: nil
+  open_oversight_id: 182
 - code: 'MSGT'
   name: 'MUNICIPAL POLICE SERGEANT'
-  open_oversight_id: nil
+  open_oversight_id: 181
 - code: 'CMDR'
   name: 'POLICE COMMANDER'
-  open_oversight_id: nil
-- code: 'MCAPT 2'
-  name: 'MUNICIPAL POLICE CAPTAIN II'
-  open_oversight_id: nil
+  open_oversight_id: 180
+# - code: 'MCAPT 2'
+#   name: 'MUNICIPAL POLICE CAPTAIN II'
+#   open_oversight_id: nil
 - code: 'MCAPT 1'
   name: 'MUNICIPAL POLICE CAPTAIN I'
-  open_oversight_id: nil
+  open_oversight_id: 179
 - code: 'CAPT 3'
   name: 'POLICE CAPTAIN III'
-  open_oversight_id: nil
+  open_oversight_id: 178
 - code: 'CAPT 2'
   name: 'POLICE CAPTAIN II'
-  open_oversight_id: nil
+  open_oversight_id: 177
 - code: 'CAPT 1'
   name: 'POLICE CAPTAIN I'
-  open_oversight_id: nil
+  open_oversight_id: 176
 - code: 'LT 2'
   name: 'POLICE LIEUTENANT II'
-  open_oversight_id: nil
+  open_oversight_id: 175
 - code: 'LT 1'
   name: 'POLICE LIEUTENANT I'
-  open_oversight_id: nil
+  open_oversight_id: 174
 - code: 'DET 3'
   name: 'POLICE DETECTIVE III'
-  open_oversight_id: nil
+  open_oversight_id: 173
 - code: 'DET 2'
   name: 'POLICE DETECTIVE II'
-  open_oversight_id: nil
+  open_oversight_id: 172
 - code: 'DET 1'
   name: 'POLICE DETECTIVE I'
-  open_oversight_id: nil
+  open_oversight_id: 171
 - code: 'SGT 2'
   name: 'POLICE SERGEANT II'
-  open_oversight_id: nil
+  open_oversight_id: 170
 - code: 'SGT 1'
   name: 'POLICE SERGEANT I'
-  open_oversight_id: nil
+  open_oversight_id: 169
 - code: 'MPO'
   name: 'MUNICIPAL POLICE OFFICER'
-  open_oversight_id: nil
+  open_oversight_id: 168
 - code: 'PO 3'
   name: 'POLICE OFFICER III'
-  open_oversight_id: nil
+  open_oversight_id: 167
 - code: 'PO 2'
   name: 'POLICE OFFICER II'
-  open_oversight_id: nil
+  open_oversight_id: 166
 - code: 'PO 1'
   name: 'POLICE OFFICER I'
-  open_oversight_id: nil
+  open_oversight_id: 165
 - code: 'PO SPEC'
   name: 'POLICE SPECIALIST'
-  open_oversight_id: nil
+  open_oversight_id: 164
