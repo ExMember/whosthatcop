@@ -25,7 +25,7 @@ module LosAngelesPolice
       end
 
       def self.load_file
-        YAML.load_file(File.join(__dir__, 'rank.yml')).each do |rank|
+        YAML.load_file(File.join(__dir__, 'los_angeles_police/rank.yml')).each do |rank|
           Rank.register(
             code: rank['code'],
             name: rank['name'],
@@ -56,7 +56,7 @@ module LosAngelesPolice
       end
 
       def self.load_file
-        YAML.load_file(File.join(__dir__, 'area.yml')).each do |area|
+        YAML.load_file(File.join(__dir__, 'los_angeles_police/area.yml')).each do |area|
           Area.register(
             code: area['code'],
             name: area['name'],
