@@ -231,4 +231,23 @@ module LosAngelesPolice
       File.expand_path('./los_angeles_police/open_oversight.csv', __dir__)
     end
   end
+
+  module Jekyll
+    module MoneyFilter
+      def money(amount)
+        return '' if amount.nil?
+
+        amount = BigDecimal(amount)
+        whole_dollar = amount.floor
+        cents = (amount - whole_dollar) * 100
+
+        dollar_string = whole_dollar.to_s.gsub(/\B(?=(...)*\b)/, ',')
+        cents_string = sprintf('%02d', cents)
+
+        "$#{dollar_string}.#{cents_string}"
+      end
+    end
+  end
+
+  Liquid::Template.register_filter(Jekyll::MoneyFilter)
 end
