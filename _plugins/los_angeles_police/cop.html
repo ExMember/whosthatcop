@@ -40,6 +40,54 @@
         {{ page['Ethnicity'] }}
       </td>
     </tr>
+    <tr>
+      <th scope="row">
+        Base pay
+      </th>
+      <td>
+        {{ page['base_pay'] | prepend: '$' }}
+      </td>
+    </tr>
+    <tr>
+      <th scope="row">
+        Overtime pay
+      </th>
+      <td>
+        {{ page['overtime_pay'] | prepend: '$' }}
+      </td>
+    </tr>
+    <tr>
+      <th scope="row">
+        Other pay
+      </th>
+      <td>
+        {{ page['other_pay'] | prepend: '$' }}
+      </td>
+    </tr>
+    <tr>
+      <th scope="row">
+        Health benefits
+      </th>
+      <td>
+        {{ page['health_benefits'] | prepend: '$' }}
+      </td>
+    </tr>
+    <tr>
+      <th scope="row">
+        Retirement benefits
+      </th>
+      <td>
+        {{ page['retirement_benefits'] | prepend: '$' }}
+      </td>
+    </tr>
+    <tr>
+      <th scope="row">
+        Total pay
+      </th>
+      <td>
+        {{ page['total_pay'] | prepend: '$' }}
+      </td>
+    </tr>
   </tbody>
 </table>
 

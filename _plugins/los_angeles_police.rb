@@ -75,6 +75,7 @@ module LosAngelesPolice
       derive_names
       derive_rank
       derive_area
+      derive_pay
 
       cops.each do |cop|
         site.pages << CopPage.new(site, cop)
@@ -107,6 +108,27 @@ module LosAngelesPolice
       cops.each do |cop|
         cop['rank'] = Rank.get(cop['RankTile']).name
       end
+    end
+
+    def nn_roster
+      site.data['us']['ca']['police']['los_angeles']['nn35007_roster']
+    end
+
+    def derive_pay
+      cops.each do |cop|
+        salary = salary_data(cop['SerialNo'])
+
+        cop['base_pay'] = salary['BasePay']
+        cop['overtime_pay'] = salary['Overtime']
+        cop['other_pay'] = salary['OtherPay']
+        cop['health_benefits'] = salary['Health']
+        cop['retirement_benefits'] = salary['Retirement']
+        cop['total_pay'] = salary['TotalPay']
+      end
+    end
+
+    def salary_data(serial_number)
+      nn_roster.find{|n| n['SerialNumber'] == serial_number} || {}
     end
 
     def split_names(name)
