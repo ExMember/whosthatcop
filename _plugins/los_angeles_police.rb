@@ -212,6 +212,10 @@ module LosAngelesPolice
         'race' => RACE_MAP[cop['Ethnicity']],
         'rank' => LosAngelesPolice::Generator::Rank.get(cop['RankTile']).open_oversight_id,
         'area' => LosAngelesPolice::Generator::Area.get(cop['Area']).open_oversight_id,
+        'salary_year' => 2022,
+        'salary_is_fiscal_year' => false,
+        'salary' => cop['base_pay'],
+        'overtime_pay' => cop['overtime_pay'],
       }
     end
 
