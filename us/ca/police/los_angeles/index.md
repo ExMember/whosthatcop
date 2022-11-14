@@ -37,7 +37,7 @@ layout: home
     autofocus="true"
     required="required"
     size=6
-    placeholder="Moore, Michel R"
+    placeholder="23506"
     pattern="\d{5}"
     list="lapd-serial-numbers"
   />
