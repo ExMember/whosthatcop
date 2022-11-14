@@ -1,8 +1,8 @@
 primary:
-  # - text: Section 1
-  #   href: /example
-  # - text: Other Site
-  #   href: https://example.com
+  - text: BHPD
+    href: /us/ca/police/beverly_hills
+  - text: LAPD
+    href: /us/ca/police/los_angeles
   #   external: true
   # - text: Navigation section
   #   links:
@@ -12,13 +12,13 @@ primary:
   #       href: /two/b/
 
 secondary:
-  # - text: GitHub
-  #   href: https://github.com/ExMember/whosthatcop
-  #   external: true
-  - text: Search
-    href: /
-  - text: About
-    href: /about/
+  - text: GitHub
+    href: https://github.com/ExMember/whosthatcop
+    external: true
+  # - text: Search
+  #   href: /
+  # - text: About
+  #   href: /about/
 
 docs:
   - text: Sidenav Documentation
