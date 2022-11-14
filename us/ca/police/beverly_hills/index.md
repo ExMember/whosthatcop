@@ -43,7 +43,7 @@ layout: home
 
   <datalist id="bhpd-files">
     {% for cop in site.data['us']['ca']['police']['beverly_hills']['roster-2022'] %}
-      <option value="{{ cop['SerialNumber'] }}-{{ cop['LastName']| downcase }}-{{ cop['GivenName1'] | downcase }}" label="{{ cop['LastName'] }}, {{ cop['GivenName1'] }}"/>
+      <option value="{{ cop['SerialNumber'] | default: 'unknown' }}-{{ cop['LastName']| downcase }}-{{ cop['GivenName1'] | downcase }}" label="{{ cop['LastName'] }}, {{ cop['GivenName1'] }}"/>
     {% endfor %}
   </datalist>
 
