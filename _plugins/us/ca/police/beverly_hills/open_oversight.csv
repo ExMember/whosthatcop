@@ -1,0 +1,4 @@
+department_id,unique_internal_identifier,last_name,first_name,middle_initial,gender,race,rank,star_no,job_title,area,salary_year,salary_is_fiscal_year,salary,overtime_pay
+{% for cop in site.data['us']['ca']['police']['beverly_hills']['open_oversight_data'] -%}
+{{ cop['department_id'] }},{{ cop['unique_internal_identifier'] }},{{ cop['last_name'] }},{{ cop['first_name'] }},{{ cop['middle_initial'] }},{{ cop['gender'] }},{{ cop['race'] }},{{ cop['rank'] }},{{ cop['star_no'] }},{{ cop['job_title'] }},{{ cop['area'] }},{{ cop['salary_year'] }},{{ cop['salary_is_fiscal_year'] }},{{ cop['salary'] }},{{ cop['overtime_pay'] }}
+{% endfor -%}

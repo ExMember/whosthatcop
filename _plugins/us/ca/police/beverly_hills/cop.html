@@ -1,0 +1,106 @@
+<table class="usa-table usa-table--stacked usa-table--borderless">
+  <tbody>
+    <tr>
+      <th scope="row">
+        Serial number
+      </th>
+      <td>
+        {{ page['SerialNumber'] }}
+      </td>
+    </tr>
+    <tr>
+      <th scope="row">
+        Badge number
+      </th>
+      <td>
+        {{ page['BadgeNumber'] }}
+      </td>
+    </tr>
+    <tr>
+      <th scope="row">
+        Rank
+      </th>
+      <td>
+        {{ page['Rank'] }}
+      </td>
+    </tr>
+    <tr>
+      <th scope="row">
+        Job Title
+      </th>
+      <td>
+        {{ page['JobTitle'] }}
+      </td>
+    </tr>
+    <tr>
+      <th scope="row">
+        Gender
+      </th>
+      <td>
+        {{ page['Gender'] }}
+      </td>
+    </tr>
+    <tr>
+      <th scope="row">
+        Ethnicity
+      </th>
+      <td>
+        {{ page['Ethnicity'] }}
+      </td>
+    </tr>
+    <tr>
+      <th scope="row">
+        Base pay
+      </th>
+      <td>
+        {{ page['BasePay'] | money }}
+      </td>
+    </tr>
+    <tr>
+      <th scope="row">
+        Overtime pay
+      </th>
+      <td>
+        {{ page['Overtime'] | money }}
+      </td>
+    </tr>
+    <tr>
+      <th scope="row">
+        Other pay
+      </th>
+      <td>
+        {{ page['OtherPay'] | money }}
+      </td>
+    </tr>
+    <tr>
+      <th scope="row">
+        Benefits
+      </th>
+      <td>
+        {{ page['Benefits'] | money }}
+      </td>
+    </tr>
+    <tr>
+      <th scope="row">
+        Total pay
+      </th>
+      <td>
+        {{ page['TotalPay'] | money }}
+      </td>
+    </tr>
+  </tbody>
+</table>
+
+<p class="usa-prose">
+Data compiled by <a href="https://twitter.com/NN35007">NN35007</a> from <a
+href="https://archive.org/details/los-angeles-county-police-rosters/Beverly%20Hills%20PD%20881967_Sworn_Officers_List_-redacted/">
+public records requests</a> by Los Angeles Sunshine Coalition.
+</p>
+
+<!--
+<p class="usa-prose">
+Find <a href="https://openoversight.lucyparsonslabs.com/department/DEPARTMENT_ID?unique_internal_identifier={{ page['SerialNumber'] }}">
+this cop on Open Oversight.
+</a>
+</p>
+-->
