@@ -1,0 +1,996 @@
+BadgeNumber,LastName,FirstName,Area,Rank,FirstHireDate,Annual Base Salary,PayrollEntries,BasePay,Overtime,OtherPay,Benefits,Total Pay excl. benefits,Pension Debt,TotalPay,PayrollYear
+4254,Acedillo,Jobin,Mission Street/Field,Police Officer,9/21/2012,"141,627.20",1,135136,3842.4,33787.06,21382.11,"172,765.46",0,194147.57,2021
+3550,Acosta,Carlos,Mission Street/Field,Police Captain,11/15/1998,"209,289.60",1,189867.2,64021.82,36164.63,86900.53,"290,053.65",0,376954.18,2021
+3419,Acosta,Javier,Substation,Police Officer,4/7/1997,"141,627.20",1,137062.4,111789.72,27805.48,68549.06,"276,657.60",0,345206.66,2021
+4738,Addy,Tyrell,Mission Street/Field,Police Officer,10/19/2018,"122,304.00",1,111206.4,46962.55,11636.66,36843.43,"169,805.61",0,206649.04,2021
+4552,Adgar,James,Mission Street/Field,Police Officer,6/15/2017,"128,564.80",1,118597.6,36421.97,18265.67,27234.22,"173,285.24",0,200519.46,2021
+4446,Airoso,Andrew,Mission Street/Field,Police Officer,10/16/2015,"141,627.20",1,128731.2,24088.57,25883.69,19890.79,"178,703.46",0,198594.25,2021
+3948,Akery,Daniel,Mission Street/Field,Police Sergeant,1/1/2006,"156,145.60",1,144514.4,53170.66,33618.17,71137.22,"231,303.23",0,302440.45,2021
+3420,Albin,Glenn,1st Street,Police Sergeant,4/7/1997,"163,924.80",1,156696.8,30610.65,27487.05,75375.83,"214,794.50",0,290170.33,2021
+4183,Aldinger,Keith,Mission Street,Police Officer,1/4/2009,"141,627.20",1,137062.4,45953.1,30579.26,70311.86,"213,594.76",0,283906.62,2021
+4789,Alessio,Matthew,Mission Street/Field,Police Officer,2/24/2019,"122,304.00",1,108895.2,7383.86,11121.28,24925.95,"127,400.34",0,152326.29,2021
+4187,Alfaro,Jaime,Mission Street/Field,Police Sergeant,12/14/2009,"148,740.80",1,137062.4,17075.03,40960.94,49188.26,"195,098.37",0,244286.63,2021
+3333,Alfonzo,Anthony,Mission Street/Field,Police Sergeant,3/11/1996,"163,924.80",1,162444.44,11635.72,27794.70,76054.41,"201,874.86",0,277929.27,2021
+4188,Alleman,Kyle,Mission Street,Police Officer,11/5/2006,"141,627.20",1,137062.4,6429.15,20691.93,64984.95,"164,183.48",0,229168.43,2021
+4344,Allen,Neal,Substation,Police Officer,10/11/2013,"141,627.20",1,137946.36,34148.81,22053.23,30027.52,"194,148.40",0,224175.92,2021
+3509,Alvarez,Catherine,Mission Street/Field,Police Sergeant,5/3/1998,"156,145.60",1,142423.2,44319.9,26861.08,70415.93,"213,604.18",0,284020.11,2021
+3805,Alvarez,Michael,Mission Street/Field,Police Sergeant,7/7/2002,"163,924.80",1,150318.4,80290.94,26477.25,61578.91,"257,086.59",0,318665.5,2021
+4596,Alvarez,Denise,Substation,Police Officer,10/20/2017,"128,564.80",1,116718.4,24165.81,21445.32,26952.97,"162,329.53",0,189282.5,2021
+4630,Alvarez,Aaron,Mission Street/Field,Police Officer,2/11/2018,"128,564.80",1,115008,27530.67,13911.38,17426.63,"156,450.05",0,173876.68,2021
+4869,Alvarez,Jose,Mission Street/Field,Police Officer,10/20/2019,"116,563.20",1,104944,12893.32,14015.84,15480.71,"131,853.16",0,147333.87,2021
+3373,Anaya,Christina,Substation,Police Lieutenant,9/9/1996,"189,883.20",1,183760,64646.21,34087.55,65431.11,"282,493.76",0,347924.87,2021
+4568,Anaya,Eliseo,Mission Street,Police Officer,1/16/2018,"141,627.20",1,136821.6,63497.92,19039.71,28932.83,"219,359.23",0,248292.06,2021
+4173,Ancelet,Sean,Mission Street,Police Officer,1/4/2009,"141,627.20",1,137062.4,50844.56,24378.92,68549.06,"212,285.88",0,280834.94,2021
+3459,Anderson,Brian,Mission Street/Field,Police Lieutenant,10/20/1997,"189,883.20",1,183760,20586.79,31771.21,84791.91,"236,118.00",0,320909.91,2021
+3884,Anderson,Gary,Mission Street/Field,Police Sergeant,1/2/2005,"163,924.80",1,150318.4,11350.84,22756.79,73727.51,"184,426.03",0,258153.54,2021
+4074,Anderson,Jonathan,Mission Street,Police Sergeant,7/1/2007,"163,924.80",1,150318.4,88601.9,34579.39,74926.99,"273,499.69",0,348426.68,2021
+4821,Anderson,William,Mission Street/Field,Police Officer,6/20/2019,"116,563.20",1,107016,10260.28,11085.35,24051.26,"128,361.63",0,152412.89,2021
+5023,Andrade,Claudia,Mission Street/Field,Police Officer,6/13/2021,"105,726.40",1,48758.4,493.85,3813.78,10659.26,"53,066.03",0,63725.29,2021
+4757,Anthony,Adderly,Mission Street/Field,Police Officer,10/19/2018,"122,304.00",1,111206.4,104185.96,17441.06,24574.98,"232,833.42",0,257408.4,2021
+4719,Apana,Joel,Mission Street/Field,Police Officer,7/16/2017,"122,304.00",1,111206.4,7929.2,11350.42,32529.43,"130,486.02",0,163015.45,2021
+4980,Apolinar,Monique,Mission Street/Field,Police Officer,3/13/2016,"110,968.00",1,91008.8,7624.02,6766.22,30475.52,"105,399.04",0,135874.56,2021
+4390,Aponte,Steven,Mission Street,Police Officer,9/22/2002,"141,627.20",1,135376.8,93007.84,32919.38,47202.36,"261,304.02",0,308506.38,2021
+3694,Aragon,Jesse,Mission Street,Police Sergeant,5/29/2001,"163,924.80",1,156696.8,33526.88,27487.05,75375.83,"217,710.73",0,293086.56,2021
+4280,Arana,Erin,Alameda,Police Officer,4/12/2013,"141,627.20",1,137062.4,7271.33,24378.92,30556.85,"168,712.65",0,199269.5,2021
+4598,Araya,Alexander,Mission Street,Police Officer,10/20/2017,"128,564.80",1,116718.4,16238.71,12995.33,37634.86,"145,952.44",0,183587.3,2021
+4656,Arcadia Sanchez,Cesar,Mission Street/Field,Police Officer,2/11/2018,"128,564.80",1,115008,2126.08,14618.10,25202.15,"131,752.18",0,156954.33,2021
+4611,Arevalo,Nathalie,Mission Street/Field,Police Officer,10/20/2017,"128,564.80",1,116718.4,57966.53,18018.76,26952.97,"192,703.69",0,219656.66,2021
+4690,Arreguin,Daniel,Mission Street/Field,Police Officer,6/14/2018,"122,304.00",1,113020.8,9013.66,14867.61,35835.77,"136,902.07",0,172737.84,2021
+4691,Asher,Cheyenne,Mission Street/Field,Police Officer,6/14/2018,"122,304.00",1,113020.8,2974.26,11441.05,37101.05,"127,436.11",0,164537.16,2021
+2080T,Asuncion,Jonathan,Mission Street/Field,Police Officer,2/22/2022,"105,726.40",1,105726.40,,,,,,,2022
+4795,Au-Yeung,Romeo,Mission Street/Field,Police Officer,2/24/2019,"116,563.20",1,12812.76,35072.48,,36154.58,"156,780.44",0,192935.02,2021
+4387,Avery,Carli,Mission Street,Police Officer,6/11/2006,"141,627.20",1,24154.01,0,,39740.75,"135,220.01",0,174960.76,2021
+4452,Avila,Victor,Alameda,Police Officer,2/12/2016,"141,627.20",1,16592.05,25952.22,,27505.06,"169,391.47",0,196896.53,2021
+2106T,Avila,Jose,Mission Street/Field,Police Officer,2/22/2022,"105,726.40",1,105726.40,,,,,,,2022
+4479,Awwad,Tarik,Mission Street/Field,Police Officer,10/25/2016,"134,888.00",1,17968.88,45110.8,,35950.18,"185,709.28",0,221659.46,2021
+4780,Ayala,Victor,Mission Street/Field,Police Officer,2/24/2019,"116,563.20",1,15734.20,24906.99,,23499.38,"149,536.39",0,173035.77,2021
+2114T,Azabache Diaz,Ricardo,Substation,Police Recruit,6/26/2022,"90,792.00",1,90792.00,,,,,,,2022
+4305,Babineau,Kyle,Mission Street/Field,Police Officer,4/12/2013,"141,627.20",1,20691.93,12499.38,,30027.52,"170,253.71",0,200281.23,2021
+3794,Bachmann,Eric,Substation,Police Officer,1/6/2002,"141,627.20",1,36717.60,1930.1,,49188.26,"175,710.10",0,224898.36,2021
+3678,Baker,Jonathan,Airport,Police Officer,11/26/2000,"141,627.20",1,37520.60,91934.98,,68549.06,"266,517.98",0,335067.04,2021
+4650,Balaburova,Petya,Mission Street/Field,Police Officer,2/11/2018,"128,564.80",1,11595.04,12017.46,,25804.91,"138,620.50",0,164425.41,2021
+4056,Balbiani,Jason,Mission Street,Police Sergeant,7/1/2007,"163,924.80",1,27794.70,3361.03,,63866.37,"192,869.32",0,256735.69,2021
+3387,Banister,Jeffrey,Mission Street/Field,Police Officer,9/9/1996,"141,627.20",1,32072.95,69017.1,,68549.06,"238,152.45",0,306701.51,2021
+2084T,Banuelos Villagrana,Jimmy,Mission Street/Field,Police Officer,2/22/2022,"105,726.40",1,105726.40,,,,,,,2022
+4661,Banzon,Marianne,Mission Street/Field,Police Officer,2/11/2018,"128,564.80",1,17794.00,13044.74,,24962.54,"145,846.74",0,170809.28,2021
+3732,Barajas,Georgina,Mission Street,Police Sergeant,1/7/2001,"156,145.60",1,28533.66,30598.79,,71900.09,"200,794.85",0,272694.94,2021
+4329,Barajas,Anthony,Mission Street/Field,Police Officer,10/11/2013,"141,627.20",1,20691.93,58143.39,,41612.8,"215,897.72",0,257510.52,2021
+3716,Barnard,Thomas,Mission Street/Field,Police Officer,1/7/2001,"141,627.20",1,24672.52,61226.66,,67946.3,"222,961.58",0,290907.88,2021
+4644,Barnes,Anthony,Mission Street/Field,Police Officer,2/11/2018,"128,564.80",1,11595.04,24670.31,,24132.23,"151,273.35",0,175405.58,2021
+4626,Barocio-Velasquez,Marco,Mission Street/Field,Police Officer,6/15/2017,"128,564.80",1,21249.96,47871.45,,26695.1,"184,129.41",0,210824.51,2021
+4106,Barragan,Ivan,Mission Street,Police Sergeant,4/1/2001,"156,145.60",1,31055.51,76945.37,,70137.29,"249,663.28",0,319800.57,2021
+2099T,Barragan,Robert,Mission Street/Field,Police Officer,2/22/2022,"105,726.40",1,105726.40,,,,,,,2022
+4336,Barrera,Jonathan,Mission Street/Field,Police Officer,10/11/2013,"141,627.20",1,29024.46,53983.69,,21444.53,"220,070.55",0,241515.08,2021
+4259,Barrett,Chad,Mission Street/Field,Police Officer,9/21/2012,"141,627.20",1,31766.54,72447.78,,68549.06,"241,276.72",0,309825.78,2021
+4520,Barrett,William,Mission Street/Field,Police Officer,2/12/2017,"134,888.00",1,15711.14,37064.02,,29528.1,"173,539.96",0,203068.06,2021
+4770,Barrientez,Michael,Mission Street/Field,Police Officer,2/24/2019,"122,304.00",1,12087.84,28303.3,,36651.87,"149,393.04",0,186044.91,2021
+3703,Barry,Nicholas,Mission Street/Field,Police Officer,1/7/2001,"141,627.20",1,24378.92,69528.11,,68549.06,"230,969.43",0,299518.49,2021
+3652,Barton,Jason,Mission Street/Field,Police Sergeant,1/10/2000,"163,924.80",1,29403.59,48146.08,,72524.83,"229,856.87",0,302381.7,2021
+3375,Bays,Ronald,Alameda,Police Sergeant,9/9/1996,"163,924.80",1,27794.70,82431.76,,76054.41,"268,866.46",0,344920.87,2021
+4662,Becerra,Jose,Mission Street/Field,Police Officer,2/11/2018,"128,564.80",1,15021.60,15742.39,,36787.43,"145,771.99",0,182559.42,2021
+4666,Bejarano,Robert,Mission Street/Field,Police Officer,2/11/2018,"128,564.80",1,11595.04,2622.82,,25804.91,"129,225.86",0,155030.77,2021
+4863,Belhamra,Mouhcine,Mission Street/Field,Police Officer,10/20/2019,"116,563.20",1,14607.36,49284.25,,31632.11,"168,835.61",0,200467.72,2021
+3828,Benitez,Carlos,Mission Street/Field,Police Officer,7/7/2002,"141,627.20",1,27805.48,236.61,,68549.06,"165,104.49",0,233653.55,2021
+4548,Benn,Alexander,Mission Street/Field,Police Officer,6/15/2017,"128,564.80",1,8913.20,0,,24317.31,"57,619.46",0,81936.77,2021
+3705,Bennett,Nathaniel,1st Street,Police Sergeant,1/7/2001,"163,924.80",1,33943.46,32247.51,,76000.88,"228,145.33",0,304146.21,2021
+2067T,Benson,Jake,Mission Street/Field,Police Officer,10/17/2021,"105,726.40",1,1898.35,176.37,,773.7,"19,534.72",0,20308.42,2021
+3677,Beretta,Marc,Mission Street/Field,Police Officer,11/26/2000,"141,627.20",1,26140.52,5588.34,,68549.06,"168,791.26",0,237340.32,2021
+4082,Berget,Scott,Mission Street/Field,Police Officer,7/1/2007,"141,627.20",1,22394.05,4199.75,,63196.57,"151,295.10",0,214491.67,2021
+4739,Bernard,Matthew,Mission Street/Field,Police Officer,10/19/2018,"122,304.00",1,15363.83,33827.44,,25845.69,"160,397.67",0,186243.36,2021
+4639,Biallas,Derek,Mission Street/Field,Police Officer,2/11/2018,"128,564.80",1,17794.00,11434.48,,30556.86,"144,236.48",0,174793.34,2021
+3611,Biebel,Jennifer,Mission Street,Police Lieutenant,6/13/1999,"189,883.20",1,32544.89,37729.37,,62046.61,"244,289.46",0,306336.07,2021
+4255,Biebel,Robert,Mission Street,Police Officer,9/21/2012,"141,627.20",1,25901.47,16857.37,,55121.73,"179,821.24",0,234942.97,2021
+4346,Biebel,Steven,1st Street,Police Officer,10/11/2013,"141,627.20",1,28378.92,6966.11,,43302.17,"172,407.43",0,215709.6,2021
+3579,Bielecki,Chris,Mission Street/Field,Police Sergeant,11/15/1998,"156,145.60",1,24682.09,50445.24,,69200.87,"214,104.93",0,283305.8,2021
+3569,Biskup,Steve,Alameda,Police Officer,11/15/1998,"141,627.20",1,24378.92,473.21,,68549.06,"161,914.53",0,230463.59,2021
+3999,Blackerby,Matthew,1st Street,Police Sergeant,5/6/2007,"163,924.80",1,33575.72,43155.54,,75605.96,"231,962.08",0,307568.04,2021
+4535,Bolduc,Shelby,Mission Street,Police Officer,6/15/2017,"128,564.80",1,21413.51,35538.07,,26316.45,"175,549.18",0,201865.63,2021
+3865,Borges,Michael,Mission Street/Field,Police Officer,1/5/2003,"141,627.20",1,24412.97,11110.45,,68549.06,"172,585.82",0,241134.88,2021
+5011,Borrell de leon,Liana,Mission Street/Field,Police Officer,2/21/2021,"110,968.00",1,7042.84,1496.02,,12769.17,"87,468.46",0,100237.63,2021
+4137,Bottega,Jean-Paul,Mission Street/Field,Police Officer,7/6/2008,"141,627.20",1,23948.48,8953.8,,42000.78,"149,759.88",0,191760.66,2021
+4461,Bowen,Rachel,Mission Street,Police Officer,6/5/2016,"134,888.00",1,21552.41,24298.76,,18881.09,"167,887.27",0,186768.36,2021
+4340,Bowman,Daniel,Mission Street/Field,Police Officer,10/11/2013,"141,627.20",1,25230.05,45555.17,,41539.37,"207,847.62",0,249386.99,2021
+3247,Boyle,Thomas,Mission Street/Field,Police Lieutenant,9/25/1995,"189,883.20",1,31411.27,58615.03,,83997.93,"271,512.70",0,355510.63,2021
+4009,Brackett,Matthew,Mission Street/Field,Police Sergeant,12/31/2006,"148,740.80",1,24378.92,28858.14,,68549.06,"190,299.46",0,258848.52,2021
+4878,Brahimaj,Valtrim,Mission Street/Field,Police Officer,10/20/2019,"116,563.20",1,11564.50,1257.14,,22688.15,"117,765.64",0,140453.79,2021
+4618,Brahney,Kevin,Mission Street/Field,Police Officer,10/20/2017,"128,564.80",1,11711.71,14618.22,,24347.92,"142,843.53",0,167191.45,2021
+4335,Brar,Simratpal,1st Street,Police Officer,10/11/2013,"141,627.20",1,26446.68,11175.96,,41949.86,"174,685.04",0,216634.9,2021
+3513,Brasil,Mario,Mission Street/Field,Police Lieutenant,5/3/1998,"189,883.20",1,33655.11,35588.89,,81407.41,"243,259.20",0,324666.61,2021
+4603,Braun,Ian,Mission Street/Field,Police Officer,10/20/2017,"128,564.80",1,11962.78,35456.21,,25446.82,"164,137.39",0,189584.21,2021
+4559,Brower,Chase,Mission Street,Police Officer,6/15/2017,"128,564.80",1,18265.67,70208.29,,27234.22,"207,071.56",0,234305.78,2021
+3523,Brown,Andrew,Mission Street/Field,Police Officer,5/3/1998,"141,627.20",1,24378.92,18175.73,,68549.06,"179,617.05",0,248166.11,2021
+4409,Brown,George,Mission Street/Field,Police Officer,2/20/2015,"141,627.20",1,34805.53,52.99,,20729.83,"167,727.32",0,188457.15,2021
+4749,Brown,Shawn,Mission Street/Field,Police Officer,10/19/2018,"122,304.00",1,15363.83,28413.37,,25845.69,"158,093.82",0,183939.51,2021
+4823,Brown,Antoine,Mission Street/Field,Police Officer,6/20/2019,"116,563.20",1,11032.00,25898.58,,25326.98,"147,587.72",0,172914.7,2021
+4888,Brown,Keenan,Mission Street/Field,Police Officer,10/20/2019,"116,563.20",1,11180.80,11099.45,,23758.07,"127,224.25",0,150982.32,2021
+3424,Brum,Michael,Mission Street/Field,Police Officer,4/7/1997,"141,627.20",1,24378.92,78153.1,,67946.3,"239,594.42",0,307540.72,2021
+4507,Bryan,Colin,Mission Street,Police Officer,2/12/2017,"134,888.00",1,22464.49,63151.8,,38549.05,"206,381.09",0,244930.14,2021
+4901,Bueno,Aaron-Michael,Mission Street/Field,Police Officer,6/14/2018,"110,968.00",1,16763.14,2214.55,,14746.29,"119,700.09",0,134446.38,2021
+3645,Buhay,Gary,Mission Street,Police Sergeant,1/10/2000,"163,924.80",1,27794.70,98026.6,,76054.41,"284,461.30",0,360515.71,2021
+3807,Bui,Mike,Mission Street/Field,Police Lieutenant,7/7/2002,"172,099.20",1,31221.26,162093.79,,77817.21,"351,955.05",0,429772.26,2021
+4612,Bunevicius,Dainius,Mission Street,Police Officer,10/20/2017,"128,564.80",1,21445.32,66753.24,,26952.97,"205,358.62",0,232311.59,2021
+4899,Burke,Andre,Mission Street/Field,Police Officer,11/15/2020,"128,564.80",1,11910.52,19313.66,,34205.44,"150,303.38",0,184508.82,2021
+4805,Burlyga,Mikhail,Mission Street/Field,Police Officer,12/1/2019,"141,627.20",1,34104.06,64013.44,,68549.06,"235,179.90",0,303728.96,2021
+3929,Burnett,Dustin,Mission Street,Police Sergeant,1/1/2006,"163,924.80",1,27487.05,47716.42,,75375.83,"231,900.27",0,307276.1,2021
+4910,Bushunow,Sergei,Mission Street/Field,Police Officer,2/19/2020,"110,968.00",1,10978.72,5337.27,,21722.74,"117,038.39",0,138761.13,2021
+5043,Bustamante,Omar,Mission Street/Field,Police Officer,6/13/2021,"105,726.40",1,3813.78,297.22,,5110.16,"52,869.40",0,57979.56,2021
+4558,Buth,Sanderson,Mission Street/Field,Police Officer,6/15/2017,"128,564.80",1,26611.62,59754.56,,18354.1,"204,963.78",0,223317.88,2021
+3847,Byrd,Nicholas,Airport/Field,Police Officer,1/5/2003,"141,627.20",1,24878.92,73478.46,,70311.86,"235,419.78",0,305731.64,2021
+4987,Calamateos,Bruce,Mission Street/Field,Police Officer,2/21/2021,"110,968.00",1,7042.84,197.01,,12754.8,"86,169.45",0,98924.25,2021
+4368,Calderon,Eric,Mission Street,Police Officer,5/16/2014,"141,627.20",1,28079.55,35905.95,,41612.8,"201,047.90",0,242660.7,2021
+2131T,Calderon,Blaze,Substation,Police Recruit,6/26/2022,"90,792.00",1,90792.00,,,,,,,2022
+4654,Caligaris,Gerald,Mission Street/Field,Police Officer,2/11/2018,"128,564.80",1,18793.42,32935.54,,21869.36,"164,384.96",0,186254.32,2021
+2095T,Calles,Nicky,Mission Street/Field,Police Officer,2/22/2022,"105,726.40",1,105726.40,,,,,,,2022
+4544,Camacho,Brian,Mission Street/Field,Police Officer,6/15/2017,"128,564.80",1,18265.67,21837.59,,38819.5,"158,700.86",0,197520.36,2021
+4951,Camacho,Anthony,Mission Street/Field,Police Officer,9/3/2006,"110,968.00",1,9954.24,8549.37,,17864.57,"114,937.21",0,132801.78,2021
+5014,Camara,Hassane,Mission Street/Field,Police Officer,2/21/2021,"110,968.00",1,6292.84,2400.18,,13904.73,"87,622.62",0,101527.35,2021
+3561,Camarillo,Christian,Mission Street,Police Sergeant,11/15/1998,"163,924.80",1,30913.61,201212.59,,75375.83,"388,823.00",0,464198.83,2021
+4794,Campbell,Terrence,Mission Street/Field,Police Officer,2/24/2019,"122,304.00",1,16282.38,36109.07,,25172.06,"161,286.65",0,186458.71,2021
+4852,Campos,Johnny,Mission Street/Field,Police Officer,6/20/2019,"116,563.20",1,11032.00,13924.36,,36239.3,"131,972.36",0,168211.66,2021
+4713,Campoy,Alexander,Mission Street/Field,Police Officer,6/14/2018,"122,304.00",1,11441.05,4191.74,,37101.05,"128,653.59",0,165754.64,2021
+2104T,Canlas,Ivan,Mission Street/Field,Police Officer,10/18/2020,"105,726.40",1,4617.00,874.67,,10623.99,"32,878.26",0,43502.25,2021
+4481,Carabarin,Ian,Mission Street,Police Officer,10/25/2016,"134,888.00",1,18795.33,69766.28,,38830.19,"211,191.21",0,250021.4,2021
+3399,Cardenas,Rick,Mission Street/Field,Police Officer,9/9/1996,"141,627.20",1,25378.92,32421.48,,68549.06,"194,862.80",0,263411.86,2021
+4653,Cardenas,John,Mission Street/Field,Police Officer,2/11/2018,"128,564.80",1,22111.46,37354.17,,22852.54,"174,473.63",0,197326.17,2021
+3573,Carlson,Michael,Mission Street/Field,Police Sergeant,11/15/1998,"163,924.80",1,33562.54,48082.58,,56693.61,"240,285.12",0,296978.73,2021
+3853,Carlson,Steven,Mission Street,Police Officer,1/6/2002,"141,627.20",1,24378.92,26248.56,,68549.06,"187,689.88",0,256238.94,2021
+3832,Carmody,Brian,Mission Street/Field,Police Sergeant,1/5/2003,"156,145.60",1,25227.52,18091.34,,72178.73,"185,742.06",0,257920.79,2021
+4681,Caron,Davis,Mission Street/Field,Police Officer,6/14/2018,"122,304.00",1,18093.22,33976.22,,26390.37,"165,090.24",0,191480.61,2021
+4981,Carpenter,Nicholas,Mission Street/Field,Police Officer,2/21/2021,"110,968.00",1,7042.84,2168.7,,13492.68,"88,141.14",0,101633.82,2021
+3335,Carr,John,Mission Street,Police Lieutenant,3/11/1996,"180,772.80",1,29151.84,69671.71,,67446.72,"266,037.15",0,333483.87,2021
+4836,Carrasco,Pilar,Mission Street/Field,Police Officer,6/20/2019,"116,563.20",1,11165.38,31345.58,,36239.3,"149,580.31",0,185819.61,2021
+2123T,Carrera,Abel,Substation,Police Recruit,6/26/2022,"90,792.00",1,90792.00,,,,,,,2022
+4830,Carrillo Jimenez,Alejandro,Mission Street/Field,Police Officer,6/20/2019,"116,563.20",1,11565.50,14266.37,,24654.02,"132,847.87",0,157501.89,2021
+2109T,Carrubba,Dylan,Substation,Police Recruit,6/26/2022,"90,792.00",1,90792.00,,,,,,,2022
+3785,Carter,Jamil,Mission Street/Field,Police Sergeant,1/6/2002,"148,740.80",1,27805.48,29457.8,,70311.86,"194,325.68",0,264637.54,2021
+4281,Carvalho,Cyle,Mission Street,Police Officer,4/12/2013,"141,627.20",1,26253.92,24507.43,,38280.37,"187,823.75",0,226104.12,2021
+2989,Cary,John,Mission Street/Field,Police Sergeant,7/6/1992,"163,924.80",1,27794.70,92591.05,,76054.41,"279,025.75",0,355080.16,2021
+5032,Castillo,Alexander,Mission Street/Field,Police Officer,6/13/2021,"105,726.40",1,3778.78,0,,5832.06,"52,537.18",0,58369.24,2021
+2128T,Castillo,Brandon,Substation,Police Recruit,6/26/2022,"90,792.00",1,90792.00,,,,,,,2022
+4894,Castro,Julian,Mission Street/Field,Police Officer,10/20/2019,"116,563.20",1,11180.80,17650.97,,24360.83,"133,775.77",0,158136.6,2021
+2120T,Castro Lopez,Guillermina,Substation,Police Recruit,6/26/2022,"90,792.00",1,90792.00,,,,,,,2022
+2112T,Castro-Maturino,Christopher,Substation,Police Recruit,6/26/2022,"90,792.00",1,90792.00,,,,,,,2022
+4703,Cazarez,Isaac,Mission Street/Field,Police Officer,6/14/2018,"122,304.00",1,11441.05,5296.74,,35233.01,"129,758.59",0,164991.6,2021
+3151,Ceballos,Juan,Alameda,Police Lieutenant,12/19/1994,"180,772.80",1,33010.84,53238.27,,67019.76,"252,213.11",0,319232.87,2021
+4111,Ceballos,Michael,Mission Street/Field,Police Officer,1/1/2006,"141,627.20",1,13206.43,45535.45,,64557.04,"194,541.48",0,259098.52,2021
+4181,Cerniglia,James,Mission Street/Field,Police Officer,1/4/2009,"141,627.20",1,24378.92,22619.94,,68549.06,"184,061.26",0,252610.32,2021
+3688,Cervantes,Matias,Mission Street,Police Officer,7/9/2000,"141,627.20",1,27805.48,106207.03,,68549.06,"271,074.91",0,339623.97,2021
+4589,Cespedes,Silvana,Mission Street/Field,Police Officer,10/20/2017,"128,564.80",1,15154.14,39401.82,,26049.58,"171,274.36",0,197323.94,2021
+3854,Chan,Ryan,Mission Street/Field,Police Sergeant,1/5/2003,"163,924.80",1,34081.24,99012.66,,55589.01,"291,733.90",0,347322.91,2021
+3735,Chan,Edward,Mission Street/Field,Police Sergeant,10/28/2001,"163,924.80",1,36345.41,63988.09,,76054.41,"258,973.50",0,335027.91,2021
+4370,Chan,Baldwin,Mission Street/Field,Police Officer,11/4/2001,"141,627.20",1,24428.92,31299.42,,43904.93,"192,790.74",0,236695.67,2021
+4651,Chan,David,Mission Street/Field,Police Officer,2/11/2018,"128,564.80",1,15614.89,78505.98,,37358.06,"208,908.07",0,246266.13,2021
+4985,Chandler,Madison,Mission Street/Field,Police Officer,2/21/2021,"110,968.00",1,7042.84,4727.9,,8780.55,"90,700.34",0,99480.89,2021
+4728,Chandrashekar,Subiksh,Mission Street/Field,Police Officer,10/19/2018,"122,304.00",1,15139.78,20417.71,,25211.23,"146,763.89",0,171975.12,2021
+4822,Changeur,Duncan,Mission Street/Field,Police Officer,6/20/2019,"116,563.20",1,11032.00,52184.34,,24654.02,"170,232.34",0,194886.36,2021
+4116,Chavez,Ruben,Mission Street,Police Officer,1/6/2008,"141,627.20",1,24378.92,29680.64,,68549.06,"191,121.96",0,259671.02,2021
+4756,Chavez,Jovanny,Mission Street/Field,Police Officer,10/19/2018,"122,304.00",1,15266.98,23745.17,,25398.79,"150,218.55",0,175617.34,2021
+4767,Checchi,Brian,Mission Street/Field,Police Officer,10/19/2018,"116,563.20",1,11121.28,25312.24,,23253.27,"145,328.72",0,168581.99,2021
+4986,Chen,Eric,Mission Street/Field,Police Officer,2/21/2021,"110,968.00",1,7008.74,169.41,,13904.73,"86,107.75",0,100012.48,2021
+5024,Childs,Sean,Mission Street/Field,Police Officer,6/13/2021,"105,726.40",1,3778.78,229.29,,6563.52,"52,766.47",0,59329.99,2021
+4588,Chu,Michael,Mission Street/Field,Police Officer,10/20/2017,"128,564.80",1,11727.58,7501.27,,26049.58,"135,947.25",0,161996.83,2021
+4754,Chua,Shannon,Mission Street/Field,Police Officer,10/19/2018,"122,304.00",1,19662.71,53371.53,,22851.45,"184,240.64",0,207092.09,2021
+4499,Chung,Colman,Mission Street/Field,Police Officer,10/25/2016,"134,888.00",1,18795.33,11760.55,,39432.95,"153,185.48",0,192618.43,2021
+4976,Cinberg,Mama,Mission Street,Police Officer,10/18/2020,"110,968.00",1,9954.24,6736.62,,32282.57,"113,124.46",0,145407.03,2021
+3756,Clark,Michael,Airport,Police Officer,7/8/2001,"141,627.20",1,31766.54,50261.64,,70311.86,"219,090.58",0,289402.44,2021
+2124T,Clark,Daniel,Substation,Police Recruit,6/26/2022,"90,792.00",1,90792.00,,,,,,,2022
+3516,Cleaver,Gregg,Mission Street/Field,Police Sergeant,5/3/1998,"163,924.80",1,26792.10,68476.53,,73843.16,"247,575.83",0,321418.99,2021
+4812,Cobb,NaQuann,Mission Street/Field,Police Officer,6/20/2019,"116,563.20",1,11032.00,16208.03,,24051.26,"134,256.03",0,158307.29,2021
+4810,Cody,Alexandra,Mission Street/Field,Police Officer,6/20/2019,"116,563.20",1,13867.04,24117.56,,15773.9,"145,000.60",0,160774.5,2021
+3906,Coker,Alan,Mission Street/Field,Police Officer,7/25/2000,"141,627.20",1,24378.92,50906.72,,70311.86,"212,348.04",0,282659.9,2021
+4110,Collins,Daniel,Mission Street/Field,Police Sergeant,1/6/2008,"156,145.60",1,30014.51,67957.8,,69200.87,"236,949.91",0,306150.78,2021
+3414,Connolly,Greg,Mission Street,Police Sergeant,4/7/1997,"163,924.80",1,38714.95,26989.4,,56693.61,"224,344.35",0,281037.96,2021
+3890,Constantin,George,Mission Street,Police Sergeant,9/19/1999,"163,924.80",1,38802.06,58179.19,,53803.39,"247,299.65",0,301103.04,2021
+4570,Contreras,Efraim,Mission Street,Police Officer,2/25/2018,"141,627.20",1,36264.52,73362.09,,68549.06,"246,689.01",0,315238.07,2021
+4109,Cook,Jason,Mission Street/Field,Police Sergeant,1/6/2008,"148,740.80",1,31766.54,14560.81,,68549.06,"183,389.75",0,251938.81,2021
+3886,Cook,Jonathan,Mission Street/Field,Police Officer,1/2/2005,"141,627.20",1,31766.54,65178.79,,70311.86,"234,007.73",0,304319.59,2021
+3450,Cooley,Ian,Alameda,Police Officer,10/20/1997,"141,627.20",1,27378.92,41674.27,,56963.78,"206,115.59",0,263079.37,2021
+4864,Cordero,Brandon,Mission Street/Field,Police Officer,10/20/2019,"116,563.20",1,11230.80,11599.86,,22628.27,"127,774.66",0,150402.93,2021
+5029,Corini,Nickolas,Mission Street/Field,Police Officer,6/13/2021,"105,726.40",1,3778.78,0,,6062.52,"52,537.18",0,58599.7,2021
+3996,Corral,Daniel,Mission Street/Field,Police Officer,7/2/2006,"141,627.20",1,24378.92,78808.84,,68549.06,"240,250.16",0,308799.22,2021
+4251,Cortez,David,Mission Street/Field,Police Officer,9/21/2012,"141,627.20",1,24447.01,48022.81,,56361.02,"209,532.22",0,265893.24,2021
+4476,Cosse,Katrina,Mission Street/Field,Police Officer,10/25/2016,"134,888.00",1,22094.16,25545.6,,41669.45,"174,472.44",0,216141.89,2021
+4065,Cossey,Neil,Mission Street/Field,Police Officer,7/1/2007,"141,627.20",1,31766.54,50144.85,,68549.06,"218,973.79",0,287522.85,2021
+4874,Costa,Jonathan,Mission Street/Field,Police Officer,10/20/2019,"116,563.20",1,11180.80,11343.76,,35343.35,"127,468.56",0,162811.91,2021
+3710,Cote,Joshua,Substation,Police Officer,1/7/2001,"141,627.20",1,24378.92,31487.32,,68549.06,"192,928.64",0,261477.7,2021
+3961,Craig,Christopher,Mission Street,Police Officer,12/3/2006,"141,627.20",1,27041.00,0,,59750.06,"164,103.40",0,223853.46,2021
+4400,Cristancho,Alexander,Mission Street/Field,Police Officer,10/10/2014,"141,627.20",1,24112.08,48762.41,,41884.34,"208,251.29",0,250135.63,2021
+4077,Croucher,Matthew,Mission Street/Field,Police Officer,7/1/2007,"141,627.20",1,20691.93,18598.05,,67362.49,"176,352.38",0,243714.87,2021
+4028,Cruz,Blanky,Mission Street/Field,Police Officer,12/31/2006,"141,627.20",1,30121.82,5443.97,,49188.26,"172,628.19",0,221816.45,2021
+4333,Cruz,Marco Nazareth,Mission Street,Police Officer,10/11/2013,"141,627.20",1,13848.83,18501.07,,40552.18,"169,412.30",0,209964.48,2021
+3915,Cuenca,Gabriel,Mission Street/Field,Police Sergeant,7/3/2005,"156,145.60",1,24682.09,91982.04,,57615.59,"255,641.73",0,313257.32,2021
+4700,Curry,Sean,Mission Street/Field,Police Officer,6/14/2018,"122,304.00",1,17532.82,17028.18,,29286.69,"150,692.02",0,179978.71,2021
+4517,Cuyle,Gerald,Mission Street/Field,Police Officer,2/12/2017,"134,888.00",1,28486.10,40554.74,,27566.53,"189,805.64",0,217372.17,2021
+4855,D'Amico,Jason,Mission Street/Field,Police Officer,5/17/2020,"141,627.20",1,24378.92,11878.48,,70311.86,"173,319.80",0,243631.66,2021
+4148,Dale,Amylynn,Mission Street,Police Officer,1/6/2008,"141,627.20",1,20691.93,21234.2,,55777.21,"178,988.53",0,234765.74,2021
+4453,Daley,Brian,Mission Street/Field,Police Officer,2/12/2016,"141,627.20",1,19349.57,3117.04,,40072.16,"149,313.81",0,189385.97,2021
+4519,Davidson,Todd,Mission Street/Field,Police Officer,2/12/2017,"134,888.00",1,18550.34,75060.18,,38549.05,"214,375.32",0,252924.37,2021
+3230,Davies,Stewart,Mission Street/Field,Police Lieutenant,10/10/1995,"189,883.20",1,31771.21,67268.87,,84791.91,"282,800.08",0,367591.99,2021
+4686,Davis,Jerrod,Mission Street/Field,Police Officer,6/14/2018,"122,304.00",1,11441.05,18031.91,,25515.77,"142,493.76",0,168009.53,2021
+4412,Dawson,Michael,Mission Street/Field,Police Officer,2/20/2015,"141,627.20",1,20174.95,57963.31,,41022.79,"211,266.26",0,252289.05,2021
+4866,De La Torre,Katherine,Mission Street/Field,Police Officer,10/20/2019,"116,563.20",1,14607.36,23760.34,,24413.39,"143,311.70",0,167725.09,2021
+3288,De Lisser,Richard,Mission Street/Field,Police Sergeant,9/25/1995,"163,924.80",1,27794.70,6891.18,,76054.41,"193,325.88",0,269380.29,2021
+5021,Dean,Brianna,Mission Street/Field,Police Officer,7/14/2019,"105,726.40",1,5258.87,2911.95,,14727.57,"92,004.26",24.9,106756.73,2021
+4635,DeGrave,Joshua,Mission Street/Field,Police Officer,2/11/2018,"128,564.80",1,17794.00,8688.48,,26695.1,"141,490.48",0,168185.58,2021
+3808,DeLaCruz,Allan,Mission Street/Field,Police Sergeant,7/7/2002,"163,924.80",1,34579.39,13852.29,,73164.19,"198,750.08",0,271914.27,2021
+4516,Delarocha,Benjamin,Mission Street,Police Officer,2/12/2017,"134,888.00",1,12041.14,40621.16,,24959.1,"173,427.10",0,198386.2,2021
+4103,DelliCarpini,Tori,Mission Street,Police Officer,1/6/2008,"141,627.20",1,33269.76,47892.52,,48083.66,"218,224.68",0,266308.34,2021
+3796,DeLorenzo,Matthew,Mission Street,Police Officer,10/15/2002,"141,627.20",1,31766.54,18129.79,,68549.06,"186,958.73",0,255507.79,2021
+3946,Delossantos,Angelo,Mission Street,Police Officer,1/1/2006,"141,627.20",1,24966.13,1183.03,,68549.06,"163,211.56",0,231760.62,2021
+4900,Desouki,Ibrahim,Mission Street/Field,Police Officer,1/10/2021,"128,564.80",1,15768.99,11360.78,,25229.48,"141,124.97",0,166354.45,2021
+4932,Desroches,Joseph,Mission Street/Field,Police Officer,2/19/2020,"110,968.00",1,10978.72,8791.4,,35577.83,"120,492.52",0,156070.35,2021
+3791,Destro,Matthew,Mission Street/Field,Police Officer,1/6/2002,"141,627.20",1,31766.54,27937.35,,68549.06,"196,766.29",0,265315.35,2021
+4449,Dewberry,Erica,Mission Street/Field,Police Officer,2/12/2016,"141,627.20",1,19349.57,1259.18,,41834.96,"147,455.95",0,189290.91,2021
+4590,Diaz,Roger,Mission Street,Police Officer,10/20/2017,"128,564.80",1,11727.58,19943.57,,37634.86,"148,389.55",0,186024.41,2021
+4890,Diaz,Abigail,Mission Street/Field,Police Officer,10/20/2019,"116,563.20",1,12306.20,8058.97,,19993.91,"125,309.17",0,145303.08,2021
+3781,Diep,Tony,Mission Street/Field,Police Sergeant,1/6/2002,"156,145.60",1,39208.91,89221.99,,49840.07,"267,408.50",0,317248.57,2021
+4631,Dill,Nicolas,Mission Street/Field,Police Officer,2/11/2018,"128,564.80",1,17864.47,5080.37,,16892.66,"137,732.04",0,154624.7,2021
+3863,Dinh,Hung,Mission Street,Police Sergeant,1/5/2003,"163,924.80",1,30963.61,126328.75,,75375.83,"313,989.16",0,389364.99,2021
+4804,Divina,Matthew,Mission Street/Field,Police Officer,10/6/2019,"134,888.00",1,19221.73,18028.31,,51971.95,"163,124.44",0,215096.39,2021
+4571,Doan,Clifford,Mission Street,Police Officer,4/22/2018,"141,627.20",1,23303.34,26496.21,,28770.91,"178,530.75",0,207301.66,2021
+3389,Doane,William,Mission Street/Field,Police Officer,9/9/1996,"141,627.20",1,24378.92,2280.06,,68549.06,"163,721.38",0,232270.44,2021
+4988,Dodge,Taneesha,Mission Street/Field,Police Officer,2/21/2021,"110,968.00",1,6292.84,3975.12,,13904.73,"89,197.56",0,103102.29,2021
+3314,Dominguez,Cristobal,Mission Street/Field,Police Lieutenant,3/11/1996,"180,772.80",1,38207.39,49070.64,,68518.87,"252,077.23",0,320596.1,2021
+3699,Donohue,Stephen,Mission Street,Police Lieutenant,1/7/2001,"189,883.20",1,31822.08,81807.74,,83997.93,"295,116.22",0,379114.15,2021
+4511,Doran,Kevin,Mission Street,Police Officer,2/12/2017,"134,888.00",1,22220.34,7499.65,,40914.61,"150,484.79",0,191399.4,2021
+4964,Dore-Andrews,Robin,Mission Street/Field,Police Officer,10/18/2020,"110,968.00",1,9954.24,4148.78,,31122.53,"110,536.62",0,141659.15,2021
+4021,Dorn,Adam,Mission Street/Field,Police Sergeant,12/31/2006,"156,145.60",1,30126.83,32287.05,,70415.93,"204,837.08",0,275253.01,2021
+4381,Dorris,Kyle,Mission Street,Police Officer,5/16/2014,"141,627.20",1,24378.92,8432.17,,30556.85,"169,873.49",0,200430.34,2021
+4006,Dote,Ryan,Mission Street/Field,Police Sergeant,12/31/2006,"156,145.60",1,30014.51,29754.93,,69200.87,"198,747.04",0,267947.91,2021
+3889,Drago,Michael,Mission Street,Police Sergeant,1/2/2005,"163,924.80",1,28987.85,16033.95,,75375.83,"201,718.60",0,277094.43,2021
+3191,Dragoo,Eric,Mission Street/Field,Police Officer,4/24/1995,"141,627.20",1,30146.76,105006.03,,49188.26,"272,215.19",0,321403.45,2021
+3709,Drew,Christopher,Mission Street/Field,Police Officer,1/7/2001,"141,627.20",1,24378.92,108739.32,,56963.78,"270,180.64",0,327144.42,2021
+2075T,Drewry,Christopher,Mission Street/Field,Police Officer,2/22/2022,"105,726.40",1,105726.40,,,,,,,2022
+2126T,Duggal,Mudit,Substation,Police Recruit,6/26/2022,"90,792.00",1,90792.00,,,,,,,2022
+4309,Dunn,Hymel,Mission Street,Police Officer,4/12/2013,"141,627.20",1,28147.64,42966.05,,41612.8,"208,176.09",0,249788.89,2021
+3564,Dunnett,Michael,Mission Street/Field,Police Officer,11/15/1998,"141,627.20",1,24378.92,67321.78,,68549.06,"228,763.10",0,297312.16,2021
+3862,Duran,Saul,Mission Street,Police Officer,1/5/2003,"141,627.20",1,34573.32,15516.53,,49188.26,"187,152.25",0,236340.51,2021
+2108T,Dutra,David,Substation,Police Recruit,10/22/2017,"90,792.00",1,90792.00,,,,,,,2022
+3551,Dwyer,Jason,Mission Street,Police Captain,11/15/1998,"219,689.60",1,42103.88,34226.95,,75461.35,"288,927.63",0,364388.98,2021
+4788,Edward,David,Mission Street/Field,Police Officer,2/24/2019,"122,304.00",1,11121.28,15570.28,,36511.23,"135,586.76",0,172097.99,2021
+4597,Eitel,William,Mission Street/Field,Police Officer,10/20/2017,"128,564.80",1,11587.30,33115.54,,23065.44,"154,776.44",0,177841.88,2021
+4867,Elie,Fihussein,Mission Street/Field,Police Officer,10/20/2019,"116,563.20",1,14607.36,64901.24,,22688.15,"184,452.60",0,207140.75,2021
+4553,Emmenuel,Elijah,Mission Street/Field,Police Officer,6/15/2017,"128,564.80",1,8100.02,21327.22,,9286.23,"56,469.16",0,65755.39,2021
+3656,Enriquez,Daniel,Mission Street/Field,Police Officer,1/10/2000,"141,627.20",1,23779.20,3096.34,,67251.92,"160,149.54",0,227401.46,2021
+5000,Enriquez,Jorge,Mission Street/Field,Police Officer,2/21/2021,"110,968.00",1,6292.84,1317.5,,12714.15,"86,539.94",0,99254.09,2021
+3821,Enterline,Kevin,Alameda,Police Officer,7/7/2002,"141,627.20",1,30146.76,60529.27,,49188.26,"229,849.22",0,279037.48,2021
+4543,Epperson,Michelle,Mission Street/Field,Police Officer,6/15/2017,"128,564.80",1,12134.53,26184.16,,24873.73,"145,684.29",0,170558.02,2021
+3633,Erbes,Joshua,Airport/Field,Police Sergeant,6/13/1999,"163,924.80",1,27794.70,5494.22,,76054.41,"191,928.92",0,267983.33,2021
+3708,Erdelyi,Christina,Mission Street,Police Officer,1/7/2001,"141,627.20",1,30665.46,46799.69,,48083.66,"214,527.55",0,262611.21,2021
+5046,Erickson,Jason,Mission Street/Field,Police Officer,4/3/2022,"141,627.20",1,141627.20,,,,,,,2022
+2052T,Escasinas,Jazer,Mission Street/Field,Police Officer,10/17/2021,"105,726.40",1,1353.15,0,,1864.5,"18,813.15",0,20677.65,2021
+4984,Eslava,Jorge,Mission Street/Field,Police Officer,2/19/2020,"110,968.00",1,6012.69,3239.5,,12548.91,"84,115.39",0,96664.3,2021
+3902,Espinosa,Derek,Mission Street,Police Officer,7/3/2005,"141,627.20",1,31766.54,48393.81,,68549.06,"217,222.75",0,285771.81,2021
+4938,Esquivel,Jason,Mission Street/Field,Police Officer,6/28/2020,"110,968.00",1,10727.62,4935.27,,22805.32,"116,385.29",0,139190.61,2021
+4339,Estantino,Amanda,Mission Street/Field,Police Officer,10/11/2013,"141,627.20",1,13304.31,59741.41,,28364.14,"210,108.12",0,238472.26,2021
+4704,Esteves,Nicholas,Mission Street/Field,Police Officer,6/14/2018,"122,304.00",1,17532.82,40695.82,,26390.37,"171,249.44",0,197639.81,2021
+4486,Estrada,Gerardo,Mission Street/Field,Police Officer,10/25/2016,"134,888.00",1,22623.66,32946.34,,38483.82,"178,199.60",0,216683.42,2021
+5012,Eyer,Eduardo,Mission Street/Field,Police Officer,2/21/2021,"110,968.00",1,11128.64,300.27,,6521.73,"90,358.51",0,96880.24,2021
+4600,Farley,Andrew,Mission Street/Field,Police Officer,10/20/2017,"128,564.80",1,21504.12,4239.81,,25220.41,"144,520.33",0,169740.74,2021
+3835,Faye,Timothy,Mission Street/Field,Police Officer,1/5/2003,"141,627.20",1,24672.52,23826.51,,52428.06,"185,561.43",0,237989.49,2021
+4375,Fee,Brian,Airport/Field,Police Officer,5/16/2014,"141,627.20",1,24378.92,17765.83,,42142.13,"179,207.15",0,221349.28,2021
+2035T,Felicien,Shae,Mission Street/Field,Police Officer,10/17/2021,"105,726.40",1,1353.15,0,,1505.16,"18,813.15",0,20318.31,2021
+2113T,Feliz,Michael,Substation,Police Recruit,6/26/2022,"90,792.00",1,90792.00,,,,,,,2022
+4903,Fellman,Kyle,Mission Street/Field,Police Officer,2/19/2020,"110,968.00",1,10978.72,5114.32,,34400.01,"116,815.44",0,151215.45,2021
+3921,Ferguson,Ryan,Mission Street/Field,Police Sergeant,7/3/2005,"148,740.80",1,24378.92,63894.36,,56963.78,"229,557.27",0,286521.05,2021
+4030,Ferguson,Kristopher,Mission Street/Field,Police Officer,12/31/2006,"141,627.20",1,31766.54,104194.32,,68549.06,"273,023.26",0,341572.32,2021
+4779,Fermin Weinreb,Victoria,Mission Street/Field,Police Officer,2/24/2019,"122,304.00",1,12812.76,319.82,,36757.34,"122,027.78",0,158785.12,2021
+4531,Fernandez,Cesar,Mission Street,Police Officer,6/15/2017,"128,564.80",1,13153.92,34128.38,,25713.69,"165,879.90",0,191593.59,2021
+4808,Fernandez,Robert,Mission Street/Field,Police Officer,6/20/2019,"116,563.20",1,11032.00,2876.51,,36239.3,"120,924.51",0,157163.81,2021
+4323,Ferrante,Joseph,Mission Street/Field,Police Officer,10/11/2013,"141,627.20",1,13304.31,54137.81,,39949.42,"204,504.52",0,244453.94,2021
+3470,Fiedler,Jeff,Mission Street/Field,Police Officer,10/20/1997,"141,627.20",1,24378.92,121605.69,,68549.06,"283,047.01",0,351596.07,2021
+4897,Fiedziuk,Michael,Mission Street/Field,Police Officer,10/20/2019,"116,563.20",1,14102.24,19625.82,,22025.51,"138,725.41",0,160750.92,2021
+4016,Figone,John,1st Street,Police Sergeant,12/31/2006,"163,924.80",1,33773.59,83239.91,,54910.43,"273,710.30",0,328620.73,2021
+2086T,Finkel,Matthew,Mission Street/Field,Police Officer,2/22/2022,"105,726.40",1,105726.40,,,,,,,2022
+3881,Flores,Miguel,Mission Street,Police Officer,4/13/1998,"141,627.20",1,35193.10,130191.71,,68549.06,"302,447.21",0,370996.27,2021
+4556,Flosi,Travis,Mission Street,Police Officer,6/15/2017,"128,564.80",1,16855.13,52765.25,,37298.97,"192,333.98",0,229632.95,2021
+3939,Fonseca,Vidal,1st Street,Police Sergeant,1/1/2006,"163,924.80",1,30218.66,137106.31,,73843.16,"319,632.17",0,393475.33,2021
+3500,Fonua,Topui,Mission Street,Police Officer,5/3/1998,"141,627.20",1,37534.38,82863.18,,49188.26,"257,459.96",0,306648.22,2021
+2089T,Foss,Alexis,Mission Street/Field,Police Officer,2/22/2022,"105,726.40",1,105726.40,,,,,,,2022
+3583,Fox,Gilbert,Alameda,Police Officer,11/15/1998,"141,627.20",1,24378.92,103388.39,,68549.06,"264,829.71",0,333378.77,2021
+4872,Franklin,Keston,Mission Street/Field,Police Officer,10/20/2019,"116,563.20",1,8329.22,5561.63,,8326.87,"68,307.85",0,76634.72,2021
+4861,Freudenstein,David,Mission Street/Field,Police Officer,10/20/2019,"116,563.20",1,11893.52,20243.96,,21768.99,"137,081.48",0,158850.47,2021
+3880,Fries,Stephen,Mission Street/Field,Police Sergeant,1/2/2005,"148,740.80",1,30146.76,18007.32,,49188.26,"185,216.48",0,234404.74,2021
+3401,Fujii,Barbara,Mission Street/Field,Police Officer,9/9/1996,"141,627.20",1,24378.92,64067.96,,68549.06,"225,509.28",0,294058.34,2021
+4560,Gaarde,Lucas,Mission Street,Police Officer,6/15/2017,"128,564.80",1,11873.20,50249.32,,26316.45,"180,720.12",0,207036.57,2021
+4338,Gach,Matthew,Mission Street,Police Officer,10/11/2013,"141,627.20",1,30146.76,61313.5,,22781.33,"228,522.66",0,251303.99,2021
+3495,Galea,Richard,Mission Street/Field,Police Sergeant,5/3/1998,"163,924.80",1,27794.70,149776.52,,76054.41,"336,211.22",0,412265.63,2021
+4416,Gaona,Steven,Mission Street,Police Officer,2/20/2015,"141,627.20",1,20174.95,35997.93,,33299.27,"193,522.46",0,226821.73,2021
+2037T,Garcia,Jose,Mission Street/Field,Police Officer,10/17/2021,"105,726.40",1,2103.15,105.82,,2245.38,"19,668.97",0,21914.35,2021
+2064T,Garcia,Jesus,Mission Street/Field,Police Officer,10/17/2021,"105,726.40",1,1898.35,0,,773.7,"19,358.35",0,20132.05,2021
+3655,Garcia,Juan,Mission Street/Field,Police Officer,1/10/2000,"141,627.20",1,27397.34,112586.58,,68419.76,"277,046.32",0,345466.08,2021
+3931,Garcia,Ramiro,Mission Street/Field,Police Officer,1/1/2006,"141,627.20",1,27805.48,35469.78,,68549.06,"200,337.66",0,268886.72,2021
+4659,Garcia,Anthony,Mission Street/Field,Police Officer,2/11/2018,"128,564.80",1,17794.00,552.3,,40043.18,"133,354.30",0,173397.48,2021
+4792,Garcia,Antonio,Mission Street/Field,Police Officer,2/24/2019,"122,304.00",1,13916.44,25664.87,,24925.95,"148,476.51",0,173402.46,2021
+4923,Garcia,Pedro,Mission Street/Field,Police Officer,2/19/2020,"110,968.00",1,10978.72,410.77,,22189.9,"112,111.89",0,134301.79,2021
+4925,Garcia,Alfredo,Mission Street/Field,Police Officer,2/19/2020,"110,968.00",1,10978.72,3447.91,,22828.83,"115,149.03",0,137977.86,2021
+4965,Garcia,Brayan,Mission Street/Field,Police Officer,10/18/2020,"110,968.00",1,10362.78,12865.88,,19539.7,"119,662.26",0,139201.96,2021
+5026,Garcia,Elizabeth,Mission Street/Field,Police Officer,6/13/2021,"105,726.40",1,3778.78,264.56,,6313.44,"52,801.74",0,59115.18,2021
+4218,Garibay,Jorge,Mission Street/Field,Police Sergeant,9/21/2012,"156,145.60",1,27353.19,18374.11,,68337.28,"184,825.78",0,253163.06,2021
+4373,Garibay,Carlos,Mission Street/Field,Police Officer,5/16/2014,"141,627.20",1,20691.93,52885.16,,41612.8,"210,639.49",0,252252.29,2021
+4088,Garlit,Wilbert,Mission Street/Field,Police Officer,7/1/2007,"141,627.20",1,31220.46,0,,48083.66,"171,331.84",0,219415.5,2021
+3722,Gaspar,Stanley,Mission Street/Field,Police Officer,1/7/2001,"141,627.20",1,30136.77,60472.6,,49166.64,"227,608.63",0,276775.27,2021
+3957,Gates,Douglas,Mission Street,Police Sergeant,11/5/2006,"163,924.80",1,42610.48,89646.51,,73843.16,"284,564.19",0,358407.35,2021
+4352,Gensole,Carlo Paul,Mission Street,Police Officer,10/11/2013,"141,627.20",1,35193.10,47746.36,,42142.13,"220,001.86",0,262143.99,2021
+4954,Gerow,Jessica,Mission Street/Field,Police Officer,10/18/2020,"110,968.00",1,15722.08,0,,11158.97,"112,155.68",0,123314.65,2021
+4931,Gifford,Jesse,Mission Street/Field,Police Officer,2/19/2020,"110,968.00",1,10978.72,1055.84,,34377.94,"112,756.96",0,147134.9,2021
+4973,Gingery,Bryce,Mission Street/Field,Police Officer,10/18/2020,"110,968.00",1,9954.24,7558.16,,19537.25,"113,946.00",0,133483.25,2021
+4731,Giri,Mohit,Mission Street/Field,Police Officer,10/19/2018,"110,968.00",1,10498.96,1643.08,,20283.65,"108,575.64",0,128859.29,2021
+4860,Goldberg,Samantha,Mission Street/Field,Police Officer,10/20/2019,"116,563.20",1,14015.84,13508.35,,15480.71,"132,468.19",0,147948.9,2021
+4776,Gon,Gregory,Mission Street/Field,Police Officer,2/24/2019,"122,304.00",1,11121.28,9008.13,,24925.95,"129,024.61",0,153950.56,2021
+3771,Gonzales,James,Mission Street,Police Officer,1/6/2002,"141,627.20",1,30146.76,7282.45,,49188.26,"174,491.61",0,223679.87,2021
+3988,Gonzalez,Martin,Mission Street/Field,Police Officer,7/2/2006,"141,627.20",1,29166.78,124224.47,,67946.3,"290,453.65",0,358399.95,2021
+3845,Gonzalez,Pete,Mission Street,Police Officer,1/5/2003,"141,627.20",1,24378.92,21661.65,,68549.06,"183,102.97",0,251652.03,2021
+4915,Gonzalez,Lorena,Mission Street/Field,Police Officer,2/19/2020,"110,968.00",1,12204.34,1607.77,,24725.99,"114,534.51",0,139260.5,2021
+4715,Gordon,Carrie,Mission Street/Field,Police Officer,1/27/2019,"141,627.20",1,24378.92,133205.12,,56963.78,"294,646.44",0,351610.22,2021
+2038T,Gorrell,David,Mission Street/Field,Police Officer,10/17/2021,"105,726.40",1,2562.10,0,,773.7,"20,022.10",0,20795.8,2021
+4892,Gottwals,Andrew,Mission Street/Field,Police Officer,10/20/2019,"116,563.20",1,11180.80,15487.2,,24413.39,"131,612.00",0,156025.39,2021
+4670,Grant,Dionna,Mission Street/Field,Police Officer,6/14/2018,"122,304.00",1,11441.05,19563.24,,24913.01,"144,025.09",0,168938.1,2021
+4928,Grant,Dominique,Mission Street/Field,Police Officer,2/19/2020,"110,968.00",1,11131.21,5146.96,,22242.46,"117,000.57",0,139243.03,2021
+2079T,Gregorio,Jan,Mission Street/Field,Police Officer,2/22/2022,"105,726.40",1,105726.40,,,,,,,2022
+4695,Gregory,Tristan,Mission Street/Field,Police Officer,6/14/2018,"122,304.00",1,11441.05,1241.67,,25515.77,"125,703.52",0,151219.29,2021
+2119T,Grimaldo,Ruben,Substation,Police Recruit,6/26/2022,"90,792.00",1,90792.00,,,,,,,2022
+4647,Grimm Jr,Werner,Mission Street,Police Officer,2/11/2018,"128,564.80",1,17794.00,26180.81,,26695.1,"158,982.81",0,185677.91,2021
+4591,Grodin,Clifford,Mission Street/Field,Police Officer,10/20/2017,"128,564.80",1,18018.76,26816.59,,40301.05,"161,553.75",0,201854.8,2021
+4072,Grondahl,Louis,Mission Street,Police Officer,7/1/2007,"141,627.20",1,24378.92,15959.03,,68549.06,"177,400.35",0,245949.41,2021
+2869,Guerra,Daniel,Mission Street/Field,Police Officer,10/29/1990,"141,627.20",1,27949.74,91345.26,,68549.06,"256,357.40",0,324906.46,2021
+4847,Guerra,Christopher,Mission Street/Field,Police Officer,6/20/2019,"116,563.20",1,14458.56,42702.1,,24103.82,"164,176.66",0,188280.48,2021
+3278,Guerrero,Manuel,Mission Street/Field,Police Officer,9/25/1995,"141,627.20",1,27378.92,493.66,,68549.06,"164,934.98",0,233484.04,2021
+4995,Guerrero Arroyo,Cristian,Mission Street/Field,Police Officer,2/21/2021,"110,968.00",1,6292.84,8935.73,,23073.93,"94,158.17",0,117232.1,2021
+4669,Guevara Monares,Kassandra,Mission Street/Field,Police Officer,10/20/2017,"122,304.00",1,14867.61,31581.48,,25515.77,"159,469.89",0,184985.66,2021
+3483,Guire,Patrick,Mission Street/Field,Police Sergeant,5/31/1998,"163,924.80",1,36345.41,17926.08,,56693.61,"212,911.49",0,269605.1,2021
+3146,Gular,Geeno,Mission Street,Police Lieutenant,3/14/1994,"189,883.20",1,33655.11,74087.11,,81407.41,"281,757.42",0,363164.83,2021
+4253,Gutierrez,Mitchell,Substation,Police Officer,9/21/2012,"141,627.20",1,31766.54,28286.34,,68549.06,"197,115.28",0,265664.34,2021
+4467,Gutierrez,Eric,Mission Street/Field,Police Officer,6/5/2016,"134,888.00",1,27138.46,36113.39,,28188.53,"188,153.45",0,216341.98,2021
+2053T,Gutierrez Rodriguez,Valeria,Mission Street/Field,Police Officer,10/17/2021,"105,726.40",1,2103.15,176.37,,1374.32,"19,739.52",0,21113.84,2021
+4663,Gutteriez,Jonathan,Mission Street/Field,Police Officer,2/11/2018,"128,564.80",1,11595.04,2932.59,,25202.15,"129,535.63",0,154737.78,2021
+4278,Guy,Aidan,Mission Street/Field,Police Officer,4/12/2013,"141,627.20",1,29083.31,75241.92,,20427.6,"196,448.23",0,216875.83,2021
+3993,Habib,Tedros,Mission Street/Field,Police Lieutenant,7/2/2006,"172,099.20",1,28794.70,74331.06,,76054.41,"261,765.76",0,337820.17,2021
+4578,Hackney,Timothy,Mission Street/Field,Police Officer,10/20/2017,"128,564.80",1,19727.58,43710.89,,37634.86,"180,156.87",0,217791.73,2021
+4586,Hahn,Jeffrey,Mission Street/Field,Police Officer,10/20/2017,"128,564.80",1,24305.30,6936.59,,18072.85,"147,960.29",0,166033.14,2021
+4433,Hahn Beltran,Cynthia,Mission Street,Police Officer,5/29/2015,"141,627.20",1,22954.55,13058.07,,34349.17,"167,326.22",0,201675.39,2021
+3370,Haidar,Nabil,Alameda,Police Officer,9/9/1996,"141,627.20",1,27805.48,0,,68549.06,"164,867.88",0,233416.94,2021
+2036T,Halili,Ronald,Mission Street/Field,Police Officer,10/17/2021,"105,726.40",1,2103.15,0,,4167.5,"19,563.15",0,23730.65,2021
+4359,Hall,Daniel,Mission Street/Field,Police Sergeant,10/11/2013,"148,740.80",1,30699.51,23912.44,,21676.73,"191,674.35",0,213351.08,2021
+4246,Hall,William,Mission Street,Police Officer,9/21/2012,"141,627.20",1,30665.46,22705.38,,48083.66,"190,433.24",0,238516.9,2021
+4363,Hall,Jamie,1st Street,Police Officer,4/12/2013,"141,627.20",1,31472.94,14121.45,,43904.93,"182,656.79",0,226561.72,2021
+3600,Hamblin,Paul,Mission Street/Field,Police Lieutenant,6/13/1999,"172,099.20",1,31221.26,132851.66,,76054.41,"322,712.92",0,398767.33,2021
+4522,Hanada,Dereck,Alameda,Police Officer,2/12/2017,"134,888.00",1,18550.34,7594.76,,39151.81,"146,909.90",0,186061.71,2021
+3836,Hansen,Ryan,Mission Street,Police Officer,1/5/2003,"141,627.20",1,24378.92,3904.37,,68549.06,"165,345.69",0,233894.75,2021
+3729,Harden,Timothy,Mission Street/Field,Police Officer,1/7/2001,"141,627.20",1,26086.98,106781.79,,68549.06,"269,931.17",0,338480.23,2021
+4365,Harrington,Mike,Mission Street,Police Officer,10/11/2013,"141,627.20",1,29847.52,30073.57,,41539.37,"196,983.49",0,238522.86,2021
+3327,Harris,Scott,Mission Street,Police Officer,3/11/1996,"141,627.20",1,35185.58,13752.27,,49188.26,"186,000.25",0,235188.51,2021
+4561,Harris,Frank,Mission Street/Field,Police Officer,6/15/2017,"128,564.80",1,11786.41,38364.88,,37581.26,"166,490.85",0,204072.11,2021
+3315,Hartman,Jon,Mission Street/Field,Police Sergeant,3/11/1996,"163,924.80",1,36345.41,7812.42,,76054.41,"202,797.83",0,278852.24,2021
+3966,Harwell,Jeff,Substation,Police Sergeant,7/2/2006,"163,924.80",1,27487.05,25218.58,,75375.83,"209,402.43",0,284778.26,2021
+4815,Hassan,Abrahim,Mission Street/Field,Police Officer,6/20/2019,"116,563.20",1,11032.00,41841.23,,24654.02,"159,889.23",0,184543.25,2021
+3899,Hatzenbuhler,Bret,Mission Street/Field,Police Sergeant,7/3/2005,"163,924.80",1,36345.41,53862.33,,76054.41,"248,847.74",0,324902.15,2021
+4911,Havlick,Dakota,Mission Street/Field,Police Officer,2/19/2020,"110,968.00",1,10978.72,7582.02,,22216.87,"119,283.14",0,141500.01,2021
+4393,Hawkley,Ian,Mission Street/Field,Police Officer,10/10/2014,"141,627.20",1,20407.17,5917.01,,41289.61,"161,219.38",0,202508.99,2021
+4955,Henschell,Thomas,Mission Street/Field,Police Officer,10/18/2020,"110,968.00",1,12789.28,2334.05,,10657.13,"111,556.93",0,122214.06,2021
+4642,Herbert,Dalia,Mission Street,Police Officer,2/11/2018,"128,564.80",1,128564.80,,,,,,,2022
+4797,Heredia,Martin,Mission Street/Field,Police Officer,2/24/2019,"116,563.20",1,10830.12,10307.31,,35370.75,"126,275.03",0,161645.78,2021
+4321,Herman,Dennis,Alameda,Police Officer,10/11/2013,"141,627.20",1,20964.19,3796.54,,41612.8,"161,823.13",0,203435.93,2021
+3690,Hernandez,Enrique,Substation,Police Sergeant,7/9/2000,"163,924.80",1,45127.44,29112.69,,56015.03,"230,936.93",0,286951.96,2021
+3746,Hernandez,Francisco,Mission Street/Field,Police Sergeant,7/8/2001,"156,145.60",1,28654.08,27993.14,,70415.93,"199,070.42",0,269486.35,2021
+3706,Hernandez,Mark,Mission Street,Police Officer,1/7/2001,"141,627.20",1,30146.76,48909.83,,49188.26,"216,118.99",0,265307.25,2021
+4622,Hernandez,Jose,Mission Street,Police Officer,6/17/2018,"141,627.20",1,35981.06,51473.49,,65299.37,"224,516.95",0,289816.32,2021
+2074T,Hernandez,Stephanie,Mission Street/Field,Police Officer,2/22/2022,"105,726.40",1,105726.40,,,,,,,2022
+3287,Hernandez,Alfonso,Mission Street/Field,Police Officer,9/25/1995,"141,627.20",1,29166.78,55203.37,,56963.78,"221,432.55",0,278396.33,2021
+4270,Hernandez,Rodrigo,Mission Street/Field,Police Officer,9/21/2012,"134,888.00",1,22192.56,6549.09,,39399.66,"151,148.05",0,190547.71,2021
+4392,Hernandez,Jesse,Mission Street/Field,Police Officer,10/10/2014,"141,627.20",1,32633.20,55885.98,,41756.17,"223,895.98",0,265652.15,2021
+4493,Hernandez,Tanya,Mission Street,Police Officer,10/25/2016,"134,888.00",1,22221.89,68723.6,,27244.91,"213,575.09",0,240820,2021
+4961,Hernandez,Samuel,Mission Street/Field,Police Officer,10/18/2020,"110,968.00",1,9954.24,9671.42,,29911.83,"116,059.26",0,145971.09,2021
+4856,Herrera,Raul,Mission Street/Field,Police Officer,5/17/2020,"141,627.20",1,19228.98,4566.47,,29397.05,"157,617.08",0,187014.13,2021
+4534,Hilario,Renae,Mission Street,Police Officer,6/15/2017,"128,564.80",1,11873.20,41001.92,,26316.45,"173,530.72",0,199847.17,2021
+3575,Hinch,Michelle,Mission Street,Police Officer,11/15/1998,"141,627.20",1,24378.92,3752.63,,56963.78,"165,193.95",0,222157.73,2021
+4498,Hisatomi,Ronald,Mission Street/Field,Police Officer,10/25/2016,"134,888.00",1,12554.28,19564.91,,37649.34,"153,124.79",0,190774.13,2021
+4818,Ho,Jane,Mission Street/Field,Police Officer,6/20/2019,"116,563.20",1,11032.00,23622.34,,24654.02,"141,670.34",0,166324.36,2021
+4684,Hoang,Steve,Mission Street/Field,Police Officer,6/14/2018,"122,304.00",1,11441.05,12734.46,,23783.21,"137,196.31",0,160979.52,2021
+3503,Hoge,John,Mission Street/Field,Police Officer,5/3/1998,"141,627.20",1,24351.98,32844.52,,68491.01,"194,088.68",0,262579.69,2021
+3457,Hoopes,Michael,Mission Street/Field,Police Officer,10/20/1997,"141,627.20",1,25468.36,44985.6,,68549.06,"207,516.36",0,276065.42,2021
+4935,Hoqoq,Walid,Mission Street/Field,Police Officer,6/28/2020,"110,968.00",1,10727.62,9574.89,,33125.32,"121,024.91",0,154150.23,2021
+3990,Horn,Justin,Mission Street/Field,Police Officer,7/2/2006,"141,627.20",1,27213.96,37883.85,,48083.66,"202,160.21",0,250243.87,2021
+4876,Hou,Oscar,Mission Street/Field,Police Officer,10/20/2019,"116,563.20",1,11180.80,8731.96,,24360.83,"124,856.76",0,149217.59,2021
+3438,Hove,Erik,Mission Street/Field,Police Sergeant,4/7/1997,"163,924.80",1,38181.33,11011.69,,64521.69,"207,833.02",0,272354.71,2021
+3349,Hrncir,Milan,Mission Street,Police Officer,3/11/1996,"141,627.20",1,30132.98,29814.47,,68549.06,"197,009.85",0,265558.91,2021
+3689,Hrncir,Matty,Mission Street,Police Officer,7/9/2000,"141,627.20",1,30121.82,22680.36,,49188.26,"189,864.58",0,239052.84,2021
+4599,Hua,Kevin,Mission Street/Field,Police Officer,10/20/2017,"128,564.80",1,18018.76,31805.07,,26952.97,"166,542.23",0,193495.2,2021
+2135T,Hua,Michael,Substation,Police Recruit,6/26/2022,"90,792.00",1,90792.00,,,,,,,2022
+4604,Huang,Andy,Mission Street/Field,Police Officer,10/20/2017,"128,564.80",1,17143.90,43713.15,,26049.58,"177,575.45",0,203625.03,2021
+4868,Huang,Alex,Mission Street/Field,Police Officer,10/20/2019,"116,563.20",1,13597.12,24492.21,,24360.83,"143,033.33",0,167394.16,2021
+2133T,Huber,Garrett,Substation,Police Recruit,6/26/2022,"90,792.00",1,90792.00,,,,,,,2022
+4761,Huchiyama,Alexander,Mission Street/Field,Police Officer,10/19/2018,"122,304.00",1,11300.42,50361.2,,25310.71,"172,868.02",0,198178.73,2021
+3775,Huiskens,Mark,Mission Street/Field,Police Sergeant,1/6/2002,"148,740.80",1,31766.54,53971.05,,68549.06,"222,799.99",0,291349.05,2021
+4489,Hunter,Stephen,Mission Street/Field,Police Officer,10/25/2016,"134,888.00",1,12185.66,1198.8,,38483.82,"136,014.06",0,174497.88,2021
+3574,Hussey,James,Mission Street/Field,Police Sergeant,11/15/1998,"163,924.80",1,35933.04,58151.22,,75375.83,"250,781.06",0,326156.89,2021
+3407,Hutchings,John,Mission Street/Field,Police Lieutenant,5/5/1997,"189,883.20",1,31771.21,0,,84791.91,"215,531.21",0,300323.12,2021
+3568,Hutson,Adam,Mission Street/Field,Police Sergeant,11/15/1998,"163,924.80",1,31237.05,31241.03,,63843.11,"219,174.88",0,283017.99,2021
+3840,Huynh,Samantha,Airport,Police Sergeant,1/5/2003,"163,924.80",1,31575.91,4474.65,,76054.41,"194,690.56",0,270744.97,2021
+2073T,Huynh,Phu,Mission Street/Field,Police Officer,10/23/2016,"105,726.40",1,5111.85,254.93,,14622.56,"81,600.98",22.56,96246.1,2021
+4574,Ikeuchi,Janelle,Mission Street,Police Officer,2/12/2017,"128,564.80",1,18272.31,15606.89,,26952.97,"150,597.60",0,177550.57,2021
+4128,Ira,Chad,Mission Street/Field,Police Officer,7/6/2008,"141,627.20",1,141627.20,,,,,,,2022
+3388,Ito,Eugene,Mission Street/Field,Police Sergeant,9/9/1996,"163,924.80",1,31221.26,30365,,76054.41,"220,226.26",0,296280.67,2021
+4031,Jantz,Justin,Central Service Yard,Police Sergeant,12/31/2006,"163,924.80",1,34668.67,81997.01,,75375.83,"273,362.48",0,348738.31,2021
+4880,Jaycox,Michael Jonathan,Mission Street/Field,Police Officer,10/20/2019,"116,563.20",1,14015.84,17529.1,,15480.71,"136,488.94",0,151969.65,2021
+3520,Jeffrey,Steven,Mission Street,Police Sergeant,5/3/1998,"163,924.80",1,38889.12,18543.31,,53803.39,"207,750.83",0,261554.22,2021
+3715,Jeffrey,Michael,Mission Street,Police Officer,1/7/2001,"141,627.20",1,31766.54,35274.56,,68549.06,"204,103.50",0,272652.56,2021
+3608,Jennings,Todd,Mission Street,Police Sergeant,6/13/1999,"163,924.80",1,27487.05,173393.53,,75375.83,"357,577.38",0,432953.21,2021
+5038,Jerez,Juan,Mission Street/Field,Police Officer,6/13/2021,"105,726.40",1,4528.78,1075.87,,6339.72,"54,363.05",0,60702.77,2021
+3577,Jett,Bryan,Mission Street/Field,Police Sergeant,11/15/1998,"156,145.60",1,30014.51,41713.26,,69200.87,"210,705.37",0,279906.24,2021
+3425,Jimenez,Jaime,Mission Street/Field,Police Captain,4/7/1997,"199,326.40",1,36837.83,79362,,85760.73,"297,686.23",0,383446.96,2021
+4893,Jimerson,Dexter,Mission Street/Field,Police Officer,10/20/2019,"116,563.20",1,11180.80,12629.92,,24360.83,"128,754.72",0,153115.55,2021
+3259,Johal,Hartaj,Airport,Police Sergeant,9/25/1995,"163,924.80",1,27794.70,38689.74,,76054.41,"225,124.44",0,301178.85,2021
+2060T,John,Ajay,Mission Street/Field,Police Officer,10/17/2021,"105,726.40",1,1452.90,70.54,,1891.3,"18,983.44",0,20874.74,2021
+3289,Johnson,Scott,Mission Street/Field,Police Lieutenant,9/25/1995,"189,883.20",1,37539.05,12329.86,,65431.11,"233,628.91",0,299060.02,2021
+3827,Johnson,Jared,Mission Street,Police Officer,7/7/2002,"141,627.20",1,24661.66,4084.8,,67283.78,"165,808.86",0,233092.64,2021
+4503,Johnson,Clare,Mission Street/Field,Police Officer,10/25/2016,"134,888.00",1,18550.34,75456.01,,27566.53,"214,771.15",0,242337.68,2021
+3838,Jolliff,Christopher,Mission Street/Field,Police Officer,1/5/2003,"141,627.20",1,24378.92,24231.51,,56963.78,"185,672.83",0,242636.61,2021
+4509,Jor'dan,Khalil,Mission Street/Field,Police Officer,2/12/2017,"128,564.80",1,17669.55,0,,26500.82,"131,350.14",0,157850.96,2021
+3148,Joseph,Paul,Mission Street,Assist Police Chief U,12/19/1994,"277,388.62",1,24057.23,58129.84,,103710.2,"336,728.98",0,440439.18,2021
+4108,Jourdenais,Nicholas,Mission Street/Field,Police Sergeant,1/6/2008,"163,924.80",1,27794.70,60380.42,,77817.21,"246,815.12",0,324632.33,2021
+2039T,Juarez,Olivia,Mission Street/Field,Police Officer,10/17/2021,"105,726.40",1,2103.15,0,,1509.54,"19,563.15",0,21072.69,2021
+2055T,Juarez,Alexis,Mission Street/Field,Police Officer,10/17/2021,"105,726.40",1,1353.15,176.37,,1074.01,"18,989.52",0,20063.53,2021
+4610,Julian,Zackery,Mission Street/Field,Police Officer,10/20/2017,"128,564.80",1,11777.58,63787.29,,37634.86,"192,283.27",0,229918.13,2021
+4585,Kartsang,Tenzin,Mission Street/Field,Police Officer,10/20/2017,"128,564.80",1,15672.84,5381.81,,24944.98,"137,773.05",0,162718.03,2021
+4726,Kaufman,Daniel,Mission Street/Field,Police Officer,10/19/2018,"122,304.00",1,15587.88,74009.81,,25877.39,"200,804.09",0,226681.48,2021
+4885,Kayzar,Dylan,Mission Street/Field,Police Officer,10/20/2019,"116,563.20",1,11180.80,9084.01,,22628.27,"125,208.81",0,147837.08,2021
+4672,Khoo,Benjamin,Mission Street/Field,Police Officer,6/14/2018,"122,304.00",1,11441.05,45877.66,,24913.01,"170,339.51",0,195252.52,2021
+3849,Kidwell,Jason,Mission Street,Police Lieutenant,1/5/2003,"189,883.20",1,31411.27,56064.57,,85760.73,"268,962.24",0,354722.97,2021
+3723,Kilmer,Jason,Airport,Police Sergeant,1/7/2001,"156,145.60",1,25227.52,62275.99,,58830.65,"229,926.71",0,288757.36,2021
+3790,Kilmer,Anthony,Mission Street/Field,Police Sergeant,1/6/2002,"163,924.80",1,27794.70,110202.16,,76054.41,"296,636.86",0,372691.27,2021
+4718,Kim,Barron,Mission Street/Field,Police Officer,6/15/2017,"122,304.00",1,14248.39,19148.65,,16072.62,"142,445.04",0,158517.66,2021
+4783,Kim,Chanri,Mission Street/Field,Police Officer,2/24/2019,"122,304.00",1,11227.98,25897.57,,36511.23,"146,020.75",0,182531.98,2021
+4764,King,Daniel,Mission Street/Field,Police Officer,6/16/2019,"134,888.00",1,12115.10,15038.41,,26769.72,"148,872.71",0,175642.43,2021
+3817,Kirby,David,Mission Street/Field,Police Officer,7/7/2002,"141,627.20",1,25793.38,510.87,,68549.06,"163,366.65",0,231915.71,2021
+4748,Kirwan,Matthew,Mission Street/Field,Police Officer,10/19/2018,"122,304.00",1,11300.42,68604.01,,25310.71,"191,110.83",0,216421.54,2021
+4616,Knight,Emily,Mission Street/Field,Police Officer,10/20/2017,"128,564.80",1,11704.66,5095.98,,25404.98,"136,587.72",0,161992.7,2021
+3914,Kodres,Michael,Mission Street/Field,Police Sergeant,7/3/2005,"156,145.60",1,25227.52,36805.81,,70415.93,"204,456.53",0,274872.46,2021
+4944,Kohl,Valerie,Mission Street/Field,Police Officer,2/19/2020,"110,968.00",1,10299.32,6223.17,,26820.16,"112,956.09",0,139776.25,2021
+4918,Koll,Jason,Mission Street/Field,Police Officer,2/19/2020,"110,968.00",1,10978.72,1900.13,,33775.18,"113,601.25",0,147376.43,2021
+4421,Kramer,Joel,Substation,Police Officer,2/20/2015,"141,627.20",1,27350.48,3665.55,,41022.79,"164,144.03",0,205166.82,2021
+3918,Krauel,Tyler,Mission Street/Field,Police Officer,7/3/2005,"141,627.20",1,27373.88,68768.83,,68549.06,"233,205.11",0,301754.17,2021
+4050,Krauss,Daniel,Mission Street,Police Sergeant,12/2/2007,"163,924.80",1,32559.94,96959.63,,54482.36,"281,826.77",0,336309.13,2021
+4989,Kroening,Kody,Mission Street/Field,Police Officer,2/21/2021,"110,968.00",1,7042.84,534,,13976.65,"86,506.44",0,100483.09,2021
+3925,Kubasta,Kristopher,Airport/Field,Police Officer,1/1/2006,"141,627.20",1,24378.92,58637.88,,56963.78,"220,079.20",0,277042.98,2021
+4629,Kulik,Jaime,Mission Street/Field,Police Officer,3/27/2016,"128,564.80",1,17794.00,15255.35,,26695.1,"148,057.35",0,174752.45,2021
+5037,Kumar,Alveen,Mission Street/Field,Police Officer,6/13/2021,"105,726.40",1,3778.78,0,,6563.52,"52,537.18",0,59100.7,2021
+3576,Kurrle,Matthew,Mission Street,Police Officer,11/15/1998,"141,627.20",1,30146.76,236.61,,49188.26,"167,445.77",0,216634.03,2021
+3767,Kurz,Jennifer,Mission Street,Police Officer,1/6/2002,"141,627.20",1,24428.92,0,,68549.06,"161,491.32",0,230040.38,2021
+4889,Kwiatkowski,Mark,Mission Street/Field,Police Officer,10/20/2019,"116,563.20",1,11180.80,12355.49,,35946.11,"128,480.29",0,164426.4,2021
+3596,LaBarbera,Robert,Airport,Police Sergeant,6/13/1999,"163,924.80",1,27794.70,41702.25,,77817.21,"228,136.95",0,305954.16,2021
+3584,Lacayo,Andy,Airport/Field,Police Officer,11/15/1998,"141,627.20",1,27805.48,23779.83,,68549.06,"188,647.71",0,257196.77,2021
+3258,Lagorio,Stephen,Mission Street,Police Captain,9/25/1995,"209,289.60",1,36993.16,46003.33,,86900.53,"272,863.69",0,359764.22,2021
+4420,Lam,Benjamin,Mission Street,Police Officer,2/20/2015,"141,627.20",1,25066.81,87348.81,,41235.99,"245,543.62",0,286779.61,2021
+4563,Landis,Nikko,Mission Street/Field,Police Officer,6/15/2017,"128,564.80",1,11873.20,2767.53,,26316.45,"133,238.33",0,159554.78,2021
+3279,Lang,Robert,Mission Street/Field,Police Lieutenant,9/25/1995,"189,883.20",1,41675.84,106412.82,,86554.71,"331,848.66",0,418403.37,2021
+3938,Lao,Leonard,Mission Street,Police Sergeant,1/1/2006,"163,924.80",1,26477.25,153126.49,,73164.19,"329,922.14",0,403086.33,2021
+3617,Latendresse,Tina,Mission Street/Field,Police Sergeant,6/13/1999,"156,145.60",1,29575.67,47494.18,,51055.13,"219,493.05",0,270548.18,2021
+4881,Lawrence,Cheyanne,Mission Street/Field,Police Officer,10/20/2019,"116,563.20",1,11180.80,18725.36,,23810.63,"138,993.96",0,162804.59,2021
+3348,Le,Minh,Mission Street/Field,Police Officer,3/11/1996,"141,627.20",1,28324.18,156765.38,,67444.46,"322,151.96",0,389596.42,2021
+4842,Ledesma,Eduardo,Mission Street/Field,Police Officer,6/20/2019,"116,563.20",1,14213.10,20035.92,,24654.02,"141,265.02",0,165919.04,2021
+4436,Ledwith,Anthony,Mission Street,Police Officer,5/29/2015,"141,627.20",1,12858.79,24394.2,,39728.36,"168,566.59",0,208294.95,2021
+4473,Lee,Andrew,Mission Street/Field,Police Officer,10/16/2015,"134,888.00",1,3803.44,0,,2667.95,"22,016.84",0,24684.79,2021
+5036,Lee,Jun Ha,Mission Street/Field,Police Officer,6/13/2021,"105,726.40",1,4978.22,1902.22,,2174.76,"55,638.84",0,57813.6,2021
+4608,Legaspi,Daniel,Mission Street/Field,Police Officer,10/20/2017,"128,564.80",1,11727.58,2063.12,,37634.86,"130,509.10",0,168143.96,2021
+4908,Leglu,Jack,Mission Street/Field,Police Officer,2/19/2020,"110,968.00",1,13295.06,1139.43,,15017.14,"115,156.89",0,130174.03,2021
+4846,Leite,Lucas,Mission Street/Field,Police Officer,6/20/2019,"116,563.20",1,14458.56,22744.71,,35636.54,"144,219.27",0,179855.81,2021
+4883,Lemons,Chance,Mission Street/Field,Police Officer,10/20/2019,"116,563.20",1,11180.80,9208,,23758.07,"125,332.80",0,149090.87,2021
+3787,Lemus,Ismael,Mission Street,Police Officer,1/6/2002,"141,627.20",1,36166.78,107356.25,,68549.06,"280,585.43",0,349134.49,2021
+4962,Leon,Francisco,Mission Street/Field,Police Officer,10/18/2020,"110,968.00",1,9954.24,6074.43,,18993.79,"112,462.27",0,131456.06,2021
+4913,Leonard,Ryan,Mission Street/Field,Police Officer,2/19/2020,"110,968.00",1,10978.72,14603.1,,21140.21,"126,304.22",0,147444.43,2021
+4264,Leslie,Ryan,Mission Street/Field,Police Officer,9/21/2012,"141,627.20",1,32026.76,0,,48083.66,"169,089.16",0,217172.82,2021
+4948,Letemplier,Brandon,Mission Street/Field,Police Officer,10/18/2020,"110,968.00",1,9954.24,2300.31,,19537.25,"108,688.15",0,128225.4,2021
+3997,LeVos,Jonathan,Mission Street,Police Sergeant,5/6/2007,"163,924.80",1,27487.05,33093.44,,75375.83,"217,277.29",0,292653.12,2021
+4414,Lezama,David,Mission Street/Field,Police Officer,2/20/2015,"141,627.20",1,27505.81,23535.71,,19862.15,"178,525.02",0,198387.17,2021
+5017,Lim,Vincent,Mission Street/Field,Police Officer,12/12/2021,"128,564.80",1,649.74,0,,758.25,"5,594.54",0,6352.79,2021
+4673,Lindenberg,Jessica,Mission Street,Police Officer,6/14/2018,"122,304.00",1,11441.05,21466.74,,24913.01,"145,928.59",0,170841.6,2021
+4583,Lippert,John,Mission Street/Field,Police Officer,10/20/2017,"128,564.80",1,18018.76,72737.89,,26952.97,"207,475.05",0,234428.02,2021
+5001,Lira,Anthony,Mission Street/Field,Police Officer,2/21/2021,"110,968.00",1,6292.84,2904.87,,13904.73,"88,127.31",0,102032.04,2021
+3977,Little,Aaron,Mission Street,Police Sergeant,7/2/2006,"156,145.60",1,26861.08,61874.56,,70415.93,"233,844.40",0,304260.33,2021
+4991,Lloyd,Essence,Mission Street/Field,Police Officer,2/21/2021,"110,968.00",1,6342.84,2210.13,,13755.3,"87,482.57",0,101237.87,2021
+4682,Loizzo,Brendon,Mission Street/Field,Police Officer,6/14/2018,"122,304.00",1,17532.82,3733.01,,25787.61,"134,286.63",0,160074.24,2021
+3439,Lombardo,Gregory,Substation,Police Captain,1/30/1995,"209,289.60",1,33173.71,84846.74,,85657.17,"304,322.85",0,389980.02,2021
+4870,Lopes,Matthew,Mission Street/Field,Police Officer,10/20/2019,"116,563.20",1,11180.80,11727.01,,23810.63,"127,851.81",0,151662.44,2021
+4036,Lopez,Alvaro,Mission Street/Field,Police Officer,12/31/2006,"141,627.20",1,31766.54,118802.75,,68549.06,"287,631.69",0,356180.75,2021
+4132,Lopez,Bernardo,Mission Street/Field,Police Officer,7/6/2008,"141,627.20",1,27679.20,28280.36,,68549.06,"193,021.96",0,261571.02,2021
+2090T,Lopez,Kevin,Mission Street/Field,Police Officer,2/22/2022,"105,726.40",1,105726.40,,,,,,,2022
+4496,Lopez,Erik,Mission Street/Field,Police Officer,10/25/2016,"134,888.00",1,22221.89,96182.47,,27847.67,"241,033.96",0,268881.63,2021
+4762,Lopez,Eric,Mission Street/Field,Police Officer,10/19/2018,"122,304.00",1,14095.58,15413.27,,25258.15,"140,715.25",0,165973.4,2021
+4784,Lopez,Miguel,Mission Street/Field,Police Officer,2/24/2019,"122,304.00",1,16239.32,57638,,25172.06,"182,772.52",0,207944.58,2021
+4500,Low,Ryan,Mission Street/Field,Police Officer,6/4/2017,"141,627.20",1,34766.54,109809.47,,56963.78,"281,638.41",0,338602.19,2021
+4634,Lozano,Joel,Mission Street/Field,Police Officer,2/11/2018,"128,564.80",1,21055.00,28539.06,,39251.59,"163,342.06",0,202593.65,2021
+4891,Lozano,Daniel,Mission Street/Field,Police Officer,10/20/2019,"116,563.20",1,11180.80,30379.82,,37708.91,"146,504.62",0,184213.53,2021
+4667,Lu,Steven,Mission Street/Field,Police Officer,2/11/2018,"128,564.80",1,17794.00,50643.69,,26747.66,"183,445.69",0,210193.35,2021
+4858,Lubers,Leandro,Mission Street/Field,Police Officer,4/23/2017,"116,563.20",1,11180.80,6011.71,,35946.11,"122,136.51",0,158082.62,2021
+4575,Lui,Steven,Mission Street/Field,Police Officer,2/12/2017,"128,564.80",1,18018.76,29210.21,,26350.21,"163,947.37",0,190297.58,2021
+4825,Luke,Austin,Mission Street/Field,Police Officer,6/20/2019,"116,563.20",1,11032.00,9138.33,,24654.02,"127,186.33",0,151840.35,2021
+4474,Lumauig,Leonard,Mission Street/Field,Police Officer,6/5/2016,"134,888.00",1,12185.66,21872.11,,38483.82,"156,687.37",0,195171.19,2021
+4998,Luu,Aaron,Mission Street/Field,Police Officer,2/21/2021,"110,968.00",1,12293.12,978.03,,6521.73,"92,200.75",0,98722.48,2021
+4308,Ly-Batye,Catherine,1st Street,Police Officer,4/12/2013,"141,627.20",1,30665.46,0,,21676.73,"167,727.86",0,189404.59,2021
+3976,Lynch,John,1st Street,Police Sergeant,7/2/2006,"163,924.80",1,33254.89,23974.35,,56015.03,"215,975.12",0,271990.15,2021
+3769,Lynch,Patrick,Mission Street/Field,Police Officer,7/8/2001,"141,627.20",1,24378.92,51852.29,,67946.3,"213,293.61",0,281239.91,2021
+4956,Lynn,Nathan,Mission Street/Field,Police Officer,10/18/2020,"110,968.00",1,12270.58,251.47,,11761.73,"108,955.65",0,120717.38,2021
+3446,Mabanag,Mark,Substation,Police Officer,11/3/1997,"141,627.20",1,31766.54,109328.98,,68549.06,"278,157.92",0,346706.98,2021
+4042,Macatangay,Rommel,Substation,Police Officer,12/31/2006,"141,627.20",1,20725.98,43680.58,,64984.95,"201,468.96",0,266453.91,2021
+4819,Machado,Travis,Mission Street/Field,Police Officer,6/20/2019,"116,563.20",1,13032.00,42847.1,,24654.02,"162,895.10",0,187549.12,2021
+4222,Macias,Ramon,Mission Street,Police Officer,9/21/2012,"141,627.20",1,21717.64,15757.85,,66420.19,"174,537.89",0,240958.08,2021
+4778,MacInnes,Richard,Mission Street/Field,Police Officer,2/24/2019,"122,304.00",1,12812.76,15038.23,,23439.5,"136,746.19",0,160185.69,2021
+4857,Madera-Arroyo,Jose,Mission Street/Field,Police Officer,4/23/2017,"116,563.20",1,11861.70,20274.33,,37708.91,"137,080.03",0,174788.94,2021
+4034,Magalang,Francis,Substation,Police Officer,12/31/2006,"141,627.20",1,30405.24,11097.43,,68549.06,"178,565.07",0,247114.13,2021
+4895,Magnano,Mitchell,Mission Street/Field,Police Officer,10/20/2019,"116,563.20",1,11180.80,19275.72,,25326.27,"135,400.52",0,160726.79,2021
+3356,Magnuson,Eric,Mission Street/Field,Police Lieutenant,10/21/1996,"180,772.80",1,28631.41,12897.05,,77879.32,"205,454.06",0,283333.38,2021
+5039,Mahe,Moa,Mission Street/Field,Police Officer,6/13/2021,"105,726.40",1,4528.78,811.32,,10659.26,"54,098.50",0,64757.76,2021
+4443,Maldonado,Eduardo,Mission Street/Field,Police Officer,10/16/2015,"141,627.20",1,17125.10,31836.69,,27774.56,"177,692.99",0,205467.55,2021
+4206,Malvido,Eliseo,Mission Street,Police Officer,7/19/2009,"141,627.20",1,27213.96,102793.82,,48083.66,"267,410.63",0,315494.29,2021
+3478,Mank,Brian,Substation,Police Officer,5/31/1998,"141,627.20",1,31766.54,10213.99,,70311.86,"179,042.93",0,249354.79,2021
+3254,Marfia,John,Mission Street/Field,Police Sergeant,9/25/1995,"163,924.80",1,27794.70,27511.53,,76054.41,"213,946.23",0,290000.64,2021
+4464,Markel,Jeremy,Mission Street/Field,Police Officer,6/5/2016,"134,888.00",1,19155.70,116980.66,,28241.09,"261,037.96",0,289279.05,2021
+4572,Marroquin,Amy,Mission Street/Field,Police Officer,10/25/2016,"128,564.80",1,11727.58,7337.59,,26049.58,"135,783.57",0,161833.15,2021
+3542,Marshall,Chad,Substation,Police Officer,3/7/1999,"141,627.20",1,27839.53,8023.21,,68549.06,"172,925.14",0,241474.2,2021
+4621,Marte,Annania,Mission Street,Police Officer,6/17/2018,"134,888.00",1,18675.71,24368.86,,27711.9,"164,763.77",0,192475.67,2021
+4483,Martin,Eduardo,Mission Street,Police Officer,10/25/2016,"134,888.00",1,20576.26,6936.41,,39643.86,"150,142.27",0,189786.13,2021
+3934,Martinez,Richard,Mission Street,Police Sergeant,1/1/2006,"156,145.60",1,30943.69,110928.52,,21977.91,"280,849.81",0,302827.72,2021
+4117,Martinez,Joel,Mission Street/Field,Police Sergeant,1/6/2008,"148,740.80",1,28009.75,78263.97,,70311.86,"243,336.12",0,313647.98,2021
+4084,Martinez,Veronica,Mission Street/Field,Police Officer,4/6/2008,"141,627.20",1,27805.48,89045.27,,42142.13,"253,913.15",0,296055.28,2021
+3467,Martinez,Jeremy,Alameda,Police Officer,10/20/1997,"141,627.20",1,24378.92,50773.21,,68549.06,"213,982.45",0,282531.51,2021
+3815,Martinez,Mario,Mission Street/Field,Police Officer,7/7/2002,"141,627.20",1,31766.54,10153.55,,68549.06,"178,982.49",0,247531.55,2021
+4533,Martinez,Edwin,Mission Street,Police Officer,6/15/2017,"128,564.80",1,19627.47,19254.26,,27234.22,"157,479.33",0,184713.55,2021
+3324,Mata,Anthony,Mission Street,Chief of Police U,3/11/1996,"306,705.93",1,34194.08,0,,91185.41,"317,543.08",0,408728.49,2021
+3302,Matchett,Brian,Mission Street/Field,Police Captain,9/25/1995,"199,326.40",1,32116.21,45824.83,,85533.76,"263,880.24",0,349414,2021
+5031,Mateos,Nelly,Mission Street/Field,Police Officer,6/13/2021,"105,726.40",1,3778.78,264.56,,6563.52,"52,801.74",0,59365.26,2021
+3861,Mattocks,Sean,Mission Street,Police Sergeant,1/5/2003,"156,145.60",1,25227.52,19751.08,,72178.73,"187,401.80",0,259580.53,2021
+3967,Matus,Rodolfo,Mission Street/Field,Police Officer,7/2/2006,"141,627.20",1,27805.48,74034.15,,70311.86,"238,902.03",0,309213.89,2021
+4927,May,Charles,Mission Street/Field,Police Officer,2/19/2020,"110,968.00",1,10978.72,7891.01,,22820.25,"119,592.13",0,142412.38,2021
+4751,Maziarz,Lukasz,Mission Street/Field,Police Officer,10/19/2018,"122,304.00",1,17573.92,88395.7,,37124.7,"220,286.24",0,257410.94,2021
+3634,Mc Alavey,Robert,Mission Street/Field,Police Officer,6/13/1999,"141,627.20",1,26022.96,4618.49,,68549.06,"167,703.85",0,236252.91,2021
+3578,Mc Carthy,Shawn,Mission Street/Field,Police Sergeant,11/15/1998,"163,924.80",1,33562.54,40528.03,,56693.61,"232,730.57",0,289424.18,2021
+3666,Mc Mullen,Denise,Mission Street/Field,Police Sergeant,1/10/2000,"163,924.80",1,28339.92,79797.81,,73164.19,"258,456.13",0,331620.32,2021
+5018,McAlindon,Kevin,Mission Street/Field,Police Officer,1/23/2022,"134,888.00",1,134888.00,,,,,,,2022
+4462,McCaughin,Brooke,Mission Street,Police Officer,6/5/2016,"134,888.00",1,19093.89,6393.21,,27585.77,"150,388.70",0,177974.47,2021
+3979,McClure,Kevin,Mission Street/Field,Police Sergeant,7/2/2006,"148,740.80",1,32114.90,46032.84,,59453.5,"216,851.74",0,276305.24,2021
+4886,McCurdy,Matthew,Mission Street/Field,Police Officer,10/20/2019,"116,563.20",1,11234.15,10409.44,,22688.15,"126,587.59",0,149275.74,2021
+4623,McKenzie,Garrett,Mission Street/Field,Police Officer,7/29/2018,"141,627.20",1,31766.54,13109.04,,70311.86,"181,937.98",0,252249.84,2021
+3893,McKim,Brent,Mission Street/Field,Police Lieutenant,7/3/2005,"180,772.80",1,29151.84,30047.87,,79032,"226,413.31",0,305445.31,2021
+4184,McMahon,Todd,Mission Street/Field,Police Sergeant,1/4/2009,"148,740.80",1,31816.54,31532.79,,68549.06,"200,411.73",0,268960.79,2021
+3913,McMahon,Brian,Mission Street/Field,Police Officer,1/2/2005,"141,627.20",1,30132.98,82631.95,,68549.06,"249,827.33",0,318376.39,2021
+4526,McNamara,Mark,Mission Street/Field,Police Officer,6/15/2017,"128,564.80",1,17569.56,0,,38007.15,"130,869.56",0,168876.71,2021
+5006,McNamara,Daniel,Mission Street/Field,Police Officer,2/21/2021,"110,968.00",1,6292.84,164.31,,13419.53,"85,386.75",0,98806.28,2021
+5027,McNamara,Matthew,Mission Street/Field,Police Officer,6/13/2021,"105,726.40",1,3813.78,0,,6563.52,"52,572.18",0,59135.7,2021
+4024,McNulty,Scott,Mission Street/Field,Police Officer,12/31/2006,"141,627.20",1,30146.76,456.02,,49188.26,"167,665.18",0,216853.44,2021
+4802,Medina,Oscar,Mission Street/Field,Police Officer,2/24/2019,"122,304.00",1,12571.12,17165.72,,23464.22,"138,632.04",0,162096.26,2021
+4816,Meher,Farhad,Mission Street/Field,Police Officer,6/20/2019,"116,563.20",1,14332.28,43445.84,,24654.02,"164,794.12",0,189448.14,2021
+4933,Mekonen,Yedidiya,Mission Street/Field,Police Officer,2/19/2020,"110,968.00",1,10978.72,8773.85,,22799.4,"120,474.97",0,143274.37,2021
+3667,Melo,Carlos,Substation,Police Officer,1/10/2000,"141,627.20",1,27830.48,77996.28,,68549.06,"242,889.16",0,311438.22,2021
+3447,Menard,James,Mission Street/Field,Police Sergeant,11/3/1997,"163,924.80",1,34081.24,47966.11,,55589.01,"240,687.35",0,296276.36,2021
+4937,Mendes,Yanick,Mission Street/Field,Police Officer,6/28/2020,"110,968.00",1,13562.66,3551.85,,13936.22,"117,836.91",0,131773.13,2021
+2034T,Mendez,Marcos,Mission Street/Field,Police Officer,8/9/2020,"105,726.40",1,1353.15,141.1,,2428.92,"18,954.25",0,21383.17,2021
+3763,Mendez,Serina,Alameda,Police Officer,4/2/2002,"141,627.20",1,24378.92,45849.73,,68549.06,"207,291.05",0,275840.11,2021
+4769,Mendez,Mariza,Mission Street/Field,Police Officer,6/14/2018,"122,304.00",1,13902.20,4056.07,,24569.3,"126,853.47",0,151422.77,2021
+4827,Mendez,Steve,Mission Street/Field,Police Officer,6/20/2019,"116,563.20",1,14458.56,15998.08,,16275.74,"141,633.94",0,157909.68,2021
+3547,Mendoza,Jesus,Mission Street,Police Lieutenant,3/7/1999,"189,883.20",1,36761.55,91671.7,,83395.17,"309,919.65",0,393314.82,2021
+3883,Mendoza,Christian,Mission Street/Field,Police Officer,1/2/2005,"141,627.20",1,27805.48,4530.74,,68549.06,"169,398.62",0,237947.68,2021
+3933,Mendoza,Cuahutemoc,Mission Street/Field,Police Officer,1/1/2006,"141,627.20",1,33573.32,18241.93,,49188.26,"188,877.65",0,238065.91,2021
+2046T,Mendoza,Pablo,Mission Street/Field,Police Officer,10/17/2021,"105,726.40",1,1353.15,0,,4167.5,"18,813.15",0,22980.65,2021
+4395,Mendoza,Arturo,Mission Street,Police Officer,10/10/2014,"141,627.20",1,27964.24,17833.75,,41756.17,"181,174.79",0,222930.96,2021
+4267,Mercado,Marco,Mission Street/Field,Police Officer,9/21/2012,"141,627.20",1,20691.93,64390.14,,67362.49,"222,144.47",0,289506.96,2021
+3873,Michalek,Darren,Mission Street/Field,Police Sergeant,1/2/2005,"148,740.80",1,30665.46,62020.9,,48083.66,"229,748.76",0,277832.42,2021
+4020,Miller,Justin,Mission Street/Field,Police Sergeant,12/31/2006,"163,924.80",1,31308.77,73898.22,,73164.19,"255,525.39",0,328689.58,2021
+5033,Miller,Joseph,Mission Street/Field,Police Officer,6/13/2021,"105,726.40",1,4528.78,1002.7,,6589.8,"54,289.88",0,60879.68,2021
+5003,Minkel,Timothy,Mission Street/Field,Police Officer,2/21/2021,"110,968.00",1,8691.72,3022.96,,6521.73,"90,644.28",0,97166.01,2021
+4269,Minten II,Mark,Mission Street/Field,Police Officer,9/21/2012,"141,627.20",1,20691.93,60707.78,,67362.49,"218,462.11",0,285824.6,2021
+2047T,Mir,Suhila,Mission Street/Field,Police Officer,10/17/2021,"105,726.40",1,1353.15,176.37,,1319.1,"18,989.52",0,20308.62,2021
+3947,Miramontes,Isaac,Mission Street/Field,Police Sergeant,1/1/2006,"156,145.60",1,28654.08,56819.96,,72178.73,"227,897.24",0,300075.97,2021
+3860,Miri,Ali,Mission Street,Police Lieutenant,1/5/2003,"180,772.80",1,32196.24,83239.04,,78199.27,"280,234.48",0,358433.75,2021
+4849,Miskeenyar,Umer,Mission Street/Field,Police Officer,6/20/2019,"116,563.20",1,11032.00,55445.16,,24051.26,"173,493.16",0,197544.42,2021
+4189,Mitchell,Ryan,Mission Street,Police Officer,1/4/2009,"141,627.20",1,28372.04,67688.76,,55039.1,"233,123.20",0,288162.3,2021
+3377,Mizuhara,Keith,Mission Street/Field,Police Sergeant,9/9/1996,"163,924.80",1,26792.10,42086,,75605.96,"221,185.30",0,296791.26,2021
+4010,Moggia,Charles,Mission Street/Field,Police Sergeant,12/31/2006,"148,740.80",1,25740.22,16536.03,,68549.06,"179,338.65",0,247887.71,2021
+2115T,Molina,Bryan,Substation,Police Recruit,6/26/2022,"90,792.00",1,90792.00,,,,,,,2022
+4871,Monteon,Stephanie,Mission Street/Field,Police Officer,10/20/2019,"116,563.20",1,14228.52,25370.28,,24360.83,"144,542.80",0,168903.63,2021
+4471,Montesano,Daniel,Mission Street,Police Officer,6/5/2016,"134,888.00",1,19093.89,583.56,,39171.05,"144,579.05",0,183750.1,2021
+4448,Montez,Pilar,Mission Street,Police Officer,10/16/2015,"141,627.20",1,23023.71,78130.22,,28168.15,"229,885.13",0,258053.28,2021
+5034,Montez,James,Mission Street/Field,Police Officer,6/13/2021,"105,726.40",1,3828.78,0,,10199.16,"52,587.18",0,62786.34,2021
+4689,Montgomery,Shawn,Mission Street/Field,Police Officer,6/14/2018,"122,304.00",1,17588.86,36336.06,,24717.69,"166,945.72",0,191663.41,2021
+4773,Moorbrink,Michael,Mission Street/Field,Police Officer,2/24/2019,"116,563.20",1,12812.76,172.45,,36757.34,"121,880.41",0,158637.75,2021
+4765,Mora,Jessica,Mission Street/Field,Police Officer,6/16/2019,"141,627.20",1,25056.93,1152.27,,42022.4,"154,020.40",0,196042.8,2021
+4853,Moraga,Mark,Mission Street/Field,Police Officer,2/9/2020,"141,627.20",1,25370.77,76851.08,,28023.19,"238,056.73",0,266079.92,2021
+3477,Morales,Albert,Substation,Police Sergeant,5/31/1998,"163,924.80",1,39771.97,46209.62,,76054.41,"244,621.59",0,320676,2021
+4315,Morales,Daniel,Mission Street/Field,Police Sergeant,9/30/2013,"148,740.80",1,33559.54,53524.19,,30556.85,"224,146.13",0,254702.98,2021
+4480,Morales,Eric,Mission Street/Field,Police Officer,10/25/2016,"134,888.00",1,18795.33,0,,27847.67,"141,424.93",0,169272.6,2021
+5042,Morales,Vannesa,Mission Street/Field,Police Officer,6/13/2021,"105,726.40",1,4528.78,1443.66,,6339.72,"54,730.84",0,61070.56,2021
+4777,Morar,Cindy,Mission Street/Field,Police Officer,2/24/2019,"122,304.00",1,14309.47,22200.95,,24925.95,"145,405.62",0,170331.57,2021
+4470,Morden,Stephen,Mission Street,Police Officer,6/5/2016,"134,888.00",1,12361.76,34269.82,,27221.97,"171,533.18",0,198755.15,2021
+3454,Moreno,Thomas,Mission Street/Field,Police Sergeant,10/20/1997,"163,924.80",1,27792.10,7968.38,,75605.96,"188,067.68",0,263673.64,2021
+3943,Moreno,David,Mission Street,Police Officer,1/1/2006,"141,627.20",1,24378.92,236.61,,67946.3,"161,677.93",0,229624.23,2021
+4525,Moreno,Eduardo,Mission Street,Police Officer,10/25/2016,"128,564.80",1,15299.76,18925.22,,37901.73,"152,822.58",0,190724.31,2021
+4882,Moreno,Eric,Mission Street/Field,Police Officer,10/20/2019,"116,563.20",1,11180.80,18638.55,,24360.83,"134,763.35",0,159124.18,2021
+4240,Morgan II,Jesse,Mission Street/Field,Police Officer,9/21/2012,"141,627.20",1,31766.54,65691.12,,64235.06,"234,520.06",0,298755.12,2021
+3639,Moro,Justin,Mission Street,Police Lieutenant,1/10/2000,"189,883.20",1,42249.37,40785.21,,61940.6,"256,740.18",0,318680.78,2021
+3956,Mosunic,Eric,Mission Street,Police Officer,11/5/2006,"141,627.20",1,31766.54,28882.01,,68549.06,"197,710.95",0,266260.01,2021
+4379,Motooka,Evan,Mission Street/Field,Police Officer,5/16/2014,"141,627.20",1,24378.92,36567.28,,43904.93,"198,008.60",0,241913.53,2021
+4025,Muller,Thomas,Mission Street,Police Sergeant,12/31/2006,"163,924.80",1,34081.24,24060.17,,55589.01,"216,781.41",0,272370.42,2021
+2087T,Murcia,Edwin,Mission Street/Field,Police Officer,2/22/2022,"105,726.40",1,105726.40,,,,,,,2022
+3325,Murphy,William,Mission Street/Field,Police Lieutenant,3/11/1996,"180,772.80",1,28852.42,34345.79,,78199.27,"227,997.41",0,306196.68,2021
+3350,Myers,Brett,Airport,Police Sergeant,3/11/1996,"163,924.80",1,45418.83,52298.62,,56693.61,"256,357.45",0,313051.06,2021
+4410,Myers,Scott,Mission Street/Field,Police Officer,2/20/2015,"141,627.20",1,21640.25,786.89,,27978.03,"155,827.50",0,183805.53,2021
+4432,Nail,Shayna,Mission Street/Field,Police Officer,5/29/2015,"141,627.20",1,22688.63,31415.18,,29141.73,"184,899.01",0,214040.74,2021
+4053,Nasser,Michael,Central Service Yard,Police Sergeant,12/2/2007,"163,924.80",1,27794.70,7801.24,,76054.41,"194,235.94",0,270290.35,2021
+3877,Natividad,Mark,Mission Street,Police Officer,1/2/2005,"141,627.20",1,31766.54,23687.75,,68549.06,"192,516.69",0,261065.75,2021
+4994,Navarrete,Francisco,Mission Street/Field,Police Officer,2/21/2021,"110,968.00",1,7042.84,2575.29,,25057.48,"88,547.73",0,113605.21,2021
+3651,Neumer,Keith,Mission Street,Police Sergeant,1/10/2000,"163,924.80",1,34081.24,1948.54,,55589.01,"194,669.78",0,250258.79,2021
+4026,Newton,Graeme,Mission Street/Field,Police Sergeant,12/31/2006,"156,145.60",1,25608.52,41887.13,,71137.22,"212,010.05",0,283147.27,2021
+3374,Ngo,Duc,Airport,Police Officer,9/9/1996,"141,627.20",1,31766.54,168765.28,,70311.86,"337,594.22",0,407906.08,2021
+4768,Ngo,Karoline,Mission Street/Field,Police Officer,6/22/2014,"122,304.00",1,12812.76,20323.66,,25172.06,"142,031.62",0,167203.68,2021
+3960,Nguyen,Huan,Mission Street,Police Sergeant,12/3/2006,"163,924.80",1,31256.26,39016.9,,77817.21,"227,976.24",0,305793.45,2021
+4129,Nguyen,Phuong,Mission Street/Field,Police Sergeant,7/6/2008,"148,740.80",1,31766.54,58305.3,,68549.06,"227,134.24",0,295683.3,2021
+2050T,Nguyen,Bao,Mission Street/Field,Police Officer,10/17/2021,"105,726.40",1,1353.15,176.37,,2236.62,"18,989.52",0,21226.14,2021
+4431,Nguyen,Tien,Mission Street,Police Officer,5/29/2015,"141,627.20",1,20540.83,69180.8,,40808.53,"222,388.16",0,263196.69,2021
+4466,Nguyen,Huy,Mission Street/Field,Police Officer,6/5/2016,"134,888.00",1,19093.89,49621.39,,28188.53,"193,616.88",0,221805.41,2021
+4627,Nguyen,Jennica,Mission Street/Field,Police Officer,6/15/2017,"128,564.80",1,21220.55,71990.1,,38280.38,"208,218.65",0,246499.03,2021
+4800,Nguyen,Brendan,Mission Street/Field,Police Officer,2/24/2019,"122,304.00",1,12571.12,27785.77,,24066.98,"149,252.09",0,173319.07,2021
+4838,Nguyen,Quoc,Mission Street/Field,Police Officer,6/20/2019,"116,563.20",1,14074.86,8891.55,,22981.34,"129,982.41",0,152963.75,2021
+4875,Nguyen,Joey,Mission Street/Field,Police Officer,10/20/2019,"116,563.20",1,11180.80,25743.7,,35946.11,"141,868.50",0,177814.61,2021
+2134T,Nguyen,Kelly,Substation,Police Recruit,6/26/2022,"90,792.00",1,90792.00,,,,,,,2022
+4155,Nibungco,Deni,Mission Street/Field,Police Officer,1/4/2009,"141,627.20",1,24878.92,34269.38,,68549.06,"196,210.70",0,264759.76,2021
+2063T,Nikolaev,Natalie,Mission Street/Field,Police Officer,10/17/2021,"105,726.40",1,1620.42,176.37,,815.52,"19,256.79",0,20072.31,2021
+4732,Nishimura,Yasuko,Mission Street/Field,Police Officer,10/19/2018,"122,304.00",1,15622.88,301.17,,25929.95,"127,130.45",0,153060.4,2021
+4906,Novak,Angela,Mission Street/Field,Police Officer,2/19/2020,"110,968.00",1,10978.72,7071.14,,22817.8,"118,772.26",0,141590.06,2021
+4990,Nuanez Jr,Alex,Mission Street/Field,Police Officer,2/21/2021,"105,726.40",1,6327.84,612.56,,11842.38,"85,870.00",0,97712.38,2021
+4772,Nuno Lizaola,Abraham,Mission Street/Field,Police Officer,2/24/2019,"122,304.00",1,14547.84,54309.49,,24925.95,"177,752.53",0,202678.48,2021
+4130,Nyein,Adam,Mission Street/Field,Police Officer,7/6/2008,"141,627.20",1,24378.92,24729.82,,68549.06,"186,171.14",0,254720.2,2021
+4922,O'Brien,Shawn,Mission Street/Field,Police Officer,2/19/2020,"110,968.00",1,10978.72,164.31,,35537.98,"111,865.43",0,147403.41,2021
+3797,O'Neil,Michael,Mission Street,Police Lieutenant,10/15/2002,"172,099.20",1,27794.70,61220.17,,64469.13,"247,654.87",0,312124,2021
+3527,OBrien,Michael,Mission Street,Police Officer,5/3/1998,"141,627.20",1,24727.92,88893.42,,56963.78,"250,683.74",0,307647.52,2021
+4837,Ocegueda,Carlos,Mission Street/Field,Police Officer,6/20/2019,"116,563.20",1,11032.00,18264.16,,22981.34,"136,312.16",0,159293.5,2021
+3683,Ochoa,Manuel,Mission Street,Police Officer,7/9/2000,"141,627.20",1,27805.48,110501.97,,68549.06,"275,369.85",0,343918.91,2021
+3745,Okuma,Wakana,Mission Street/Field,Police Officer,7/8/2001,"141,627.20",1,24378.92,116531.15,,56963.78,"277,972.47",0,334936.25,2021
+5002,Omid,Samim,Mission Street/Field,Police Officer,6/28/2020,"110,968.00",1,7854.39,1635.24,,12714.15,"88,419.23",0,101133.38,2021
+4261,Orellana,Katherine,Mission Street/Field,Police Officer,9/21/2012,"141,627.20",1,26627.02,67563.48,,54631.5,"226,201.70",0,280833.2,2021
+3859,Orlando,Brandon,Mission Street,Police Officer,1/6/2002,"141,627.20",1,31766.54,16636.34,,68549.06,"185,465.28",0,254014.34,2021
+4628,Orozco-Esquivel,Christopher,Mission Street/Field,Police Officer,2/3/2013,"128,564.80",1,15021.60,58500.1,,37390.19,"188,529.70",0,225919.89,2021
+4545,Ortega,Ramon,Mission Street/Field,Police Officer,6/15/2017,"128,564.80",1,19893.99,52511.86,,39100.55,"191,003.45",0,230104,2021
+4850,Ortega,Ruben,Mission Street/Field,Police Officer,6/20/2019,"116,563.20",1,11032.00,14030.17,,31925.3,"132,078.17",0,164003.47,2021
+4834,Ortega Vasquez,Erika,Mission Street/Field,Police Officer,6/20/2019,"116,563.20",1,11245.40,27180.77,,24654.02,"145,442.17",0,170096.19,2021
+3788,Ortiz,Alejandro,Mission Street/Field,Police Sergeant,1/6/2002,"156,145.60",1,22647.11,38912.7,,46227.23,"200,537.41",0,246764.64,2021
+2076T,Ortiz,Albert,Mission Street/Field,Police Officer,2/22/2022,"105,726.40",1,105726.40,,,,,,,2022
+4485,Ortiz,Thomas,Mission Street/Field,Police Officer,10/25/2016,"134,888.00",1,12185.66,19939.28,,26898.54,"154,754.54",0,181653.08,2021
+4217,Osborn,Brent,Mission Street/Field,Police Officer,9/21/2012,"141,627.20",1,36398.56,45889.13,,48083.66,"219,350.09",0,267433.75,2021
+4979,Osmani,Masood,Mission Street/Field,Police Officer,10/18/2020,"110,968.00",1,7644.91,2201.42,,13941.88,"79,022.21",0,92964.09,2021
+4029,Padia,Kasey,Mission Street/Field,Police Sergeant,12/31/2006,"163,924.80",1,26792.10,39841.25,,73843.16,"218,940.55",0,292783.71,2021
+4833,Padilla Navarijo,Axel,Mission Street/Field,Police Officer,6/20/2019,"116,563.20",1,14458.56,20379.63,,24103.82,"141,854.19",0,165958.01,2021
+4237,Palacio,Marcnell,Mission Street,Police Officer,9/21/2012,"141,627.20",1,32941.92,52644.49,,49188.26,"222,648.81",0,271837.07,2021
+3727,Palacios,Arturo,Mission Street,Police Officer,1/7/2001,"141,627.20",1,33237.08,48496.06,,49188.26,"218,795.54",0,267983.8,2021
+3369,Palfalvi,Mark,Mission Street/Field,Police Officer,9/9/1996,"141,627.20",1,24378.92,51453.82,,68549.06,"216,430.98",0,284980.04,2021
+3848,Palmer,Justin,Mission Street,Police Sergeant,1/5/2003,"163,924.80",1,27487.05,33282.41,,75375.83,"217,466.26",0,292842.09,2021
+3974,Panighetti,Michael,Mission Street,Police Officer,7/2/2006,"141,627.20",1,23971.42,563.44,,67614.8,"159,023.06",0,226637.86,2021
+2056T,Panuco Lugo,Max,Mission Street/Field,Police Officer,10/17/2021,"105,726.40",1,1353.15,0,,1505.16,"18,813.15",0,20318.31,2021
+3646,Paolini,Joseph,Mission Street/Field,Police Officer,1/10/2000,"141,627.20",1,24378.92,37303.93,,68549.06,"198,745.25",0,267294.31,2021
+4160,Paredes,Paulo,Mission Street,Police Officer,1/4/2009,"141,627.20",1,27935.48,52674.69,,68549.06,"217,672.57",0,286221.63,2021
+4565,Paredes,Joshua,Mission Street/Field,Police Officer,6/15/2017,"128,564.80",1,25138.38,67599.94,,27234.22,"211,335.92",0,238570.14,2021
+4171,Park,Jason,Mission Street/Field,Police Sergeant,1/4/2009,"156,145.60",1,28653.21,33730.28,,69200.87,"201,361.09",0,270561.96,2021
+4083,Parmar,Rajiv,Mission Street,Police Officer,7/1/2007,"141,627.20",1,26652.84,15467.23,,68549.06,"179,182.47",0,247731.53,2021
+4750,Parraz,Anthony,Mission Street/Field,Police Officer,10/19/2018,"122,304.00",1,11300.42,21116.86,,36843.43,"143,623.68",0,180467.11,2021
+4584,Paskett,Kyle,Mission Street/Field,Police Officer,10/20/2017,"128,564.80",1,12727.58,5789.01,,26049.58,"135,234.99",0,161284.57,2021
+4617,Pasternak,Chris,Mission Street/Field,Police Officer,10/20/2017,"128,564.80",1,11727.58,14111.13,,26049.58,"142,557.11",0,168606.69,2021
+4063,Paul,Robert,Mission Street/Field,Police Officer,7/1/2007,"141,627.20",1,24378.92,7607.12,,70311.86,"169,048.44",0,239360.3,2021
+3971,Payne,Steven,Mission Street,Police Lieutenant,7/2/2006,"180,772.80",1,34399.25,45860.08,,58518.52,"244,184.93",0,302703.45,2021
+4620,Pedreira,Eduardo,Mission Street,Police Officer,5/20/2018,"141,627.20",1,20084.13,26602.54,,40176.13,"181,091.47",0,221267.6,2021
+3429,Pedreira,Fernando,Airport,Police Officer,4/7/1997,"141,627.20",1,31766.54,94471.2,,68549.06,"263,300.14",0,331849.2,2021
+5030,Pedroza,Carlos,Mission Street/Field,Police Officer,6/13/2021,"105,726.40",1,5087.26,0,,2174.76,"53,845.66",0,56020.42,2021
+3276,Pender,William,Mission Street,Police Officer,9/25/1995,"141,627.20",1,24378.92,88801.76,,68549.06,"250,243.08",0,318792.14,2021
+4785,Pereira,Ryan,Mission Street/Field,Police Officer,2/24/2019,"122,304.00",1,11121.28,70839.74,,36511.23,"190,856.22",0,227367.45,2021
+3281,Perez,Gustavo,Mission Street,Police Lieutenant,9/25/1995,"189,883.20",1,41457.37,158793.62,,83997.93,"381,737.39",0,465735.32,2021
+4624,Perez,Ramiro,Mission Street,Police Officer,7/29/2018,"141,627.20",1,37193.10,54580.99,,42142.13,"228,836.49",0,270978.62,2021
+3493,Perez,Victor,Mission Street,Police Officer,5/3/1998,"141,627.20",1,25866.91,42682.55,,67260.87,"210,852.48",0,278113.35,2021
+4759,Perez,Ismael,Mission Street/Field,Police Officer,10/19/2018,"122,304.00",1,14777.98,21824.43,,25715.21,"147,808.81",0,173524.02,2021
+4813,Perez,Rita,Mission Street/Field,Police Officer,4/28/2013,"116,563.20",1,15032.00,36155.68,,16878.5,"158,203.68",0,175082.18,2021
+2132T,Perez-Guerrero,David,Substation,Police Recruit,6/26/2022,"90,792.00",1,90792.00,,,,,,,2022
+4721,Perkins,Emerald,Mission Street/Field,Police Officer,4/16/2006,"122,304.00",1,14907.10,36367.66,,39129.14,"162,481.16",0,201610.3,2021
+3717,Peroutka,Geoff,Mission Street/Field,Police Officer,1/7/2001,"141,627.20",1,24428.92,26557.03,,68549.06,"188,048.35",0,256597.41,2021
+4398,Perry,James,Mission Street,Police Officer,10/10/2014,"141,627.20",1,22499.37,38675.01,,40595.92,"195,828.78",0,236424.7,2021
+4504,Peters,Dakota,Mission Street/Field,Police Officer,2/12/2017,"134,888.00",1,18550.34,17677.55,,38549.05,"156,992.69",0,195541.74,2021
+4953,Peterson,Jared,Mission Street/Field,Police Officer,10/18/2020,"110,968.00",1,10472.94,4858.11,,18432.65,"111,764.65",0,130197.3,2021
+4658,Petterson,Nicholas,Mission Street/Field,Police Officer,2/11/2018,"128,564.80",1,11595.04,52384.42,,25804.91,"178,987.46",0,204792.37,2021
+3951,Pfiefer,Daniel,Mission Street/Field,Police Sergeant,1/1/2006,"156,145.60",1,24682.09,36720.54,,69200.87,"200,380.23",0,269581.1,2021
+3759,Pham,Tri,Mission Street/Field,Police Officer,7/8/2001,"141,627.20",1,27805.48,0,,68549.06,"164,867.88",0,233416.94,2021
+3825,Pickens,James,Substation,Police Officer,7/7/2002,"141,627.20",1,24787.46,39348.73,,68549.06,"201,198.59",0,269747.65,2021
+4399,Pieracci,Nicholas,Mission Street/Field,Police Officer,10/10/2014,"141,627.20",1,31454.70,27926.57,,21253.94,"194,517.27",0,215771.21,2021
+3380,Pierce,Jason,Airport,Police Lieutenant,6/18/1987,"189,883.20",1,40822.77,93847.24,,84791.91,"318,430.01",0,403221.92,2021
+5040,Pierre-Louis,Anya-Lauren,Mission Street/Field,Police Officer,6/13/2021,"105,726.40",1,4528.78,423.29,,6589.8,"53,710.47",0,60300.27,2021
+3952,Pifferini,Roc,Mission Street/Field,Police Officer,7/2/2006,"141,627.20",1,25127.91,54744.7,,70311.86,"216,935.01",0,287246.87,2021
+3818,Pimentel,Mark,Mission Street/Field,Police Officer,7/7/2002,"141,627.20",1,43856.35,36045.96,,22772.03,"137,489.95",0,160261.98,2021
+4941,Pluth,Daniel,Mission Street/Field,Police Officer,6/28/2020,"110,968.00",1,10727.62,8208.91,,22807.77,"119,658.93",0,142466.7,2021
+4963,Porcelli,Matthew,Mission Street/Field,Police Officer,10/18/2020,"110,968.00",1,12270.58,9199.39,,11761.73,"117,903.57",0,129665.3,2021
+4001,Porter,Michael,Mission Street/Field,Police Sergeant,12/31/2006,"163,924.80",1,27049.11,77226.67,,73164.19,"254,594.18",0,327758.37,2021
+3506,Potwora,Douglas,Mission Street,Police Officer,5/3/1998,"141,627.20",1,33146.76,118450.98,,49188.26,"288,660.14",0,337848.4,2021
+3624,Prescott,Leo,Mission Street/Field,Police Lieutenant,6/13/1999,"172,099.20",1,33194.21,83356.46,,76054.41,"275,190.67",0,351245.08,2021
+2093T,Preston,Tyler,Mission Street/Field,Police Officer,2/22/2022,"105,726.40",1,105726.40,,,,,,,2022
+4423,Preuss,Zachary,Mission Street,Police Officer,2/20/2015,"141,627.20",1,20174.95,45114.68,,29437.51,"198,417.63",0,227855.14,2021
+3286,Pritchard,Sean,Mission Street,Police Sergeant,9/25/1995,"163,924.80",1,27794.70,45396.57,,76054.41,"231,831.27",0,307885.68,2021
+4069,Puen-Sadsad,Verissa,Mission Street/Field,Police Sergeant,7/1/2007,"163,924.80",1,27844.70,22690.59,,77817.21,"215,480.09",0,293297.3,2021
+4730,Pujols,John,Mission Street/Field,Police Officer,10/19/2018,"122,304.00",1,16133.14,40050.81,,24539.82,"167,390.35",0,191930.17,2021
+3627,Purnell,Carl,Mission Street/Field,Police Officer,6/13/1999,"141,627.20",1,24672.52,79460.78,,68549.06,"241,195.70",0,309744.76,2021
+4601,Quinonez,Ramon,Mission Street/Field,Police Officer,10/20/2017,"128,564.80",1,14602.49,11332.3,,37576.9,"142,243.59",0,179820.49,2021
+4643,Quintana,Tyler,Mission Street/Field,Police Officer,2/11/2018,"128,564.80",1,11595.04,26934.65,,25804.91,"153,537.69",0,179342.6,2021
+4929,Quintero,Stephanie,Mission Street/Field,Police Officer,2/19/2020,"110,968.00",1,10978.72,9822.66,,27648.06,"121,523.78",0,149171.84,2021
+3329,Ra'oof,Abraham,Mission Street/Field,Police Officer,3/12/1996,"141,627.20",1,24378.92,7035.71,,68549.06,"168,477.03",0,237026.09,2021
+3730,Raghavan,Aneez,Substation,Police Officer,1/7/2001,"141,627.20",1,24651.18,1952,,68549.06,"163,665.58",0,232214.64,2021
+3994,Rak,Kenneth,Mission Street/Field,Police Sergeant,7/2/2006,"156,145.60",1,24682.09,65165.09,,69200.87,"228,824.78",0,298025.65,2021
+4607,Ramadan,Dennis,Mission Street,Police Officer,10/20/2017,"128,564.80",1,18018.76,75370.69,,26952.97,"210,107.85",0,237060.82,2021
+4085,Ramirez,Edgar,Mission Street,Police Officer,6/15/2008,"141,627.20",1,30319.84,2514.41,,68549.06,"169,896.65",0,238445.71,2021
+4201,Ramirez,Elizabeth,Mission Street,Police Officer,7/19/2009,"141,627.20",1,27805.48,62788.1,,67946.3,"227,655.98",0,295602.28,2021
+3524,Ramos,Edward,Substation,Police Officer,5/3/1998,"141,627.20",1,30146.76,40147.93,,49188.26,"207,357.09",0,256545.35,2021
+3919,Ramos,Timothy,Mission Street/Field,Police Officer,7/3/2005,"141,627.20",1,26378.92,3960,,70311.86,"167,401.32",0,237713.18,2021
+4371,Ramos,Armando,Mission Street/Field,Police Officer,5/16/2014,"141,627.20",1,13304.31,22640.68,,40552.18,"173,007.39",0,213559.57,2021
+3528,Randol,Heather,Substation,Deputy Chief of Police U,5/3/1998,"276,716.00",1,42031.67,0,,85771.24,"293,416.53",0,379187.77,2021
+4975,Rasul,Jamal,Mission Street/Field,Police Officer,10/18/2020,"110,968.00",1,9954.24,985.85,,19537.25,"107,373.69",0,126910.94,2021
+3572,Recinos,Mario,Substation,Police Officer,11/15/1998,"141,627.20",1,35193.10,41797.22,,68549.06,"214,052.72",0,282601.78,2021
+3440,Reckas,Ted,Mission Street,Police Officer,8/26/1996,"141,627.20",1,24378.92,130403.67,,68549.06,"291,844.99",0,360394.05,2021
+3249,Redmond,Jonathan,Mission Street/Field,Police Officer,9/25/1995,"141,627.20",1,31972.38,26305.17,,67147.67,"191,478.65",0,258626.32,2021
+4945,Reed,Christopher,Mission Street/Field,Police Officer,10/18/2020,"110,968.00",1,9954.24,9966.52,,31122.53,"116,354.36",0,147476.89,2021
+4404,Reinke,Daren,Mission Street/Field,Police Officer,10/10/2014,"141,627.20",1,13173.69,43748.3,,40313.67,"192,298.79",0,232612.46,2021
+4898,Rey,Andoni,Mission Street/Field,Police Officer,10/20/2019,"116,563.20",1,12678.78,18451.03,,24360.83,"136,073.81",0,160434.64,2021
+4429,Reyes,Eduardo,Mission Street/Field,Police Officer,5/29/2015,"141,627.20",1,25963.79,84325.19,,20242.48,"241,602.58",0,261845.06,2021
+2082T,Reyes,Relly,Mission Street/Field,Police Officer,2/22/2022,"105,726.40",1,105726.40,,,,,,,2022
+4530,Reyes,Espiridion,Mission Street/Field,Police Officer,6/15/2017,"128,564.80",1,16855.13,25688.61,,26316.45,"161,141.34",0,187457.79,2021
+4983,Reynolds,Ryan,Mission Street/Field,Police Officer,2/21/2021,"110,968.00",1,7042.84,5257.85,,13932.85,"91,230.29",0,105163.14,2021
+2083T,Richards,Shelby,Substation,Police Recruit,2/22/2022,"90,792.00",1,90792.00,,,,,,,2022
+4806,Richmond,Michael,Mission Street/Field,Police Officer,12/1/2019,"122,304.00",1,16665.64,71181.24,,25547.9,"201,088.48",0,226636.38,2021
+2058T,Rico,Efrain,Mission Street/Field,Police Officer,10/17/2021,"105,726.40",1,1353.15,176.37,,773.7,"18,989.52",0,19763.22,2021
+4358,Risner,Larry,Mission Street/Field,Police Officer,10/11/2013,"141,627.20",1,20984.99,86973.17,,41655.44,"245,020.56",0,286676,2021
+3855,Rivellini,Donna,Mission Street/Field,Police Officer,1/5/2003,"141,627.20",1,26695.26,14043.49,,49188.26,"177,801.15",0,226989.41,2021
+4688,Rivera,Robert,Mission Street,Police Officer,6/14/2018,"122,304.00",1,12419.52,10416.07,,25658.14,"135,856.39",0,161514.53,2021
+4993,Rivera,Roland,Mission Street/Field,Police Officer,2/21/2021,"110,968.00",1,7042.84,4664.36,,25056.25,"90,636.80",0,115693.05,2021
+3658,Roberson,Michael,Mission Street,Police Officer,1/10/2000,"141,627.20",1,31494.28,12495.57,,68549.06,"181,052.25",0,249601.31,2021
+4079,Roberts,Paul,Mission Street/Field,Police Sergeant,7/1/2007,"148,740.80",1,24378.92,19598.97,,68549.06,"181,040.29",0,249589.35,2021
+3195,Robinson,Stevan,Mission Street/Field,Police Officer,4/24/1995,"141,627.20",1,24378.92,99572.2,,64235.06,"261,013.52",0,325248.58,2021
+4579,Robinson,Sabrina,Mission Street,Police Officer,10/20/2017,"128,564.80",1,14441.82,32486.84,,16948.89,"162,088.26",0,179037.15,2021
+3613,Rocha,Shawn,Mission Street/Field,Police Officer,6/13/1999,"141,627.20",1,24292.67,38179.22,,68354.85,"198,989.57",0,267344.42,2021
+2078T,Rocha Gomez,Miguel,Mission Street/Field,Police Officer,2/22/2022,"105,726.40",1,105726.40,,,,,,,2022
+3814,Rodgers,Thomas,Mission Street/Field,Police Sergeant,7/7/2002,"163,924.80",1,27952.32,72355.28,,64469.13,"258,947.60",0,323416.73,2021
+3263,Rodriguez,Jose,Alameda,Police Sergeant,9/25/1995,"163,924.80",1,31221.26,64763.1,,77817.21,"254,624.36",0,332441.57,2021
+3442,Rodriguez,Victor,Mission Street/Field,Police Officer,7/28/1997,"141,627.20",1,29166.78,61035.39,,68549.06,"227,264.57",0,295813.63,2021
+4185,Rodriguez,Matthew,Mission Street,Police Officer,6/14/1998,"141,627.20",1,24378.92,0,,68549.06,"161,441.32",0,229990.38,2021
+4475,Rodriguez,Daniel,Mission Street,Police Officer,10/25/2016,"134,888.00",1,20369.69,42352.33,,36039.15,"185,351.62",0,221390.77,2021
+4505,Rodriguez,Jennifer,Mission Street/Field,Police Officer,2/12/2017,"134,888.00",1,19880.54,52648.64,,27760.08,"193,293.98",0,221054.06,2021
+4529,Rodriguez,Nicolette,Alameda,Police Officer,6/15/2017,"128,564.80",1,18265.67,10776.38,,27234.22,"147,639.65",0,174873.87,2021
+4537,Rodriguez,Robert,Mission Street/Field,Police Officer,6/15/2017,"128,564.80",1,11873.20,20634.11,,26316.45,"151,104.91",0,177421.36,2021
+5007,Rodriguez,Edmundo,Mission Street/Field,Police Officer,2/21/2021,"110,968.00",1,6292.84,4102.52,,13904.73,"89,324.96",0,103229.69,2021
+5028,Rodriguez,Iliana,Mission Street/Field,Police Officer,6/13/2021,"105,726.40",1,5026.04,0,,2675.76,"53,784.44",0,56460.2,2021
+2102T,Rodriguez-Martinez,Jorge,Mission Street/Field,Police Officer,2/21/2021,"105,726.40",1,4162.43,1253.68,,4559.05,"39,686.76",0,44245.81,2021
+4272,Rollins,Kyle,Mission Street/Field,Police Sergeant,9/21/2012,"148,740.80",1,28478.46,16376.88,,67946.3,"181,917.74",0,249864.04,2021
+4655,Romero,Anthony,Mission Street/Field,Police Officer,2/11/2018,"128,564.80",1,18047.55,8268.31,,38280.38,"141,323.86",0,179604.24,2021
+4577,Rosales,Cirilo,Mission Street,Police Officer,10/26/2014,"128,564.80",1,21495.32,47489.98,,40301.05,"185,791.90",0,226092.95,2021
+4450,Rosario,Ronald,Mission Street/Field,Police Officer,2/12/2016,"141,627.20",1,19432.00,0,,40072.16,"146,737.68",0,186809.84,2021
+4722,Rosario,Alonzo,Mission Street/Field,Police Officer,6/14/2018,"122,304.00",1,17674.42,4200.81,,25145.38,"133,081.63",0,158227.01,2021
+4602,Rouede,Giselle,Mission Street,Police Officer,10/20/2017,"128,564.80",1,18018.76,10730.58,,26952.97,"145,467.74",0,172420.71,2021
+3649,Ruelas,Tony,Mission Street/Field,Police Sergeant,1/10/2000,"163,924.80",1,27794.70,24412.18,,76054.41,"210,846.88",0,286901.29,2021
+4135,Rusteen,Jonathan,Mission Street/Field,Police Officer,7/6/2008,"141,627.20",1,26761.77,1256.65,,68549.06,"165,080.82",0,233629.88,2021
+3719,Ruybal,Michael,Mission Street,Police Sergeant,1/7/2001,"156,145.60",1,25334.79,26515.54,,70415.93,"194,273.53",0,264689.46,2021
+4714,Saavedra,Eric,Mission Street/Field,Police Officer,6/14/2018,"122,304.00",1,14850.50,7173.79,,36466.17,"134,824.29",0,171290.46,2021
+4640,Sabankaya,Ali,Mission Street/Field,Police Officer,2/11/2018,"128,564.80",1,11595.04,7826.73,,37390.19,"134,429.77",0,171819.96,2021
+4668,Sahnic,Amel,Mission Street,Police Officer,12/2/2018,"141,627.20",1,29166.78,16868.52,,68549.06,"183,097.70",0,251646.76,2021
+3602,Saiki,Dwight,Mission Street/Field,Police Sergeant,6/13/1999,"156,145.60",1,32514.51,49063.6,,57615.59,"220,555.71",0,278171.3,2021
+4406,Saini,Mandeep,Mission Street/Field,Police Officer,5/16/2014,"141,627.20",1,21980.70,49516.78,,42998.79,"204,625.48",0,247624.27,2021
+4518,Salinas,Deborah,Mission Street/Field,Police Officer,2/12/2017,"134,888.00",1,12041.14,1698.3,,38217.06,"134,504.24",0,172721.3,2021
+2122T,Salinas,Matthew,Substation,Police Recruit,6/26/2022,"90,792.00",1,90792.00,,,,,,,2022
+3498,Sanchez,Brandon,Mission Street,Police Lieutenant,5/3/1998,"189,883.20",1,34973.54,91621.49,,84791.91,"310,355.03",0,395146.94,2021
+3882,Sanchez,Ruben,Mission Street/Field,Police Sergeant,1/2/2005,"156,145.60",1,28985.08,33289.93,,72900.02,"206,789.41",0,279689.43,2021
+3978,Sanchez,Omar,1st Street,Police Sergeant,7/2/2006,"163,924.80",1,29903.81,25607.03,,73164.19,"205,829.24",0,278993.43,2021
+4832,Sanchez,Alexis,Mission Street/Field,Police Officer,6/20/2019,"116,563.20",1,13063.48,6648.19,,24051.26,"126,727.67",0,150778.93,2021
+5008,Sanchez,Raphael,Mission Street/Field,Police Officer,2/21/2021,"110,968.00",1,6292.84,2249.01,,23559.13,"87,471.45",0,111030.58,2021
+4126,Sanchez Jr,Ramon,Mission Street/Field,Police Sergeant,7/6/2008,"156,145.60",1,33876.49,100128.39,,49840.07,"272,982.48",0,322822.55,2021
+2117T,Sanchez Peralta,Antonio,Substation,Police Recruit,6/26/2022,"90,792.00",1,90792.00,,,,,,,2022
+3539,Sandall,Wade,Substation,Police Officer,3/7/1999,"141,627.20",1,31766.54,56325.42,,68549.06,"225,154.36",0,293703.42,2021
+2071T,Sandoval,Romeo,Mission Street/Field,Police Officer,10/17/2021,"105,726.40",1,2103.15,176.37,,2162.02,"19,739.52",0,21901.54,2021
+4078,Sandoval,Eduardo,Mission Street,Police Officer,7/1/2007,"141,627.20",1,27805.48,116962.12,,68549.06,"281,830.00",0,350379.06,2021
+2062T,Sandoval Ortiz,Jimmy,Mission Street/Field,Police Officer,10/18/2020,"105,726.40",1,4582.05,1406.31,,5384.38,"44,047.59",0,49431.97,2021
+4763,Sandusky,Cameron,Mission Street/Field,Police Officer,10/19/2018,"122,304.00",1,11819.12,335.92,,35738.83,"123,361.44",0,159100.27,2021
+4186,Sanfilippo,Matthew,Mission Street,Police Officer,7/19/2009,"141,627.20",1,30146.76,13108.78,,49188.26,"180,317.94",0,229506.2,2021
+4408,Sanghera,Kamalbir,Mission Street/Field,Police Officer,2/20/2015,"141,627.20",1,23208.47,17479.39,,40505.78,"170,444.26",0,210950.04,2021
+4706,Santana,Heder,Mission Street/Field,Police Officer,6/14/2018,"122,304.00",1,11441.05,12566.64,,25568.33,"137,028.49",0,162596.82,2021
+4724,Santana,Michael,Mission Street/Field,Police Officer,10/26/2014,"122,304.00",1,11300.42,35812.09,,36843.43,"158,318.91",0,195162.34,2021
+3991,Santiago,Jorge,Mission Street/Field,Police Sergeant,7/2/2006,"148,740.80",1,35193.10,48191.12,,67946.3,"220,446.62",0,288392.92,2021
+4376,Santistevan,Christopher,Mission Street/Field,Police Officer,5/16/2014,"141,627.20",1,19590.85,67250.71,,20086.78,"223,903.96",0,243990.74,2021
+4234,Santoro,Sean,Mission Street/Field,Police Officer,9/21/2012,"141,627.20",1,34177.80,16269.22,,48083.66,"187,509.42",0,235593.08,2021
+4936,Sapp,Julia,Mission Street/Field,Police Officer,6/28/2020,"110,968.00",1,10727.62,8431.18,,22820.64,"119,881.20",0,142701.84,2021
+4947,Sass,Kelly,Mission Street/Field,Police Officer,10/18/2020,"110,968.00",1,9954.24,0,,17201.93,"106,387.84",0,123589.77,2021
+4999,Sauceda,Caezar,Mission Street/Field,Police Officer,2/21/2021,"110,968.00",1,6292.84,3121.85,,13904.73,"88,344.29",0,102249.02,2021
+4968,Sauceda-Rios,Anthony,Mission Street/Field,Police Officer,10/18/2020,"110,968.00",1,9954.24,8954.78,,30519.77,"115,342.62",0,145862.39,2021
+4322,Schaller,Trace,1st Street,Police Officer,10/11/2013,"141,627.20",1,24428.92,0,,42142.13,"161,491.32",0,203633.45,2021
+3822,Scherry,Nqui,Mission Street/Field,Police Lieutenant,7/7/2002,"172,099.20",1,31519.88,143277.68,,76696.57,"335,323.96",0,412020.53,2021
+4100,Scholten,Brandon,Airport/Field,Police Officer,1/6/2008,"141,627.20",1,30146.76,5777.43,,49188.26,"172,986.59",0,222174.85,2021
+3045,Schroder,Edward,Mission Street,Deputy Chief of Police U,3/8/1993,"276,716.00",1,33769.89,111468.55,,99659.69,"375,185.44",0,474845.13,2021
+4238,Schwitters,Joshua,Mission Street/Field,Police Officer,9/21/2012,"141,627.20",1,42383.96,86213.59,,56877.69,"265,659.95",0,322537.64,2021
+4151,Sciarrillo,Joseph,Mission Street/Field,Police Sergeant,1/4/2009,"156,145.60",1,23259.92,60771.23,,48034.51,"223,008.75",0,271043.26,2021
+3317,Sciba,Christopher,Substation,Police Sergeant,3/11/1996,"163,924.80",1,33562.54,50768.79,,56693.61,"242,971.33",0,299664.94,2021
+4513,Scott,Lincoln,Mission Street/Field,Police Officer,2/12/2017,"134,888.00",1,18550.34,1160.16,,27619.09,"140,475.30",0,168094.39,2021
+4671,Scott,Andrew,Mission Street/Field,Police Officer,6/14/2018,"122,304.00",1,11441.05,32580.98,,37101.05,"157,098.87",0,194199.92,2021
+4826,Sebastian,Brian Matthew,Mission Street/Field,Police Officer,6/20/2019,"116,563.20",1,13058.91,19112.58,,16335.13,"135,452.99",0,151788.12,2021
+3515,Sebree,Kevin,Mission Street,Police Sergeant,5/3/1998,"163,924.80",1,27834.11,41736.02,,77817.21,"228,210.13",0,306027.34,2021
+3560,Segura,Rolando,Substation,Police Sergeant,11/15/1998,"163,924.80",1,35658.06,85425.88,,61533.81,"279,723.94",0,341257.75,2021
+3789,Semore,Roger,Mission Street,Police Lieutenant,1/6/2002,"189,883.20",1,35105.65,60213.18,,82202.99,"271,664.43",0,353867.42,2021
+4540,Serassio,Steven,Mission Street,Police Officer,6/15/2017,"128,564.80",1,11873.20,36680.67,,37901.73,"167,151.47",0,205053.2,2021
+2111T,Serrano,Roberto,Substation,Police Recruit,6/26/2022,"90,792.00",1,90792.00,,,,,,,2022
+4907,Sesay,Francis,Mission Street/Field,Police Officer,2/19/2020,"110,968.00",1,11078.72,9707.85,,22792.66,"121,508.97",0,144301.63,2021
+4811,Sevillano,Juan,Mission Street/Field,Police Officer,6/20/2019,"116,563.20",1,11032.00,12364.4,,24654.02,"130,412.40",0,155066.42,2021
+3549,Shab,Brian,Mission Street/Field,Deputy Chief of Police U,11/15/1998,"276,716.00",1,38505.91,111458.17,,67539.73,"339,831.28",0,407371.01,2021
+5019,Shepard,Sedona,Mission Street/Field,Police Officer,10/18/2020,"105,726.40",1,7211.57,1058.47,,12265.28,"90,160.98",0,102426.26,2021
+3115,Shigemasa,Carie,Mission Street,Police Officer,3/14/1994,"141,627.20",1,24378.92,105716.02,,68549.06,"267,157.34",0,335706.4,2021
+3698,Silveira,Honorio,Mission Street/Field,Police Officer,1/27/1997,"141,627.20",1,24378.92,7648.72,,68549.06,"169,090.04",0,237639.1,2021
+4633,Silveira,Brandon,Mission Street/Field,Police Officer,2/11/2018,"128,564.80",1,16479.20,5943.06,,38058.46,"137,430.26",0,175488.72,2021
+4216,Simas,Brian,Mission Street,Police Officer,9/21/2012,"141,627.20",1,23078.94,11829.36,,67685.47,"171,970.70",0,239656.17,2021
+4524,Singh,Ranjan,Mission Street,Police Officer,10/22/2017,"141,627.20",1,25467.96,0,,68553.33,"162,530.36",0,231083.69,2021
+4394,Singh,Pranil,Mission Street,Police Officer,10/10/2014,"141,627.20",1,13173.69,65278.33,,28178.19,"213,828.82",0,242007.01,2021
+4752,Singh,Aj,Mission Street/Field,Police Officer,10/19/2018,"122,304.00",1,17562.02,21629.26,,16378.03,"150,397.68",0,166775.71,2021
+4909,Singh,Harmanpreet,Mission Street/Field,Police Officer,2/19/2020,"110,968.00",1,10978.72,8550.01,,22817.19,"120,251.13",0,143068.32,2021
+3216,Singleton,Christopher,Mission Street/Field,Police Sergeant,4/24/1995,"163,924.80",1,36345.41,43974.05,,76054.41,"238,959.46",0,315013.87,2021
+4356,Sipiora,Joseph,Mission Street/Field,Police Officer,10/11/2013,"141,627.20",1,26152.77,51725.85,,41612.8,"214,941.02",0,256553.82,2021
+3662,Sit,James,Mission Street/Field,Police Officer,1/10/2000,"141,627.20",1,24378.92,154460.51,,68549.06,"315,901.83",0,384450.89,2021
+3318,Slack,Steven,Mission Street/Field,Police Sergeant,3/11/1996,"163,924.80",1,34081.24,16542.56,,55589.01,"209,263.80",0,264852.81,2021
+4343,Sloniker,Garrett,Mission Street/Field,Police Officer,10/11/2013,"141,627.20",1,23256.62,46965.74,,40805.33,"207,284.76",0,248090.09,2021
+2042T,Smith,Benjamin,Mission Street/Field,Police Officer,10/17/2021,"105,726.40",1,1353.15,0,,2236.62,"18,813.15",0,21049.77,2021
+3474,Smith,Roderick,Mission Street/Field,Police Officer,10/20/1997,"141,627.20",1,28079.55,16071.27,,67362.49,"181,213.22",0,248575.71,2021
+3858,Smith,Christian,Airport/Field,Police Officer,1/5/2003,"141,627.20",1,26361.12,23136.61,,48471.03,"186,560.13",0,235031.16,2021
+4002,Snelgrove,Erik,Mission Street/Field,Police Sergeant,12/31/2006,"163,924.80",1,14331.55,10947.72,,71017.85,"175,597.67",0,246615.52,2021
+4341,Sohal,Gurbaksh,Mission Street/Field,Police Officer,10/11/2013,"141,627.20",1,20985.53,22478.29,,30027.52,"180,526.22",0,210553.74,2021
+4817,Solas,Mykel Cheeno,Mission Street/Field,Police Officer,6/20/2019,"116,563.20",1,14458.56,14567.79,,24654.02,"136,042.35",0,160696.37,2021
+4122,Solis,Carlos,Alameda,Police Officer,6/15/2008,"141,627.20",1,24378.92,10738.05,,68549.06,"172,179.37",0,240728.43,2021
+3338,Solma,William,Mission Street/Field,Police Officer,3/11/1996,"141,627.20",1,24428.92,75946.41,,68549.06,"237,437.73",0,305986.79,2021
+4676,Soreng,John,Mission Street/Field,Police Officer,6/14/2018,"122,304.00",1,11777.29,27560.75,,23843.09,"152,358.84",0,176201.93,2021
+4793,Soria,Carlos,Mission Street/Field,Police Officer,2/24/2019,"122,304.00",1,16239.32,20354.68,,25172.06,"145,489.20",0,170661.26,2021
+4997,Soto,Serleny,Mission Street/Field,Police Officer,2/21/2021,"110,968.00",1,6292.84,7400.07,,13530.45,"92,622.51",0,106152.96,2021
+3413,Spears,Brian,Mission Street/Field,Police Captain,4/7/1997,"199,326.40",1,31771.21,91593.88,,84791.91,"307,125.09",0,391917,2021
+5044,Spring,Robert,Mission Street/Field,Police Officer,2/20/2022,"141,627.20",1,141627.20,,,,,,,2022
+3526,Stahl,Michael,Mission Street/Field,Police Lieutenant,5/3/1998,"180,772.80",1,33910.93,40037.8,,57442.6,"234,789.53",0,292232.13,2021
+3901,Stanfill,William,Mission Street,Police Sergeant,7/3/2005,"163,924.80",1,33562.54,46228.6,,56693.61,"238,431.14",0,295124.75,2021
+4357,Stenger,Beth,Mission Street/Field,Police Officer,10/11/2013,"141,627.20",1,24378.92,42044.76,,30556.85,"203,486.08",0,234042.93,2021
+4734,Stiehr,Jamison,Mission Street/Field,Police Officer,10/19/2018,"122,304.00",1,21355.72,4394.7,,38671.78,"136,956.82",0,175628.6,2021
+4527,Stimson,Mitchell,Mission Street/Field,Police Officer,6/15/2017,"128,564.80",1,23717.78,37556.21,,40582.3,"183,987.59",0,224569.89,2021
+3291,Storlie,Craig,Mission Street/Field,Police Lieutenant,9/25/1995,"189,883.20",1,35056.30,55035.53,,84791.91,"273,851.83",0,358643.74,2021
+4209,Strangis,Gennaro,Mission Street/Field,Police Officer,7/19/2009,"141,627.20",1,24378.92,6783.12,,70311.86,"168,224.44",0,238536.3,2021
+3548,Stults,Jeff,Mission Street/Field,Police Officer,5/3/1998,"141,627.20",1,28371.76,86076.15,,68549.06,"251,510.31",0,320059.37,2021
+5035,Sunga,Jimmy,Mission Street/Field,Police Officer,6/13/2021,"105,726.40",1,5305.34,282.2,,2174.76,"54,345.94",0,56520.7,2021
+4733,Surry,RayDarius,Mission Street/Field,Police Officer,10/19/2018,"122,304.00",1,14664.68,22475.33,,36240.67,"150,938.26",0,187178.93,2021
+4720,Swiergot,Jacek,Mission Street/Field,Police Officer,2/11/2018,"122,304.00",1,11300.42,18825.53,,23525.59,"145,703.47",0,169229.06,2021
+4007,Szemeredi,Peter,Mission Street,Police Officer,12/31/2006,"141,627.20",1,31766.54,128220.17,,68549.06,"297,049.11",0,365598.17,2021
+3517,Takash,Timothy,Mission Street/Field,Police Officer,5/3/1998,"141,627.20",1,24378.92,48574.39,,68549.06,"210,015.71",0,278564.77,2021
+4698,Taktejeva,Mikaela,Mission Street/Field,Police Officer,6/14/2018,"122,304.00",1,11694.60,26630.56,,37101.05,"151,345.96",0,188447.01,2021
+4743,Tapia,Gilberto,Mission Street/Field,Police Officer,10/19/2018,"122,304.00",1,11708.96,11180.54,,24188.23,"134,095.90",0,158284.13,2021
+3872,Tassio,Lee,Mission Street/Field,Police Lieutenant,1/2/2005,"172,099.20",1,40537.65,47887.96,,56693.61,"247,065.61",0,303759.22,2021
+3636,Tatom,Mario,Mission Street,Police Officer,6/13/1999,"141,627.20",1,37534.38,26517.44,,48585.5,"201,114.22",0,249699.72,2021
+4696,Tavares,Joseph,Mission Street/Field,Police Officer,6/14/2018,"122,304.00",1,11441.05,2328.57,,37101.05,"126,790.42",0,163891.47,2021
+4257,Taylor,Julien,Mission Street,Police Officer,9/21/2012,"141,627.20",1,21508.71,84085.44,,67362.49,"242,656.55",0,310019.04,2021
+4807,Taylor,Patrick,Mission Street/Field,Police Officer,2/11/2018,"116,563.20",1,11032.00,25703.98,,24051.26,"143,751.98",0,167803.24,2021
+3556,Templeman,Matthew,Mission Street,Police Officer,11/15/1998,"141,627.20",1,24745.83,79122.53,,68549.06,"240,930.76",0,309479.82,2021
+3871,Terrock,Katie,1st Street,Police Officer,1/2/2005,"141,627.20",1,24378.92,17083.8,,70311.86,"178,525.12",0,248836.98,2021
+4169,Tessler,Trent,Mission Street/Field,Police Sergeant,1/4/2009,"148,740.80",1,30146.76,3988.56,,49188.26,"171,197.72",0,220385.98,2021
+4415,Thandi,Parminder,Mission Street/Field,Police Officer,2/20/2015,"141,627.20",1,22048.79,62477.11,,29650.71,"217,653.90",0,247304.61,2021
+3989,Thayer,Bradley,Mission Street/Field,Police Sergeant,7/2/2006,"148,740.80",1,26240.22,18568.18,,70311.86,"181,870.80",0,252182.66,2021
+3522,Thomas,Jermaine,Mission Street/Field,Police Lieutenant,5/3/1998,"172,099.20",1,29370.30,54301.76,,76054.41,"242,312.06",0,318366.47,2021
+3752,Thompson,Garrie,1st Street,Police Sergeant,7/8/2001,"163,924.80",1,16298.20,25812.12,,71646.06,"194,417.52",0,266063.58,2021
+4071,Thompson,Jennifer,Mission Street,Police Sergeant,7/1/2007,"163,924.80",1,163924.80,,,,,,,2022
+4679,Thompson,Eugene,Mission Street/Field,Police Officer,6/14/2018,"122,304.00",1,11833.33,44866.41,,25515.77,"169,720.54",0,195236.31,2021
+4949,Thompson,Aubrey,Mission Street/Field,Police Officer,10/18/2020,"110,968.00",1,9954.24,1100.7,,31123.76,"107,488.54",0,138612.3,2021
+4952,Thompson,Destiney,Mission Street/Field,Police Officer,10/18/2020,"110,968.00",1,9954.24,6605.01,,30521,"112,992.85",0,143513.85,2021
+3421,Thoni,Jarrod,Mission Street/Field,Police Officer,4/7/1997,"141,627.20",1,24378.92,20101.59,,70311.86,"181,542.91",0,251854.77,2021
+4824,Thornley,Cayden,Mission Street/Field,Police Officer,6/20/2019,"116,563.20",1,11032.00,5774.87,,22981.34,"123,822.87",0,146804.21,2021
+3798,Tibaldi,Gina,Mission Street,Police Captain,7/7/2002,"219,689.60",1,43269.26,82520.79,,74555.91,"335,794.05",0,410349.96,2021
+4790,Timmons,Shane,Mission Street/Field,Police Officer,2/24/2019,"122,304.00",1,15406.16,20009.74,,16256.78,"144,311.10",0,160567.88,2021
+3462,Tindall,Lisa,Mission Street,Police Officer,10/20/1997,"141,627.20",1,26506.03,56345.69,,56963.78,"219,914.12",0,276877.9,2021
+5041,Tolpingrud,Scott,Mission Street/Field,Police Officer,6/13/2021,"105,726.40",1,3778.78,0,,6563.52,"52,537.18",0,59100.7,2021
+4081,Tong,Thanh,Mission Street/Field,Police Officer,7/1/2007,"141,627.20",1,27805.48,16074.52,,68549.06,"180,942.40",0,249491.46,2021
+4774,Tong,Nicholas,Mission Street/Field,Police Officer,2/24/2019,"122,304.00",1,11227.98,84630.79,,36511.23,"204,753.97",0,241265.2,2021
+3687,Torres,Randy,Mission Street/Field,Police Lieutenant,7/9/2000,"189,883.20",1,36915.84,92374.49,,81407.41,"303,305.53",0,384712.94,2021
+4175,Torres,Anthony,Mission Street/Field,Police Sergeant,1/4/2009,"156,145.60",1,18785.13,32007.32,,65588.03,"189,770.05",0,255358.08,2021
+4729,Torres,Bethany,Mission Street/Field,Police Officer,10/19/2018,"122,304.00",1,11300.42,45909.16,,24655.39,"168,415.98",0,193071.37,2021
+4946,Torres,Katalina,Mission Street/Field,Police Officer,10/18/2020,"110,968.00",1,12270.58,1002.55,,11158.97,"109,706.73",0,120865.7,2021
+4957,Torres,Jordan,Mission Street/Field,Police Officer,10/18/2020,"110,968.00",1,9954.24,3626.13,,17833.5,"110,013.97",0,127847.47,2021
+3742,Tracey,Martin,Mission Street/Field,Police Officer,7/8/2001,"141,627.20",1,36419.52,16075.53,,48083.66,"189,557.45",0,237641.11,2021
+4737,Trajkovski,Filip,Mission Street/Field,Police Officer,10/19/2018,"116,563.20",1,14689.28,23126.52,,37843.85,"143,713.40",0,181557.25,2021
+3603,Tran,Ken,Mission Street,Police Lieutenant,6/13/1999,"180,772.80",1,32196.24,169104.83,,78199.27,"366,100.27",0,444299.54,2021
+4092,Tran,Bryan,Mission Street/Field,Police Sergeant,1/6/2008,"163,924.80",1,26527.25,8532.55,,73164.19,"185,378.20",0,258542.39,2021
+3018,Tran,Bach,Mission Street,Police Officer,11/30/1992,"141,627.20",1,29805.48,47882.76,,68549.06,"214,750.64",0,283299.7,2021
+4314,Tran,John,Mission Street,Police Officer,9/30/2013,"141,627.20",1,27805.48,79530.76,,42142.13,"244,398.64",0,286540.77,2021
+4966,Tran,Anthony,Mission Street/Field,Police Officer,10/18/2020,"110,968.00",1,10106.73,0,,17201.93,"106,540.33",0,123742.26,2021
+4972,Tran,Curtis,Mission Street/Field,Police Officer,10/18/2020,"110,968.00",1,9954.24,1396.62,,19589.81,"107,784.46",0,127374.27,2021
+4741,Travaglione,Ashley,Mission Street/Field,Police Officer,10/19/2018,"122,304.00",1,11356.46,17427.23,,25258.15,"139,990.09",0,165248.24,2021
+3301,Trayer,Todd,Mission Street/Field,Police Captain,9/25/1995,"209,289.60",1,34217.86,70810.29,,87970.52,"297,926.55",0,385897.07,2021
+3308,Trinh,Vinh,Mission Street,Police Officer,9/25/1995,"141,627.20",1,33573.32,0,,49188.26,"170,635.72",0,219823.98,2021
+2110T,Trinh,QuocTuan,Substation,Police Recruit,6/26/2022,"90,792.00",1,90792.00,,,,,,,2022
+4177,Troia,Vincent,Central Service Yard,Police Officer,1/4/2009,"141,627.20",1,31766.54,29872.22,,68549.06,"198,701.16",0,267250.22,2021
+3518,Troy,Thomas,Substation,Deputy Chief of Police U,5/3/1998,"276,716.00",1,31868.97,0,,108423.4,"283,253.83",0,391677.23,2021
+3632,Truong,Gary,Mission Street,Police Sergeant,6/13/1999,"163,924.80",1,27794.70,135749.8,,64469.13,"322,184.50",0,386653.63,2021
+4086,Truong,Tam,Mission Street/Field,Police Sergeant,6/15/2008,"148,740.80",1,29439.04,26525.89,,70311.86,"193,027.33",0,263339.19,2021
+4555,Tsui,Jonathan,Mission Street/Field,Police Officer,6/15/2017,"128,564.80",1,18295.07,18703.33,,26631.46,"155,596.00",0,182227.46,2021
+2118T,Tualaulelei,Arvin,Substation,Police Recruit,6/26/2022,"90,792.00",1,90792.00,,,,,,,2022
+4758,Tucker,Kevin,Mission Street/Field,Police Officer,10/19/2018,"122,304.00",1,14674.42,5007.73,,24075.46,"130,888.55",0,154964.01,2021
+4854,Tyler,Christopher,Mission Street/Field,Police Officer,2/9/2020,"141,627.20",1,16782.14,3180.79,,37066.29,"127,270.55",0,164336.84,2021
+2045T,Urango,Alonica,Mission Street/Field,Police Officer,10/17/2021,"105,726.40",1,1680.27,176.37,,773.7,"19,316.64",0,20090.34,2021
+3211,Uribe,Jose,Mission Street/Field,Police Officer,4/24/1995,"141,627.20",1,28805.48,180480.03,,56963.78,"346,347.91",0,403311.69,2021
+4782,Valadez,Kevin,Mission Street/Field,Police Officer,2/24/2019,"116,563.20",1,11121.28,21892.33,,24323.19,"141,908.81",0,166232,2021
+2116T,Valencia,Julianna,Substation,Police Recruit,6/26/2022,"90,792.00",1,90792.00,,,,,,,2022
+3985,Valentine,Steven,Mission Street/Field,Police Officer,7/2/2006,"141,627.20",1,28079.55,63415.35,,67362.49,"228,829.66",0,296192.15,2021
+4920,Valenzuela,Cassandra,Mission Street/Field,Police Officer,2/19/2020,"110,968.00",1,10978.72,7687.9,,22815.96,"119,389.02",0,142204.98,2021
+3810,Vallejo,Juan,Mission Street,Police Sergeant,11/12/1996,"163,924.80",1,34913.61,138219.53,,75375.83,"329,829.94",0,405205.77,2021
+4245,Valosek,Jennifer,Mission Street,Police Officer,9/21/2012,"141,627.20",1,27446.34,53457.02,,68549.06,"217,965.76",0,286514.82,2021
+3987,Valverde,Jonathan,Mission Street/Field,Police Officer,7/2/2006,"141,627.20",1,35193.10,12620.85,,56963.78,"184,876.35",0,241840.13,2021
+4492,Valverde,Joseph,Mission Street/Field,Police Officer,10/25/2016,"134,888.00",1,16318.71,33952.81,,40246.62,"172,901.12",0,213147.74,2021
+4542,Van Brande,Catherine,Mission Street,Police Officer,6/15/2017,"128,564.80",1,22709.74,9274.83,,16414.45,"137,993.37",0,154407.82,2021
+4692,Van Nuland,Alexander,Mission Street/Field,Police Officer,6/14/2018,"122,304.00",1,11441.05,7427.12,,25568.33,"131,888.97",0,157457.3,2021
+3829,VanDenBroeck,John,Mission Street,Police Sergeant,7/7/2002,"163,924.80",1,32559.94,10513.35,,54482.36,"195,380.49",0,249862.85,2021
+3638,Varela,Rafael,Mission Street,Police Sergeant,6/13/1999,"163,924.80",1,33014.73,76819.1,,75375.83,"266,530.63",0,341906.46,2021
+4992,Vargas,Elias,Mission Street/Field,Police Officer,2/21/2021,"110,968.00",1,6292.84,3415.49,,13904.73,"88,637.93",0,102542.66,2021
+2129T,Vargas,Carlos,Substation,Police Recruit,6/26/2022,"90,792.00",1,90792.00,,,,,,,2022
+4389,Vasquez,Jose,Mission Street,Police Officer,10/10/2014,"141,627.20",1,35193.10,82948.81,,42142.13,"255,204.31",0,297346.44,2021
+4786,Vasquez,Rene,Mission Street/Field,Police Officer,2/24/2019,"122,304.00",1,12812.76,15433.52,,36757.34,"137,141.48",0,173898.82,2021
+3607,Vaughn,Raymond,Alameda,Police Sergeant,6/13/1999,"163,924.80",1,27794.70,25669.77,,76054.41,"212,104.47",0,288158.88,2021
+4424,Vazquez,Jose,Substation,Police Officer,8/16/2015,"141,627.20",1,35193.10,34122.65,,70311.86,"206,378.15",0,276690.01,2021
+4971,Vega,Bryan,Mission Street/Field,Police Officer,10/18/2020,"110,968.00",1,9954.24,0,,19537.25,"106,387.84",0,125925.09,2021
+4455,Vellequette,Christian,Mission Street,Police Officer,2/12/2016,"141,627.20",1,12512.56,7222.79,,40250.38,"146,582.55",0,186832.93,2021
+4687,Venezio,Antonio,Mission Street/Field,Police Officer,6/14/2018,"122,304.00",1,11721.25,19000,,25515.77,"143,742.05",0,169257.82,2021
+3643,Vera,Tony,Mission Street/Field,Police Officer,1/10/2000,"141,627.20",1,27805.48,66901.56,,70311.86,"231,769.44",0,302081.3,2021
+4491,Verceluz,Vanessa,Mission Street/Field,Police Officer,10/25/2016,"134,888.00",1,18766.00,31436.98,,27814.38,"172,609.38",0,200423.76,2021
+4809,Vergano,Steve,Mission Street/Field,Police Officer,6/20/2019,"116,563.20",1,11032.00,14054.52,,24654.02,"132,102.52",0,156756.54,2021
+4266,Vergara Jr,Robert,Mission Street/Field,Police Officer,9/21/2012,"141,627.20",1,24378.92,0,,56963.78,"161,441.32",0,218405.1,2021
+3606,Vernon,Sean,Mission Street/Field,Police Officer,6/13/1999,"141,627.20",1,24378.92,106392.26,,68549.06,"267,833.58",0,336382.64,2021
+4829,Vieira,Richard,Mission Street/Field,Police Officer,6/20/2019,"116,563.20",1,14458.56,53505.24,,36239.3,"174,979.80",0,211219.1,2021
+4252,Vieira-Ribeiro,Alexandre,Mission Street/Field,Police Officer,9/21/2012,"141,627.20",1,20691.93,2732.45,,66759.73,"160,486.78",0,227246.51,2021
+4478,Villaescusa,Jesse,Mission Street/Field,Police Officer,10/25/2016,"134,888.00",1,12185.66,5013.07,,38483.82,"139,828.33",0,178312.15,2021
+4958,Villaneda,Anthony,Mission Street/Field,Police Officer,10/18/2020,"110,968.00",1,16240.78,10706.91,,10703.11,"123,381.29",0,134084.4,2021
+3410,Villanueva,Michael,Mission Street,Police Officer,5/5/1997,"141,627.20",1,24378.92,78903.81,,68549.06,"240,345.13",0,308894.19,2021
+4477,Villaruz,Jason,Mission Street,Police Officer,10/25/2016,"134,888.00",1,18795.33,39673.21,,38830.19,"181,098.14",0,219928.33,2021
+4820,Vranich,Brett,Mission Street/Field,Police Officer,6/20/2019,"116,563.20",1,11032.00,15397.37,,22981.34,"133,445.37",0,156426.71,2021
+4873,Vu,Vincent,Mission Street/Field,Police Officer,10/20/2019,"116,563.20",1,11180.80,5723.83,,22688.15,"121,848.63",0,144536.78,2021
+4943,Wagnon,Philip,Mission Street/Field,Police Officer,5/16/2021,"141,627.20",1,7101.35,1540.71,,16291.32,"98,358.65",0,114649.97,2021
+4271,Walias,Thomas,Mission Street,Police Officer,9/21/2012,"141,627.20",1,34766.54,62192.5,,68549.06,"234,021.44",0,302570.5,2021
+3922,Wallace,Martin,Mission Street,Police Sergeant,12/18/2005,"163,924.80",1,27844.70,36128.63,,77817.21,"222,613.33",0,300430.54,2021
+4068,Walsh,Mathew,Mission Street/Field,Police Officer,7/1/2007,"141,627.20",1,21191.93,123461.63,,64382.19,"281,715.96",0,346098.15,2021
+4636,Wang,Eric,Mission Street/Field,Police Officer,2/11/2018,"128,564.80",1,21220.56,20042.55,,26747.66,"156,271.11",0,183018.77,2021
+3538,Washburn,Ellen,Mission Street,Deputy Chief of Police U,5/23/1994,"276,716.00",1,30918.43,57574.32,,102473.49,"327,556.01",0,430029.5,2021
+3183,Washington,Bryant,Mission Street/Field,Police Officer,4/24/1995,"141,627.20",1,24244.19,1316.43,,56673.51,"161,771.90",0,218445.41,2021
+3942,Weger,Ashley,Mission Street,Police Sergeant,1/1/2006,"163,924.80",1,27537.05,47872.03,,63790.55,"232,243.80",0,296034.35,2021
+4258,Weidner,Brett,Mission Street/Field,Police Officer,9/21/2012,"141,627.20",1,24378.92,41367.58,,56963.78,"202,808.90",0,259772.68,2021
+4000,Welch,Ryan,Mission Street/Field,Police Sergeant,12/31/2006,"163,924.80",1,25579.83,45478.81,,69610.9,"216,062.64",0,285673.54,2021
+3704,Welker,Jessica,Substation,Police Lieutenant,1/10/2000,"180,772.80",1,31502.49,7167.43,,65743.84,"202,595.52",0,268339.36,2021
+3844,Wellman,Todd,Mission Street,Police Officer,1/5/2003,"141,627.20",1,24378.92,17356.05,,68549.06,"178,797.37",0,247346.43,2021
+4447,Wellman,Jason,Mission Street,Police Officer,10/16/2015,"141,627.20",1,23211.34,78793.36,,39753.43,"230,735.90",0,270489.33,2021
+4512,Westrup,Roger,Mission Street/Field,Police Officer,2/12/2017,"134,888.00",1,17699.61,20989.29,,25849.15,"161,630.35",0,187479.5,2021
+4104,White,Michael,Mission Street,Police Sergeant,1/6/2008,"163,924.80",1,28237.64,96310.84,,75375.83,"281,245.28",0,356621.11,2021
+3431,White,Phillip,Mission Street/Field,Police Officer,4/7/1997,"141,627.20",1,32704.04,24593.8,,60825.54,"194,360.24",0,255185.78,2021
+4625,White,Nathaniel,Mission Street/Field,Police Officer,6/15/2017,"128,564.80",1,11595.04,10670.5,,16924.79,"137,273.54",0,154198.33,2021
+4638,White,Joshua,Mission Street/Field,Police Officer,2/11/2018,"128,564.80",1,17911.60,41929.14,,25022.42,"174,848.74",0,199871.16,2021
+4581,Widmer,Grant,Mission Street/Field,Police Officer,10/20/2017,"128,564.80",1,18018.76,46662.7,,26350.21,"184,266.36",0,210616.57,2021
+3571,Williams,Jodi,Mission Street/Field,Police Lieutenant,11/15/1998,"180,772.80",1,28769.68,49330.72,,66613.99,"242,899.60",0,309513.59,2021
+4214,Williams,Scott,Mission Street/Field,Police Sergeant,9/21/2012,"156,145.60",1,22763.61,103837.76,,71993.07,"271,115.77",0,343108.84,2021
+4766,Williams,Michael,Mission Street/Field,Police Officer,8/11/2019,"141,627.20",1,33766.54,15167.19,,30556.85,"185,996.13",0,216552.98,2021
+4926,Williams,Zachary,Mission Street/Field,Police Officer,2/19/2020,"110,968.00",1,10978.72,9781.14,,34401.25,"121,482.26",0,155883.51,2021
+4930,Williams,Nicholas,Mission Street/Field,Police Officer,2/19/2020,"110,968.00",1,10978.72,13083,,22815.96,"124,784.12",0,147600.08,2021
+3316,Wilson,David,Mission Street/Field,Police Sergeant,3/11/1996,"163,924.80",1,29370.30,38752.91,,76054.41,"226,763.21",0,302817.62,2021
+3851,Wilson,Timothy,Mission Street/Field,Police Sergeant,1/5/2003,"156,145.60",1,25107.10,26603.11,,70137.29,"193,372.61",0,263509.9,2021
+4917,Wilson,Nicholas,Mission Street/Field,Police Officer,2/19/2020,"110,968.00",1,10978.72,2288.39,,22845.22,"113,989.51",0,136834.73,2021
+3776,Winco,Brian,Mission Street/Field,Police Sergeant,1/6/2002,"163,924.80",1,27487.05,50647.46,,63843.11,"234,831.31",0,298674.42,2021
+4798,Winship,Quincy,Mission Street/Field,Police Officer,2/24/2019,"122,304.00",1,12812.76,56757.63,,24569.3,"178,465.59",0,203034.89,2021
+4482,Wisniewski,Sebastian,Mission Street,Police Officer,10/25/2016,"134,888.00",1,29100.78,26263.91,,38669.23,"177,994.29",0,216663.52,2021
+2065T,Wlodkowski,Patryk,Mission Street/Field,Police Officer,10/17/2021,"105,726.40",1,2103.15,0,,1467.86,"19,563.15",0,21031.01,2021
+4282,Wolf,William,Mission Street,Police Officer,4/12/2013,"141,627.20",1,24378.92,57078.56,,42142.13,"218,519.88",0,260662.01,2021
+4950,Wollen,Grant,Mission Street/Field,Police Officer,10/18/2020,"110,968.00",1,16240.78,229.72,,10659.58,"112,904.10",0,123563.68,2021
+3692,Woolsey,David,Substation,Police Sergeant,5/29/2001,"163,924.80",1,34081.24,6856.53,,55589.01,"199,577.77",0,255166.78,2021
+4747,Wrenn,Ethan,Mission Street/Field,Police Officer,10/19/2018,"122,304.00",1,11300.42,2412.13,,25258.15,"124,918.95",0,150177.1,2021
+4799,Wynn,Christopher,Mission Street/Field,Police Officer,2/24/2019,"122,304.00",1,11121.28,172.45,,24323.19,"122,262.41",0,146585.6,2021
+2125T,Yamaguchi,Michael,Substation,Police Recruit,6/26/2022,"90,792.00",1,90792.00,,,,,,,2022
+4231,Yamamoto,Scott,Mission Street/Field,Police Officer,9/21/2012,"141,627.20",1,137062.4,29741.23,31211.54,68549.06,"198,015.17",0,266564.23,2021
+4226,Yasin,Nader,Mission Street,Police Officer,9/21/2012,"141,627.20",1,137062.4,74681.99,25740.22,68549.06,"237,484.61",0,306033.67,2021
+3824,Yates,Jeffrey,Mission Street/Field,Police Sergeant,7/7/2002,"163,924.80",1,150318.4,31263.45,32245.09,53803.39,"213,826.94",0,267630.33,2021
+4641,Yciano,Andy,Mission Street/Field,Police Officer,2/11/2018,"128,564.80",1,114267.6,105764.19,17696.71,38169.04,"237,728.50",0,275897.54,2021
+4912,Yeager,Tyler,Mission Street/Field,Police Officer,2/19/2020,"110,968.00",1,100722.4,4965.7,10978.72,22814.74,"116,666.82",0,139481.56,2021
+4342,Yee,Alan,Mission Street,Police Officer,10/11/2013,"141,627.20",1,137062.4,29381.69,13304.31,40552.18,"179,748.40",0,220300.58,2021
+3725,Young,Timothy,Mission Street,Police Sergeant,1/7/2001,"156,145.60",1,142423.2,29463.16,26932.59,70415.93,"198,818.95",0,269234.88,2021
+4442,Yue,Jonathan,Mission Street,Police Officer,10/16/2015,"141,627.20",1,128731.2,23054.99,22597.15,28770.91,"174,383.34",0,203154.25,2021
+4362,Yuen,Jared,Mission Street,Police Officer,8/17/2014,"141,627.20",1,137062.4,20626.67,24378.92,42142.13,"182,067.99",0,224210.12,2021
+4396,Zan,Jason,Mission Street/Field,Police Officer,10/10/2014,"141,627.20",1,135376.8,49696.08,23206.28,41756.17,"208,279.16",0,250035.33,2021
+4418,Zasly,Katie,Substation,Police Officer,2/20/2015,"141,627.20",1,133128,85090.69,25684.42,29650.71,"243,903.11",0,273553.82,2021
+4674,Zepeda,Saul,Mission Street/Field,Police Officer,6/14/2018,"122,304.00",1,113020.8,1971.72,17532.82,37975.65,"132,525.34",0,170500.99,2021
+4845,Zhao,Junxiang,Mission Street/Field,Police Officer,6/20/2019,"116,563.20",1,107016,21775.96,14458.56,36239.3,"143,250.52",0,179489.82,2021
+3795,Zuniga,Macedonio,1st Street,Police Lieutenant,1/6/2002,"180,772.80",1,164799.2,43009.64,32196.24,78199.27,"240,005.08",0,318204.35,2021

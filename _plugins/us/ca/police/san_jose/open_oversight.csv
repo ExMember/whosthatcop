@@ -1,0 +1,4 @@
+department_id,first_name,last_name,employment_date,star_no,salary,salary_year,overtime_pay,
+{% for cop in site.data['us']['ca']['police']['san_jose']['roster-2022-09-26'] -%}
+Unknown,{{ cop['FirstName'] }},{{ cop['LastName'] }},{{ cop['FirstHireDate'] }},{{ cop['BadgeNumber'] }},{{ cop['BasePay'] }},{{ cop['PayrollYear'] }},{{ cop['Overtime'] }}
+{% endfor -%}
