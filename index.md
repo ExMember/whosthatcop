@@ -7,6 +7,10 @@ layout: home
 Beverly Hills Police Department (BHPD)
 </a></li>
 
+<li><a href="/us/ca/police/la_verne">
+La Verne Police Department (LVPD)
+</a></li>
+
 <li><a href="/us/ca/police/los_angeles">
 Los Angeles Police Department (LAPD)
 </a></li>

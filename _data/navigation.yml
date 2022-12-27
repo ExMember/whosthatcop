@@ -3,6 +3,8 @@ primary:
     href: /us/ca/police/beverly_hills
   - text: LAPD
     href: /us/ca/police/los_angeles
+  - text: LVPD
+    href: /us/ca/police/la_verne
   - text: SJPD
     href: /us/ca/police/san_jose
   #   external: true
