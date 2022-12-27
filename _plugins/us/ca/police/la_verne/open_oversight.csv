@@ -1,0 +1,4 @@
+department_id,first_name,last_name,star_no,gender
+{% for cop in site.data['us']['ca']['police']['la_verne']['La_Verne_sworn_roster_2022-09-26'] -%}
+Unknown,{{ cop['GivenName1'] }},{{ cop['LastName'] }},{{ cop['EmployeeId'] }},{{ cop['Gender'] }}
+{% endfor -%}
